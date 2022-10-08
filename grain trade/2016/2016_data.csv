@@ -5,198 +5,254 @@
 122,Mexico,2016,corn,import
 154,Chile,2016,corn,import
 186,Turkey,2016,corn,import
-218,European Union,2016,corn,import
-250,China,2016,corn,import
-282,Colombia,2016,corn,import
-314,Sub-Saharan Africa,2016,corn,import
-346,Vietnam,2016,corn,import
-378,Ecuador,2016,corn,import
-410,Pakistan,2016,corn,import
-442,Uruguay,2016,corn,import
-474,Australia,2016,corn,import
-506,Egypt,2016,corn,import
-538,India,2016,corn,import
-570,Indonesia,2016,corn,import
-602,Israel,2016,corn,import
-634,Japan,2016,corn,import
-666,Other Europe,2016,corn,import
-698,Paraguay,2016,corn,import
-730,Philippines,2016,corn,import
-762,South Korea,2016,corn,import
-794,Thailand,2016,corn,import
-826,United Arab Emirates,2016,corn,import
-858,Canada,2016,malting barley,import
-891,European Union,2016,malting barley,import
-924,Argentina,2016,malting barley,import
-957,Mexico,2016,malting barley,import
-990,India,2016,malting barley,import
-1023,China,2016,malting barley,import
-1056,South Korea,2016,malting barley,import
-1089,Sub-Saharan Africa,2016,malting barley,import
-1122,Thailand,2016,malting barley,import
-1155,Uruguay,2016,malting barley,import
-1188,Canada,2016,oats,import
-1221,European Union,2016,oats,import
-1254,Australia,2016,oats,import
-1287,Mexico,2016,oats,import
-1320,South Korea,2016,oats,import
-1353,Chile,2016,oats,import
-1386,Japan,2016,oats,import
-1419,China,2016,oats,import
-1452,Ecuador,2016,oats,import
-1485,India,2016,oats,import
-1518,Argentina,2016,oats,import
-1551,Colombia,2016,oats,import
-1584,Israel,2016,oats,import
-1617,Other Europe,2016,oats,import
-1650,Paraguay,2016,oats,import
-1683,Philippines,2016,oats,import
-1716,Sub-Saharan Africa,2016,oats,import
-1749,Turkey,2016,oats,import
-1782,United Arab Emirates,2016,oats,import
-1815,Uruguay,2016,oats,import
-1848,Argentina,2016,other barley,import
-1880,Mexico,2016,other barley,import
-1912,European Union,2016,other barley,import
-1944,Canada,2016,other barley,import
-1976,China,2016,other barley,import
-2008,Chile,2016,other barley,import
-2040,Sub-Saharan Africa,2016,other barley,import
-2072,Uruguay,2016,other barley,import
-2104,India,2016,other barley,import
-2136,South Korea,2016,other barley,import
-2168,Brazil,2016,other barley,import
-2200,Colombia,2016,other barley,import
-2232,Turkey,2016,other barley,import
-2264,Argentina,2016,sorghum,import
-2296,Mexico,2016,sorghum,import
-2328,European Union,2016,sorghum,import
-2360,Canada,2016,sorghum,import
-2392,China,2016,sorghum,import
-2424,Chile,2016,sorghum,import
-2456,Sub-Saharan Africa,2016,sorghum,import
-2488,Uruguay,2016,sorghum,import
-2520,India,2016,sorghum,import
-2552,South Korea,2016,sorghum,import
-2584,Brazil,2016,sorghum,import
-2616,Colombia,2016,sorghum,import
-2648,Turkey,2016,sorghum,import
-2680,China,2016,corn,export
-2712,Mexico,2016,corn,export
-2744,Japan,2016,corn,export
-2776,Colombia,2016,corn,export
-2808,South Korea,2016,corn,export
-2840,Canada,2016,corn,export
-2872,Saudi Arabia,2016,corn,export
-2904,Morocco,2016,corn,export
-2936,Israel,2016,corn,export
-2968,Egypt,2016,corn,export
-3000,Vietnam,2016,corn,export
-3032,Chile,2016,corn,export
-3064,Algeria,2016,corn,export
-3096,Indonesia,2016,corn,export
-3128,Tunisia,2016,corn,export
-3160,United Arab Emirates,2016,corn,export
-3192,Ecuador,2016,corn,export
-3224,European Union,2016,corn,export
-3256,Thailand,2016,corn,export
-3288,Pakistan,2016,corn,export
-3320,Philippines,2016,corn,export
-3352,Argentina,2016,corn,export
-3384,Sub-Saharan Africa,2016,corn,export
-3416,Turkey,2016,corn,export
-3448,Brazil,2016,corn,export
-3480,Other Europe,2016,corn,export
-3512,Bangladesh,2016,corn,export
-3544,India,2016,corn,export
-3576,Australia,2016,corn,export
-3608,Iran,2016,corn,export
-3640,Paraguay,2016,corn,export
-3672,Uruguay,2016,corn,export
-3704,Canada,2016,malting barley,export
-3737,South Korea,2016,malting barley,export
-3770,European Union,2016,malting barley,export
-3803,Chile,2016,malting barley,export
-3836,China,2016,malting barley,export
-3869,India,2016,malting barley,export
-3902,Argentina,2016,malting barley,export
-3935,Australia,2016,malting barley,export
-3968,Brazil,2016,malting barley,export
-4001,Colombia,2016,malting barley,export
-4034,Ecuador,2016,malting barley,export
-4067,Egypt,2016,malting barley,export
-4100,Indonesia,2016,malting barley,export
-4133,Israel,2016,malting barley,export
-4166,Japan,2016,malting barley,export
-4199,Mexico,2016,malting barley,export
-4232,Other Europe,2016,malting barley,export
-4265,Pakistan,2016,malting barley,export
-4298,Philippines,2016,malting barley,export
-4331,Saudi Arabia,2016,malting barley,export
-4364,Sub-Saharan Africa,2016,malting barley,export
-4397,United Arab Emirates,2016,malting barley,export
-4430,Uruguay,2016,malting barley,export
-4463,China,2016,other barley,export
-4495,Sub-Saharan Africa,2016,other barley,export
-4527,Mexico,2016,other barley,export
-4559,Japan,2016,other barley,export
-4591,Canada,2016,other barley,export
-4623,European Union,2016,other barley,export
-4655,South Korea,2016,other barley,export
-4687,Uruguay,2016,other barley,export
-4719,Argentina,2016,other barley,export
-4751,Pakistan,2016,other barley,export
-4783,Tunisia,2016,other barley,export
-4815,Algeria,2016,other barley,export
-4847,Brazil,2016,other barley,export
-4879,Australia,2016,other barley,export
-4911,Thailand,2016,other barley,export
-4943,Bangladesh,2016,other barley,export
-4975,Chile,2016,other barley,export
-5007,Colombia,2016,other barley,export
-5039,Ecuador,2016,other barley,export
-5071,Egypt,2016,other barley,export
-5103,India,2016,other barley,export
-5135,Indonesia,2016,other barley,export
-5167,Iran,2016,other barley,export
-5199,Israel,2016,other barley,export
-5231,Morocco,2016,other barley,export
-5263,Other Europe,2016,other barley,export
-5295,Paraguay,2016,other barley,export
-5327,Philippines,2016,other barley,export
-5359,Saudi Arabia,2016,other barley,export
-5391,Turkey,2016,other barley,export
-5423,United Arab Emirates,2016,other barley,export
-5455,Vietnam,2016,other barley,export
-5487,China,2016,sorghum,export
-5519,Sub-Saharan Africa,2016,sorghum,export
-5551,Mexico,2016,sorghum,export
-5583,Japan,2016,sorghum,export
-5615,Canada,2016,sorghum,export
-5647,European Union,2016,sorghum,export
-5679,South Korea,2016,sorghum,export
-5711,Uruguay,2016,sorghum,export
-5743,Argentina,2016,sorghum,export
-5775,Pakistan,2016,sorghum,export
-5807,Tunisia,2016,sorghum,export
-5839,Algeria,2016,sorghum,export
-5871,Brazil,2016,sorghum,export
-5903,Australia,2016,sorghum,export
-5935,Thailand,2016,sorghum,export
-5967,Bangladesh,2016,sorghum,export
-5999,Chile,2016,sorghum,export
-6031,Colombia,2016,sorghum,export
-6063,Ecuador,2016,sorghum,export
-6095,Egypt,2016,sorghum,export
-6127,India,2016,sorghum,export
-6159,Indonesia,2016,sorghum,export
-6191,Iran,2016,sorghum,export
-6223,Israel,2016,sorghum,export
-6255,Morocco,2016,sorghum,export
-6287,Other Europe,2016,sorghum,export
-6319,Paraguay,2016,sorghum,export
-6351,Philippines,2016,sorghum,export
-6383,Saudi Arabia,2016,sorghum,export
-6415,Turkey,2016,sorghum,export
-6447,United Arab Emirates,2016,sorghum,export
-6479,Vietnam,2016,sorghum,export
+218,Peru,2016,corn,import
+250,European Union,2016,corn,import
+282,China,2016,corn,import
+314,Colombia,2016,corn,import
+346,Sub-Saharan Africa,2016,corn,import
+378,Vietnam,2016,corn,import
+410,Bolivia,2016,corn,import
+442,Ecuador,2016,corn,import
+474,Pakistan,2016,corn,import
+506,Uruguay,2016,corn,import
+538,Australia,2016,corn,import
+570,Dominican Republic,2016,corn,import
+602,Egypt,2016,corn,import
+634,Haiti,2016,corn,import
+666,Honduras,2016,corn,import
+698,India,2016,corn,import
+730,Indonesia,2016,corn,import
+762,Israel,2016,corn,import
+794,Japan,2016,corn,import
+826,Other Europe,2016,corn,import
+858,Paraguay,2016,corn,import
+890,Philippines,2016,corn,import
+922,South Korea,2016,corn,import
+954,Thailand,2016,corn,import
+986,United Arab Emirates,2016,corn,import
+1018,Canada,2016,malting barley,import
+1051,European Union,2016,malting barley,import
+1084,Argentina,2016,malting barley,import
+1117,Mexico,2016,malting barley,import
+1150,India,2016,malting barley,import
+1183,China,2016,malting barley,import
+1216,South Korea,2016,malting barley,import
+1249,Sub-Saharan Africa,2016,malting barley,import
+1282,Thailand,2016,malting barley,import
+1315,Uruguay,2016,malting barley,import
+1348,Canada,2016,oats,import
+1381,European Union,2016,oats,import
+1414,Australia,2016,oats,import
+1447,Mexico,2016,oats,import
+1480,South Korea,2016,oats,import
+1513,Chile,2016,oats,import
+1546,Japan,2016,oats,import
+1579,China,2016,oats,import
+1612,Ecuador,2016,oats,import
+1645,India,2016,oats,import
+1678,Peru,2016,oats,import
+1711,Argentina,2016,oats,import
+1744,Colombia,2016,oats,import
+1777,Israel,2016,oats,import
+1810,Jamaica,2016,oats,import
+1843,Malaysia,2016,oats,import
+1876,Other Europe,2016,oats,import
+1909,Paraguay,2016,oats,import
+1942,Philippines,2016,oats,import
+1975,Sub-Saharan Africa,2016,oats,import
+2008,Turkey,2016,oats,import
+2041,United Arab Emirates,2016,oats,import
+2074,Uruguay,2016,oats,import
+2107,Argentina,2016,other barley,import
+2139,Mexico,2016,other barley,import
+2171,European Union,2016,other barley,import
+2203,Canada,2016,other barley,import
+2235,China,2016,other barley,import
+2267,Chile,2016,other barley,import
+2299,Sub-Saharan Africa,2016,other barley,import
+2331,Uruguay,2016,other barley,import
+2363,India,2016,other barley,import
+2395,South Korea,2016,other barley,import
+2427,Bolivia,2016,other barley,import
+2459,Brazil,2016,other barley,import
+2491,Colombia,2016,other barley,import
+2523,Dominican Republic,2016,other barley,import
+2555,Haiti,2016,other barley,import
+2587,Peru,2016,other barley,import
+2619,Turkey,2016,other barley,import
+2651,Argentina,2016,sorghum,import
+2683,Mexico,2016,sorghum,import
+2715,European Union,2016,sorghum,import
+2747,Canada,2016,sorghum,import
+2779,China,2016,sorghum,import
+2811,Chile,2016,sorghum,import
+2843,Sub-Saharan Africa,2016,sorghum,import
+2875,Uruguay,2016,sorghum,import
+2907,India,2016,sorghum,import
+2939,South Korea,2016,sorghum,import
+2971,Bolivia,2016,sorghum,import
+3003,Brazil,2016,sorghum,import
+3035,Colombia,2016,sorghum,import
+3067,Dominican Republic,2016,sorghum,import
+3099,Haiti,2016,sorghum,import
+3131,Peru,2016,sorghum,import
+3163,Turkey,2016,sorghum,import
+3195,China,2016,corn,export
+3227,Mexico,2016,corn,export
+3259,Japan,2016,corn,export
+3291,Colombia,2016,corn,export
+3323,South Korea,2016,corn,export
+3355,Canada,2016,corn,export
+3387,Honduras,2016,corn,export
+3419,Peru,2016,corn,export
+3451,Saudi Arabia,2016,corn,export
+3483,Morocco,2016,corn,export
+3515,Israel,2016,corn,export
+3547,Egypt,2016,corn,export
+3579,Dominican Republic,2016,corn,export
+3611,Vietnam,2016,corn,export
+3643,Jamaica,2016,corn,export
+3675,Chile,2016,corn,export
+3707,Algeria,2016,corn,export
+3739,Indonesia,2016,corn,export
+3771,Tunisia,2016,corn,export
+3803,Jordan,2016,corn,export
+3835,United Arab Emirates,2016,corn,export
+3867,Kuwait,2016,corn,export
+3899,Ecuador,2016,corn,export
+3931,Barbados,2016,corn,export
+3963,Malaysia,2016,corn,export
+3995,European Union,2016,corn,export
+4027,Thailand,2016,corn,export
+4059,Pakistan,2016,corn,export
+4091,Haiti,2016,corn,export
+4123,Philippines,2016,corn,export
+4155,Bahamas,2016,corn,export
+4187,Argentina,2016,corn,export
+4219,Sub-Saharan Africa,2016,corn,export
+4251,Turkey,2016,corn,export
+4283,Brazil,2016,corn,export
+4315,Other Europe,2016,corn,export
+4347,Bangladesh,2016,corn,export
+4379,India,2016,corn,export
+4411,Australia,2016,corn,export
+4443,Bermuda,2016,corn,export
+4475,Bolivia,2016,corn,export
+4507,Iran,2016,corn,export
+4539,Paraguay,2016,corn,export
+4571,Qatar,2016,corn,export
+4603,Uruguay,2016,corn,export
+4635,Canada,2016,malting barley,export
+4668,South Korea,2016,malting barley,export
+4701,European Union,2016,malting barley,export
+4734,Chile,2016,malting barley,export
+4767,China,2016,malting barley,export
+4800,India,2016,malting barley,export
+4833,Peru,2016,malting barley,export
+4866,Argentina,2016,malting barley,export
+4899,Australia,2016,malting barley,export
+4932,Bahamas,2016,malting barley,export
+4965,Bermuda,2016,malting barley,export
+4998,Brazil,2016,malting barley,export
+5031,Colombia,2016,malting barley,export
+5064,Dominican Republic,2016,malting barley,export
+5097,Ecuador,2016,malting barley,export
+5130,Egypt,2016,malting barley,export
+5163,Haiti,2016,malting barley,export
+5196,Honduras,2016,malting barley,export
+5229,Indonesia,2016,malting barley,export
+5262,Israel,2016,malting barley,export
+5295,Jamaica,2016,malting barley,export
+5328,Japan,2016,malting barley,export
+5361,Mexico,2016,malting barley,export
+5394,Other Europe,2016,malting barley,export
+5427,Pakistan,2016,malting barley,export
+5460,Philippines,2016,malting barley,export
+5493,Saudi Arabia,2016,malting barley,export
+5526,Sub-Saharan Africa,2016,malting barley,export
+5559,United Arab Emirates,2016,malting barley,export
+5592,Uruguay,2016,malting barley,export
+5625,China,2016,other barley,export
+5657,Sub-Saharan Africa,2016,other barley,export
+5689,Mexico,2016,other barley,export
+5721,Japan,2016,other barley,export
+5753,Canada,2016,other barley,export
+5785,Haiti,2016,other barley,export
+5817,European Union,2016,other barley,export
+5849,South Korea,2016,other barley,export
+5881,Bolivia,2016,other barley,export
+5913,Uruguay,2016,other barley,export
+5945,Argentina,2016,other barley,export
+5977,Pakistan,2016,other barley,export
+6009,Tunisia,2016,other barley,export
+6041,Algeria,2016,other barley,export
+6073,Brazil,2016,other barley,export
+6105,Australia,2016,other barley,export
+6137,Thailand,2016,other barley,export
+6169,Bahamas,2016,other barley,export
+6201,Bangladesh,2016,other barley,export
+6233,Barbados,2016,other barley,export
+6265,Chile,2016,other barley,export
+6297,Colombia,2016,other barley,export
+6329,Dominican Republic,2016,other barley,export
+6361,Ecuador,2016,other barley,export
+6393,Egypt,2016,other barley,export
+6425,Honduras,2016,other barley,export
+6457,India,2016,other barley,export
+6489,Indonesia,2016,other barley,export
+6521,Iran,2016,other barley,export
+6553,Israel,2016,other barley,export
+6585,Jamaica,2016,other barley,export
+6617,Jordan,2016,other barley,export
+6649,Malaysia,2016,other barley,export
+6681,Morocco,2016,other barley,export
+6713,Other Europe,2016,other barley,export
+6745,Paraguay,2016,other barley,export
+6777,Peru,2016,other barley,export
+6809,Philippines,2016,other barley,export
+6841,Saudi Arabia,2016,other barley,export
+6873,Turkey,2016,other barley,export
+6905,United Arab Emirates,2016,other barley,export
+6937,Vietnam,2016,other barley,export
+6969,China,2016,sorghum,export
+7001,Sub-Saharan Africa,2016,sorghum,export
+7033,Mexico,2016,sorghum,export
+7065,Japan,2016,sorghum,export
+7097,Canada,2016,sorghum,export
+7129,Haiti,2016,sorghum,export
+7161,European Union,2016,sorghum,export
+7193,South Korea,2016,sorghum,export
+7225,Bolivia,2016,sorghum,export
+7257,Uruguay,2016,sorghum,export
+7289,Argentina,2016,sorghum,export
+7321,Pakistan,2016,sorghum,export
+7353,Tunisia,2016,sorghum,export
+7385,Algeria,2016,sorghum,export
+7417,Brazil,2016,sorghum,export
+7449,Australia,2016,sorghum,export
+7481,Thailand,2016,sorghum,export
+7513,Bahamas,2016,sorghum,export
+7545,Bangladesh,2016,sorghum,export
+7577,Barbados,2016,sorghum,export
+7609,Chile,2016,sorghum,export
+7641,Colombia,2016,sorghum,export
+7673,Dominican Republic,2016,sorghum,export
+7705,Ecuador,2016,sorghum,export
+7737,Egypt,2016,sorghum,export
+7769,Honduras,2016,sorghum,export
+7801,India,2016,sorghum,export
+7833,Indonesia,2016,sorghum,export
+7865,Iran,2016,sorghum,export
+7897,Israel,2016,sorghum,export
+7929,Jamaica,2016,sorghum,export
+7961,Jordan,2016,sorghum,export
+7993,Malaysia,2016,sorghum,export
+8025,Morocco,2016,sorghum,export
+8057,Other Europe,2016,sorghum,export
+8089,Paraguay,2016,sorghum,export
+8121,Peru,2016,sorghum,export
+8153,Philippines,2016,sorghum,export
+8185,Saudi Arabia,2016,sorghum,export
+8217,Turkey,2016,sorghum,export
+8249,United Arab Emirates,2016,sorghum,export
+8281,Vietnam,2016,sorghum,export
