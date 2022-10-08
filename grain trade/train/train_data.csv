@@ -1,0 +1,5227 @@
+,Country,Year,Grain,Direction
+0,Canada,1990,corn,import
+1,Canada,1991,corn,import
+2,Canada,1992,corn,import
+3,Canada,1993,corn,import
+4,Canada,1994,corn,import
+5,Canada,1995,corn,import
+6,Canada,1996,corn,import
+7,Canada,1997,corn,import
+8,Canada,1998,corn,import
+9,Canada,1999,corn,import
+10,Canada,1900,corn,import
+11,Canada,2001,corn,import
+12,Canada,2002,corn,import
+13,Canada,2003,corn,import
+14,Canada,2004,corn,import
+15,Canada,2005,corn,import
+16,Canada,2006,corn,import
+17,Canada,2007,corn,import
+18,Canada,2008,corn,import
+19,Canada,2009,corn,import
+20,Canada,2010,corn,import
+21,Canada,2011,corn,import
+22,Canada,2012,corn,import
+23,Canada,2013,corn,import
+24,Canada,2014,corn,import
+25,Canada,2015,corn,import
+32,Argentina,1990,corn,import
+33,Argentina,1991,corn,import
+34,Argentina,1992,corn,import
+35,Argentina,1993,corn,import
+36,Argentina,1994,corn,import
+37,Argentina,1995,corn,import
+38,Argentina,1996,corn,import
+39,Argentina,1997,corn,import
+40,Argentina,1998,corn,import
+41,Argentina,1999,corn,import
+42,Argentina,1900,corn,import
+43,Argentina,2001,corn,import
+44,Argentina,2002,corn,import
+45,Argentina,2003,corn,import
+46,Argentina,2004,corn,import
+47,Argentina,2005,corn,import
+48,Argentina,2006,corn,import
+49,Argentina,2007,corn,import
+50,Argentina,2008,corn,import
+51,Argentina,2009,corn,import
+52,Argentina,2010,corn,import
+53,Argentina,2011,corn,import
+54,Argentina,2012,corn,import
+55,Argentina,2013,corn,import
+56,Argentina,2014,corn,import
+57,Argentina,2015,corn,import
+64,Brazil,1990,corn,import
+65,Brazil,1991,corn,import
+66,Brazil,1992,corn,import
+67,Brazil,1993,corn,import
+68,Brazil,1994,corn,import
+69,Brazil,1995,corn,import
+70,Brazil,1996,corn,import
+71,Brazil,1997,corn,import
+72,Brazil,1998,corn,import
+73,Brazil,1999,corn,import
+74,Brazil,1900,corn,import
+75,Brazil,2001,corn,import
+76,Brazil,2002,corn,import
+77,Brazil,2003,corn,import
+78,Brazil,2004,corn,import
+79,Brazil,2005,corn,import
+80,Brazil,2006,corn,import
+81,Brazil,2007,corn,import
+82,Brazil,2008,corn,import
+83,Brazil,2009,corn,import
+84,Brazil,2010,corn,import
+85,Brazil,2011,corn,import
+86,Brazil,2012,corn,import
+87,Brazil,2013,corn,import
+88,Brazil,2014,corn,import
+89,Brazil,2015,corn,import
+96,Mexico,1990,corn,import
+97,Mexico,1991,corn,import
+98,Mexico,1992,corn,import
+99,Mexico,1993,corn,import
+100,Mexico,1994,corn,import
+101,Mexico,1995,corn,import
+102,Mexico,1996,corn,import
+103,Mexico,1997,corn,import
+104,Mexico,1998,corn,import
+105,Mexico,1999,corn,import
+106,Mexico,1900,corn,import
+107,Mexico,2001,corn,import
+108,Mexico,2002,corn,import
+109,Mexico,2003,corn,import
+110,Mexico,2004,corn,import
+111,Mexico,2005,corn,import
+112,Mexico,2006,corn,import
+113,Mexico,2007,corn,import
+114,Mexico,2008,corn,import
+115,Mexico,2009,corn,import
+116,Mexico,2010,corn,import
+117,Mexico,2011,corn,import
+118,Mexico,2012,corn,import
+119,Mexico,2013,corn,import
+120,Mexico,2014,corn,import
+121,Mexico,2015,corn,import
+128,Chile,1990,corn,import
+129,Chile,1991,corn,import
+130,Chile,1992,corn,import
+131,Chile,1993,corn,import
+132,Chile,1994,corn,import
+133,Chile,1995,corn,import
+134,Chile,1996,corn,import
+135,Chile,1997,corn,import
+136,Chile,1998,corn,import
+137,Chile,1999,corn,import
+138,Chile,1900,corn,import
+139,Chile,2001,corn,import
+140,Chile,2002,corn,import
+141,Chile,2003,corn,import
+142,Chile,2004,corn,import
+143,Chile,2005,corn,import
+144,Chile,2006,corn,import
+145,Chile,2007,corn,import
+146,Chile,2008,corn,import
+147,Chile,2009,corn,import
+148,Chile,2010,corn,import
+149,Chile,2011,corn,import
+150,Chile,2012,corn,import
+151,Chile,2013,corn,import
+152,Chile,2014,corn,import
+153,Chile,2015,corn,import
+160,Turkey,1990,corn,import
+161,Turkey,1991,corn,import
+162,Turkey,1992,corn,import
+163,Turkey,1993,corn,import
+164,Turkey,1994,corn,import
+165,Turkey,1995,corn,import
+166,Turkey,1996,corn,import
+167,Turkey,1997,corn,import
+168,Turkey,1998,corn,import
+169,Turkey,1999,corn,import
+170,Turkey,1900,corn,import
+171,Turkey,2001,corn,import
+172,Turkey,2002,corn,import
+173,Turkey,2003,corn,import
+174,Turkey,2004,corn,import
+175,Turkey,2005,corn,import
+176,Turkey,2006,corn,import
+177,Turkey,2007,corn,import
+178,Turkey,2008,corn,import
+179,Turkey,2009,corn,import
+180,Turkey,2010,corn,import
+181,Turkey,2011,corn,import
+182,Turkey,2012,corn,import
+183,Turkey,2013,corn,import
+184,Turkey,2014,corn,import
+185,Turkey,2015,corn,import
+192,European Union,1990,corn,import
+193,European Union,1991,corn,import
+194,European Union,1992,corn,import
+195,European Union,1993,corn,import
+196,European Union,1994,corn,import
+197,European Union,1995,corn,import
+198,European Union,1996,corn,import
+199,European Union,1997,corn,import
+200,European Union,1998,corn,import
+201,European Union,1999,corn,import
+202,European Union,1900,corn,import
+203,European Union,2001,corn,import
+204,European Union,2002,corn,import
+205,European Union,2003,corn,import
+206,European Union,2004,corn,import
+207,European Union,2005,corn,import
+208,European Union,2006,corn,import
+209,European Union,2007,corn,import
+210,European Union,2008,corn,import
+211,European Union,2009,corn,import
+212,European Union,2010,corn,import
+213,European Union,2011,corn,import
+214,European Union,2012,corn,import
+215,European Union,2013,corn,import
+216,European Union,2014,corn,import
+217,European Union,2015,corn,import
+224,China,1990,corn,import
+225,China,1991,corn,import
+226,China,1992,corn,import
+227,China,1993,corn,import
+228,China,1994,corn,import
+229,China,1995,corn,import
+230,China,1996,corn,import
+231,China,1997,corn,import
+232,China,1998,corn,import
+233,China,1999,corn,import
+234,China,1900,corn,import
+235,China,2001,corn,import
+236,China,2002,corn,import
+237,China,2003,corn,import
+238,China,2004,corn,import
+239,China,2005,corn,import
+240,China,2006,corn,import
+241,China,2007,corn,import
+242,China,2008,corn,import
+243,China,2009,corn,import
+244,China,2010,corn,import
+245,China,2011,corn,import
+246,China,2012,corn,import
+247,China,2013,corn,import
+248,China,2014,corn,import
+249,China,2015,corn,import
+256,Colombia,1990,corn,import
+257,Colombia,1991,corn,import
+258,Colombia,1992,corn,import
+259,Colombia,1993,corn,import
+260,Colombia,1994,corn,import
+261,Colombia,1995,corn,import
+262,Colombia,1996,corn,import
+263,Colombia,1997,corn,import
+264,Colombia,1998,corn,import
+265,Colombia,1999,corn,import
+266,Colombia,1900,corn,import
+267,Colombia,2001,corn,import
+268,Colombia,2002,corn,import
+269,Colombia,2003,corn,import
+270,Colombia,2004,corn,import
+271,Colombia,2005,corn,import
+272,Colombia,2006,corn,import
+273,Colombia,2007,corn,import
+274,Colombia,2008,corn,import
+275,Colombia,2009,corn,import
+276,Colombia,2010,corn,import
+277,Colombia,2011,corn,import
+278,Colombia,2012,corn,import
+279,Colombia,2013,corn,import
+280,Colombia,2014,corn,import
+281,Colombia,2015,corn,import
+288,Sub-Saharan Africa,1990,corn,import
+289,Sub-Saharan Africa,1991,corn,import
+290,Sub-Saharan Africa,1992,corn,import
+291,Sub-Saharan Africa,1993,corn,import
+292,Sub-Saharan Africa,1994,corn,import
+293,Sub-Saharan Africa,1995,corn,import
+294,Sub-Saharan Africa,1996,corn,import
+295,Sub-Saharan Africa,1997,corn,import
+296,Sub-Saharan Africa,1998,corn,import
+297,Sub-Saharan Africa,1999,corn,import
+298,Sub-Saharan Africa,1900,corn,import
+299,Sub-Saharan Africa,2001,corn,import
+300,Sub-Saharan Africa,2002,corn,import
+301,Sub-Saharan Africa,2003,corn,import
+302,Sub-Saharan Africa,2004,corn,import
+303,Sub-Saharan Africa,2005,corn,import
+304,Sub-Saharan Africa,2006,corn,import
+305,Sub-Saharan Africa,2007,corn,import
+306,Sub-Saharan Africa,2008,corn,import
+307,Sub-Saharan Africa,2009,corn,import
+308,Sub-Saharan Africa,2010,corn,import
+309,Sub-Saharan Africa,2011,corn,import
+310,Sub-Saharan Africa,2012,corn,import
+311,Sub-Saharan Africa,2013,corn,import
+312,Sub-Saharan Africa,2014,corn,import
+313,Sub-Saharan Africa,2015,corn,import
+320,Vietnam,1990,corn,import
+321,Vietnam,1991,corn,import
+322,Vietnam,1992,corn,import
+323,Vietnam,1993,corn,import
+324,Vietnam,1994,corn,import
+325,Vietnam,1995,corn,import
+326,Vietnam,1996,corn,import
+327,Vietnam,1997,corn,import
+328,Vietnam,1998,corn,import
+329,Vietnam,1999,corn,import
+330,Vietnam,1900,corn,import
+331,Vietnam,2001,corn,import
+332,Vietnam,2002,corn,import
+333,Vietnam,2003,corn,import
+334,Vietnam,2004,corn,import
+335,Vietnam,2005,corn,import
+336,Vietnam,2006,corn,import
+337,Vietnam,2007,corn,import
+338,Vietnam,2008,corn,import
+339,Vietnam,2009,corn,import
+340,Vietnam,2010,corn,import
+341,Vietnam,2011,corn,import
+342,Vietnam,2012,corn,import
+343,Vietnam,2013,corn,import
+344,Vietnam,2014,corn,import
+345,Vietnam,2015,corn,import
+352,Ecuador,1990,corn,import
+353,Ecuador,1991,corn,import
+354,Ecuador,1992,corn,import
+355,Ecuador,1993,corn,import
+356,Ecuador,1994,corn,import
+357,Ecuador,1995,corn,import
+358,Ecuador,1996,corn,import
+359,Ecuador,1997,corn,import
+360,Ecuador,1998,corn,import
+361,Ecuador,1999,corn,import
+362,Ecuador,1900,corn,import
+363,Ecuador,2001,corn,import
+364,Ecuador,2002,corn,import
+365,Ecuador,2003,corn,import
+366,Ecuador,2004,corn,import
+367,Ecuador,2005,corn,import
+368,Ecuador,2006,corn,import
+369,Ecuador,2007,corn,import
+370,Ecuador,2008,corn,import
+371,Ecuador,2009,corn,import
+372,Ecuador,2010,corn,import
+373,Ecuador,2011,corn,import
+374,Ecuador,2012,corn,import
+375,Ecuador,2013,corn,import
+376,Ecuador,2014,corn,import
+377,Ecuador,2015,corn,import
+384,Pakistan,1990,corn,import
+385,Pakistan,1991,corn,import
+386,Pakistan,1992,corn,import
+387,Pakistan,1993,corn,import
+388,Pakistan,1994,corn,import
+389,Pakistan,1995,corn,import
+390,Pakistan,1996,corn,import
+391,Pakistan,1997,corn,import
+392,Pakistan,1998,corn,import
+393,Pakistan,1999,corn,import
+394,Pakistan,1900,corn,import
+395,Pakistan,2001,corn,import
+396,Pakistan,2002,corn,import
+397,Pakistan,2003,corn,import
+398,Pakistan,2004,corn,import
+399,Pakistan,2005,corn,import
+400,Pakistan,2006,corn,import
+401,Pakistan,2007,corn,import
+402,Pakistan,2008,corn,import
+403,Pakistan,2009,corn,import
+404,Pakistan,2010,corn,import
+405,Pakistan,2011,corn,import
+406,Pakistan,2012,corn,import
+407,Pakistan,2013,corn,import
+408,Pakistan,2014,corn,import
+409,Pakistan,2015,corn,import
+416,Uruguay,1990,corn,import
+417,Uruguay,1991,corn,import
+418,Uruguay,1992,corn,import
+419,Uruguay,1993,corn,import
+420,Uruguay,1994,corn,import
+421,Uruguay,1995,corn,import
+422,Uruguay,1996,corn,import
+423,Uruguay,1997,corn,import
+424,Uruguay,1998,corn,import
+425,Uruguay,1999,corn,import
+426,Uruguay,1900,corn,import
+427,Uruguay,2001,corn,import
+428,Uruguay,2002,corn,import
+429,Uruguay,2003,corn,import
+430,Uruguay,2004,corn,import
+431,Uruguay,2005,corn,import
+432,Uruguay,2006,corn,import
+433,Uruguay,2007,corn,import
+434,Uruguay,2008,corn,import
+435,Uruguay,2009,corn,import
+436,Uruguay,2010,corn,import
+437,Uruguay,2011,corn,import
+438,Uruguay,2012,corn,import
+439,Uruguay,2013,corn,import
+440,Uruguay,2014,corn,import
+441,Uruguay,2015,corn,import
+448,Australia,1990,corn,import
+449,Australia,1991,corn,import
+450,Australia,1992,corn,import
+451,Australia,1993,corn,import
+452,Australia,1994,corn,import
+453,Australia,1995,corn,import
+454,Australia,1996,corn,import
+455,Australia,1997,corn,import
+456,Australia,1998,corn,import
+457,Australia,1999,corn,import
+458,Australia,1900,corn,import
+459,Australia,2001,corn,import
+460,Australia,2002,corn,import
+461,Australia,2003,corn,import
+462,Australia,2004,corn,import
+463,Australia,2005,corn,import
+464,Australia,2006,corn,import
+465,Australia,2007,corn,import
+466,Australia,2008,corn,import
+467,Australia,2009,corn,import
+468,Australia,2010,corn,import
+469,Australia,2011,corn,import
+470,Australia,2012,corn,import
+471,Australia,2013,corn,import
+472,Australia,2014,corn,import
+473,Australia,2015,corn,import
+480,Egypt,1990,corn,import
+481,Egypt,1991,corn,import
+482,Egypt,1992,corn,import
+483,Egypt,1993,corn,import
+484,Egypt,1994,corn,import
+485,Egypt,1995,corn,import
+486,Egypt,1996,corn,import
+487,Egypt,1997,corn,import
+488,Egypt,1998,corn,import
+489,Egypt,1999,corn,import
+490,Egypt,1900,corn,import
+491,Egypt,2001,corn,import
+492,Egypt,2002,corn,import
+493,Egypt,2003,corn,import
+494,Egypt,2004,corn,import
+495,Egypt,2005,corn,import
+496,Egypt,2006,corn,import
+497,Egypt,2007,corn,import
+498,Egypt,2008,corn,import
+499,Egypt,2009,corn,import
+500,Egypt,2010,corn,import
+501,Egypt,2011,corn,import
+502,Egypt,2012,corn,import
+503,Egypt,2013,corn,import
+504,Egypt,2014,corn,import
+505,Egypt,2015,corn,import
+512,India,1990,corn,import
+513,India,1991,corn,import
+514,India,1992,corn,import
+515,India,1993,corn,import
+516,India,1994,corn,import
+517,India,1995,corn,import
+518,India,1996,corn,import
+519,India,1997,corn,import
+520,India,1998,corn,import
+521,India,1999,corn,import
+522,India,1900,corn,import
+523,India,2001,corn,import
+524,India,2002,corn,import
+525,India,2003,corn,import
+526,India,2004,corn,import
+527,India,2005,corn,import
+528,India,2006,corn,import
+529,India,2007,corn,import
+530,India,2008,corn,import
+531,India,2009,corn,import
+532,India,2010,corn,import
+533,India,2011,corn,import
+534,India,2012,corn,import
+535,India,2013,corn,import
+536,India,2014,corn,import
+537,India,2015,corn,import
+544,Indonesia,1990,corn,import
+545,Indonesia,1991,corn,import
+546,Indonesia,1992,corn,import
+547,Indonesia,1993,corn,import
+548,Indonesia,1994,corn,import
+549,Indonesia,1995,corn,import
+550,Indonesia,1996,corn,import
+551,Indonesia,1997,corn,import
+552,Indonesia,1998,corn,import
+553,Indonesia,1999,corn,import
+554,Indonesia,1900,corn,import
+555,Indonesia,2001,corn,import
+556,Indonesia,2002,corn,import
+557,Indonesia,2003,corn,import
+558,Indonesia,2004,corn,import
+559,Indonesia,2005,corn,import
+560,Indonesia,2006,corn,import
+561,Indonesia,2007,corn,import
+562,Indonesia,2008,corn,import
+563,Indonesia,2009,corn,import
+564,Indonesia,2010,corn,import
+565,Indonesia,2011,corn,import
+566,Indonesia,2012,corn,import
+567,Indonesia,2013,corn,import
+568,Indonesia,2014,corn,import
+569,Indonesia,2015,corn,import
+576,Israel,1990,corn,import
+577,Israel,1991,corn,import
+578,Israel,1992,corn,import
+579,Israel,1993,corn,import
+580,Israel,1994,corn,import
+581,Israel,1995,corn,import
+582,Israel,1996,corn,import
+583,Israel,1997,corn,import
+584,Israel,1998,corn,import
+585,Israel,1999,corn,import
+586,Israel,1900,corn,import
+587,Israel,2001,corn,import
+588,Israel,2002,corn,import
+589,Israel,2003,corn,import
+590,Israel,2004,corn,import
+591,Israel,2005,corn,import
+592,Israel,2006,corn,import
+593,Israel,2007,corn,import
+594,Israel,2008,corn,import
+595,Israel,2009,corn,import
+596,Israel,2010,corn,import
+597,Israel,2011,corn,import
+598,Israel,2012,corn,import
+599,Israel,2013,corn,import
+600,Israel,2014,corn,import
+601,Israel,2015,corn,import
+608,Japan,1990,corn,import
+609,Japan,1991,corn,import
+610,Japan,1992,corn,import
+611,Japan,1993,corn,import
+612,Japan,1994,corn,import
+613,Japan,1995,corn,import
+614,Japan,1996,corn,import
+615,Japan,1997,corn,import
+616,Japan,1998,corn,import
+617,Japan,1999,corn,import
+618,Japan,1900,corn,import
+619,Japan,2001,corn,import
+620,Japan,2002,corn,import
+621,Japan,2003,corn,import
+622,Japan,2004,corn,import
+623,Japan,2005,corn,import
+624,Japan,2006,corn,import
+625,Japan,2007,corn,import
+626,Japan,2008,corn,import
+627,Japan,2009,corn,import
+628,Japan,2010,corn,import
+629,Japan,2011,corn,import
+630,Japan,2012,corn,import
+631,Japan,2013,corn,import
+632,Japan,2014,corn,import
+633,Japan,2015,corn,import
+640,Other Europe,1990,corn,import
+641,Other Europe,1991,corn,import
+642,Other Europe,1992,corn,import
+643,Other Europe,1993,corn,import
+644,Other Europe,1994,corn,import
+645,Other Europe,1995,corn,import
+646,Other Europe,1996,corn,import
+647,Other Europe,1997,corn,import
+648,Other Europe,1998,corn,import
+649,Other Europe,1999,corn,import
+650,Other Europe,1900,corn,import
+651,Other Europe,2001,corn,import
+652,Other Europe,2002,corn,import
+653,Other Europe,2003,corn,import
+654,Other Europe,2004,corn,import
+655,Other Europe,2005,corn,import
+656,Other Europe,2006,corn,import
+657,Other Europe,2007,corn,import
+658,Other Europe,2008,corn,import
+659,Other Europe,2009,corn,import
+660,Other Europe,2010,corn,import
+661,Other Europe,2011,corn,import
+662,Other Europe,2012,corn,import
+663,Other Europe,2013,corn,import
+664,Other Europe,2014,corn,import
+665,Other Europe,2015,corn,import
+672,Paraguay,1990,corn,import
+673,Paraguay,1991,corn,import
+674,Paraguay,1992,corn,import
+675,Paraguay,1993,corn,import
+676,Paraguay,1994,corn,import
+677,Paraguay,1995,corn,import
+678,Paraguay,1996,corn,import
+679,Paraguay,1997,corn,import
+680,Paraguay,1998,corn,import
+681,Paraguay,1999,corn,import
+682,Paraguay,1900,corn,import
+683,Paraguay,2001,corn,import
+684,Paraguay,2002,corn,import
+685,Paraguay,2003,corn,import
+686,Paraguay,2004,corn,import
+687,Paraguay,2005,corn,import
+688,Paraguay,2006,corn,import
+689,Paraguay,2007,corn,import
+690,Paraguay,2008,corn,import
+691,Paraguay,2009,corn,import
+692,Paraguay,2010,corn,import
+693,Paraguay,2011,corn,import
+694,Paraguay,2012,corn,import
+695,Paraguay,2013,corn,import
+696,Paraguay,2014,corn,import
+697,Paraguay,2015,corn,import
+704,Philippines,1990,corn,import
+705,Philippines,1991,corn,import
+706,Philippines,1992,corn,import
+707,Philippines,1993,corn,import
+708,Philippines,1994,corn,import
+709,Philippines,1995,corn,import
+710,Philippines,1996,corn,import
+711,Philippines,1997,corn,import
+712,Philippines,1998,corn,import
+713,Philippines,1999,corn,import
+714,Philippines,1900,corn,import
+715,Philippines,2001,corn,import
+716,Philippines,2002,corn,import
+717,Philippines,2003,corn,import
+718,Philippines,2004,corn,import
+719,Philippines,2005,corn,import
+720,Philippines,2006,corn,import
+721,Philippines,2007,corn,import
+722,Philippines,2008,corn,import
+723,Philippines,2009,corn,import
+724,Philippines,2010,corn,import
+725,Philippines,2011,corn,import
+726,Philippines,2012,corn,import
+727,Philippines,2013,corn,import
+728,Philippines,2014,corn,import
+729,Philippines,2015,corn,import
+736,South Korea,1990,corn,import
+737,South Korea,1991,corn,import
+738,South Korea,1992,corn,import
+739,South Korea,1993,corn,import
+740,South Korea,1994,corn,import
+741,South Korea,1995,corn,import
+742,South Korea,1996,corn,import
+743,South Korea,1997,corn,import
+744,South Korea,1998,corn,import
+745,South Korea,1999,corn,import
+746,South Korea,1900,corn,import
+747,South Korea,2001,corn,import
+748,South Korea,2002,corn,import
+749,South Korea,2003,corn,import
+750,South Korea,2004,corn,import
+751,South Korea,2005,corn,import
+752,South Korea,2006,corn,import
+753,South Korea,2007,corn,import
+754,South Korea,2008,corn,import
+755,South Korea,2009,corn,import
+756,South Korea,2010,corn,import
+757,South Korea,2011,corn,import
+758,South Korea,2012,corn,import
+759,South Korea,2013,corn,import
+760,South Korea,2014,corn,import
+761,South Korea,2015,corn,import
+768,Thailand,1990,corn,import
+769,Thailand,1991,corn,import
+770,Thailand,1992,corn,import
+771,Thailand,1993,corn,import
+772,Thailand,1994,corn,import
+773,Thailand,1995,corn,import
+774,Thailand,1996,corn,import
+775,Thailand,1997,corn,import
+776,Thailand,1998,corn,import
+777,Thailand,1999,corn,import
+778,Thailand,1900,corn,import
+779,Thailand,2001,corn,import
+780,Thailand,2002,corn,import
+781,Thailand,2003,corn,import
+782,Thailand,2004,corn,import
+783,Thailand,2005,corn,import
+784,Thailand,2006,corn,import
+785,Thailand,2007,corn,import
+786,Thailand,2008,corn,import
+787,Thailand,2009,corn,import
+788,Thailand,2010,corn,import
+789,Thailand,2011,corn,import
+790,Thailand,2012,corn,import
+791,Thailand,2013,corn,import
+792,Thailand,2014,corn,import
+793,Thailand,2015,corn,import
+800,United Arab Emirates,1990,corn,import
+801,United Arab Emirates,1991,corn,import
+802,United Arab Emirates,1992,corn,import
+803,United Arab Emirates,1993,corn,import
+804,United Arab Emirates,1994,corn,import
+805,United Arab Emirates,1995,corn,import
+806,United Arab Emirates,1996,corn,import
+807,United Arab Emirates,1997,corn,import
+808,United Arab Emirates,1998,corn,import
+809,United Arab Emirates,1999,corn,import
+810,United Arab Emirates,1900,corn,import
+811,United Arab Emirates,2001,corn,import
+812,United Arab Emirates,2002,corn,import
+813,United Arab Emirates,2003,corn,import
+814,United Arab Emirates,2004,corn,import
+815,United Arab Emirates,2005,corn,import
+816,United Arab Emirates,2006,corn,import
+817,United Arab Emirates,2007,corn,import
+818,United Arab Emirates,2008,corn,import
+819,United Arab Emirates,2009,corn,import
+820,United Arab Emirates,2010,corn,import
+821,United Arab Emirates,2011,corn,import
+822,United Arab Emirates,2012,corn,import
+823,United Arab Emirates,2013,corn,import
+824,United Arab Emirates,2014,corn,import
+825,United Arab Emirates,2015,corn,import
+832,Canada,1990,malting barley,import
+833,Canada,1991,malting barley,import
+834,Canada,1992,malting barley,import
+835,Canada,1993,malting barley,import
+836,Canada,1994,malting barley,import
+837,Canada,1995,malting barley,import
+838,Canada,1996,malting barley,import
+839,Canada,1997,malting barley,import
+840,Canada,1998,malting barley,import
+841,Canada,1999,malting barley,import
+842,Canada,1900,malting barley,import
+843,Canada,2001,malting barley,import
+844,Canada,2002,malting barley,import
+845,Canada,2003,malting barley,import
+846,Canada,2004,malting barley,import
+847,Canada,2005,malting barley,import
+848,Canada,2006,malting barley,import
+849,Canada,2007,malting barley,import
+850,Canada,2008,malting barley,import
+851,Canada,2009,malting barley,import
+852,Canada,2010,malting barley,import
+853,Canada,2011,malting barley,import
+854,Canada,2012,malting barley,import
+855,Canada,2013,malting barley,import
+856,Canada,2014,malting barley,import
+857,Canada,2015,malting barley,import
+865,European Union,1990,malting barley,import
+866,European Union,1991,malting barley,import
+867,European Union,1992,malting barley,import
+868,European Union,1993,malting barley,import
+869,European Union,1994,malting barley,import
+870,European Union,1995,malting barley,import
+871,European Union,1996,malting barley,import
+872,European Union,1997,malting barley,import
+873,European Union,1998,malting barley,import
+874,European Union,1999,malting barley,import
+875,European Union,1900,malting barley,import
+876,European Union,2001,malting barley,import
+877,European Union,2002,malting barley,import
+878,European Union,2003,malting barley,import
+879,European Union,2004,malting barley,import
+880,European Union,2005,malting barley,import
+881,European Union,2006,malting barley,import
+882,European Union,2007,malting barley,import
+883,European Union,2008,malting barley,import
+884,European Union,2009,malting barley,import
+885,European Union,2010,malting barley,import
+886,European Union,2011,malting barley,import
+887,European Union,2012,malting barley,import
+888,European Union,2013,malting barley,import
+889,European Union,2014,malting barley,import
+890,European Union,2015,malting barley,import
+898,Argentina,1990,malting barley,import
+899,Argentina,1991,malting barley,import
+900,Argentina,1992,malting barley,import
+901,Argentina,1993,malting barley,import
+902,Argentina,1994,malting barley,import
+903,Argentina,1995,malting barley,import
+904,Argentina,1996,malting barley,import
+905,Argentina,1997,malting barley,import
+906,Argentina,1998,malting barley,import
+907,Argentina,1999,malting barley,import
+908,Argentina,1900,malting barley,import
+909,Argentina,2001,malting barley,import
+910,Argentina,2002,malting barley,import
+911,Argentina,2003,malting barley,import
+912,Argentina,2004,malting barley,import
+913,Argentina,2005,malting barley,import
+914,Argentina,2006,malting barley,import
+915,Argentina,2007,malting barley,import
+916,Argentina,2008,malting barley,import
+917,Argentina,2009,malting barley,import
+918,Argentina,2010,malting barley,import
+919,Argentina,2011,malting barley,import
+920,Argentina,2012,malting barley,import
+921,Argentina,2013,malting barley,import
+922,Argentina,2014,malting barley,import
+923,Argentina,2015,malting barley,import
+931,Mexico,1990,malting barley,import
+932,Mexico,1991,malting barley,import
+933,Mexico,1992,malting barley,import
+934,Mexico,1993,malting barley,import
+935,Mexico,1994,malting barley,import
+936,Mexico,1995,malting barley,import
+937,Mexico,1996,malting barley,import
+938,Mexico,1997,malting barley,import
+939,Mexico,1998,malting barley,import
+940,Mexico,1999,malting barley,import
+941,Mexico,1900,malting barley,import
+942,Mexico,2001,malting barley,import
+943,Mexico,2002,malting barley,import
+944,Mexico,2003,malting barley,import
+945,Mexico,2004,malting barley,import
+946,Mexico,2005,malting barley,import
+947,Mexico,2006,malting barley,import
+948,Mexico,2007,malting barley,import
+949,Mexico,2008,malting barley,import
+950,Mexico,2009,malting barley,import
+951,Mexico,2010,malting barley,import
+952,Mexico,2011,malting barley,import
+953,Mexico,2012,malting barley,import
+954,Mexico,2013,malting barley,import
+955,Mexico,2014,malting barley,import
+956,Mexico,2015,malting barley,import
+964,India,1990,malting barley,import
+965,India,1991,malting barley,import
+966,India,1992,malting barley,import
+967,India,1993,malting barley,import
+968,India,1994,malting barley,import
+969,India,1995,malting barley,import
+970,India,1996,malting barley,import
+971,India,1997,malting barley,import
+972,India,1998,malting barley,import
+973,India,1999,malting barley,import
+974,India,1900,malting barley,import
+975,India,2001,malting barley,import
+976,India,2002,malting barley,import
+977,India,2003,malting barley,import
+978,India,2004,malting barley,import
+979,India,2005,malting barley,import
+980,India,2006,malting barley,import
+981,India,2007,malting barley,import
+982,India,2008,malting barley,import
+983,India,2009,malting barley,import
+984,India,2010,malting barley,import
+985,India,2011,malting barley,import
+986,India,2012,malting barley,import
+987,India,2013,malting barley,import
+988,India,2014,malting barley,import
+989,India,2015,malting barley,import
+997,China,1990,malting barley,import
+998,China,1991,malting barley,import
+999,China,1992,malting barley,import
+1000,China,1993,malting barley,import
+1001,China,1994,malting barley,import
+1002,China,1995,malting barley,import
+1003,China,1996,malting barley,import
+1004,China,1997,malting barley,import
+1005,China,1998,malting barley,import
+1006,China,1999,malting barley,import
+1007,China,1900,malting barley,import
+1008,China,2001,malting barley,import
+1009,China,2002,malting barley,import
+1010,China,2003,malting barley,import
+1011,China,2004,malting barley,import
+1012,China,2005,malting barley,import
+1013,China,2006,malting barley,import
+1014,China,2007,malting barley,import
+1015,China,2008,malting barley,import
+1016,China,2009,malting barley,import
+1017,China,2010,malting barley,import
+1018,China,2011,malting barley,import
+1019,China,2012,malting barley,import
+1020,China,2013,malting barley,import
+1021,China,2014,malting barley,import
+1022,China,2015,malting barley,import
+1030,South Korea,1990,malting barley,import
+1031,South Korea,1991,malting barley,import
+1032,South Korea,1992,malting barley,import
+1033,South Korea,1993,malting barley,import
+1034,South Korea,1994,malting barley,import
+1035,South Korea,1995,malting barley,import
+1036,South Korea,1996,malting barley,import
+1037,South Korea,1997,malting barley,import
+1038,South Korea,1998,malting barley,import
+1039,South Korea,1999,malting barley,import
+1040,South Korea,1900,malting barley,import
+1041,South Korea,2001,malting barley,import
+1042,South Korea,2002,malting barley,import
+1043,South Korea,2003,malting barley,import
+1044,South Korea,2004,malting barley,import
+1045,South Korea,2005,malting barley,import
+1046,South Korea,2006,malting barley,import
+1047,South Korea,2007,malting barley,import
+1048,South Korea,2008,malting barley,import
+1049,South Korea,2009,malting barley,import
+1050,South Korea,2010,malting barley,import
+1051,South Korea,2011,malting barley,import
+1052,South Korea,2012,malting barley,import
+1053,South Korea,2013,malting barley,import
+1054,South Korea,2014,malting barley,import
+1055,South Korea,2015,malting barley,import
+1063,Sub-Saharan Africa,1990,malting barley,import
+1064,Sub-Saharan Africa,1991,malting barley,import
+1065,Sub-Saharan Africa,1992,malting barley,import
+1066,Sub-Saharan Africa,1993,malting barley,import
+1067,Sub-Saharan Africa,1994,malting barley,import
+1068,Sub-Saharan Africa,1995,malting barley,import
+1069,Sub-Saharan Africa,1996,malting barley,import
+1070,Sub-Saharan Africa,1997,malting barley,import
+1071,Sub-Saharan Africa,1998,malting barley,import
+1072,Sub-Saharan Africa,1999,malting barley,import
+1073,Sub-Saharan Africa,1900,malting barley,import
+1074,Sub-Saharan Africa,2001,malting barley,import
+1075,Sub-Saharan Africa,2002,malting barley,import
+1076,Sub-Saharan Africa,2003,malting barley,import
+1077,Sub-Saharan Africa,2004,malting barley,import
+1078,Sub-Saharan Africa,2005,malting barley,import
+1079,Sub-Saharan Africa,2006,malting barley,import
+1080,Sub-Saharan Africa,2007,malting barley,import
+1081,Sub-Saharan Africa,2008,malting barley,import
+1082,Sub-Saharan Africa,2009,malting barley,import
+1083,Sub-Saharan Africa,2010,malting barley,import
+1084,Sub-Saharan Africa,2011,malting barley,import
+1085,Sub-Saharan Africa,2012,malting barley,import
+1086,Sub-Saharan Africa,2013,malting barley,import
+1087,Sub-Saharan Africa,2014,malting barley,import
+1088,Sub-Saharan Africa,2015,malting barley,import
+1096,Thailand,1990,malting barley,import
+1097,Thailand,1991,malting barley,import
+1098,Thailand,1992,malting barley,import
+1099,Thailand,1993,malting barley,import
+1100,Thailand,1994,malting barley,import
+1101,Thailand,1995,malting barley,import
+1102,Thailand,1996,malting barley,import
+1103,Thailand,1997,malting barley,import
+1104,Thailand,1998,malting barley,import
+1105,Thailand,1999,malting barley,import
+1106,Thailand,1900,malting barley,import
+1107,Thailand,2001,malting barley,import
+1108,Thailand,2002,malting barley,import
+1109,Thailand,2003,malting barley,import
+1110,Thailand,2004,malting barley,import
+1111,Thailand,2005,malting barley,import
+1112,Thailand,2006,malting barley,import
+1113,Thailand,2007,malting barley,import
+1114,Thailand,2008,malting barley,import
+1115,Thailand,2009,malting barley,import
+1116,Thailand,2010,malting barley,import
+1117,Thailand,2011,malting barley,import
+1118,Thailand,2012,malting barley,import
+1119,Thailand,2013,malting barley,import
+1120,Thailand,2014,malting barley,import
+1121,Thailand,2015,malting barley,import
+1129,Uruguay,1990,malting barley,import
+1130,Uruguay,1991,malting barley,import
+1131,Uruguay,1992,malting barley,import
+1132,Uruguay,1993,malting barley,import
+1133,Uruguay,1994,malting barley,import
+1134,Uruguay,1995,malting barley,import
+1135,Uruguay,1996,malting barley,import
+1136,Uruguay,1997,malting barley,import
+1137,Uruguay,1998,malting barley,import
+1138,Uruguay,1999,malting barley,import
+1139,Uruguay,1900,malting barley,import
+1140,Uruguay,2001,malting barley,import
+1141,Uruguay,2002,malting barley,import
+1142,Uruguay,2003,malting barley,import
+1143,Uruguay,2004,malting barley,import
+1144,Uruguay,2005,malting barley,import
+1145,Uruguay,2006,malting barley,import
+1146,Uruguay,2007,malting barley,import
+1147,Uruguay,2008,malting barley,import
+1148,Uruguay,2009,malting barley,import
+1149,Uruguay,2010,malting barley,import
+1150,Uruguay,2011,malting barley,import
+1151,Uruguay,2012,malting barley,import
+1152,Uruguay,2013,malting barley,import
+1153,Uruguay,2014,malting barley,import
+1154,Uruguay,2015,malting barley,import
+1162,Canada,1990,oats,import
+1163,Canada,1991,oats,import
+1164,Canada,1992,oats,import
+1165,Canada,1993,oats,import
+1166,Canada,1994,oats,import
+1167,Canada,1995,oats,import
+1168,Canada,1996,oats,import
+1169,Canada,1997,oats,import
+1170,Canada,1998,oats,import
+1171,Canada,1999,oats,import
+1172,Canada,1900,oats,import
+1173,Canada,2001,oats,import
+1174,Canada,2002,oats,import
+1175,Canada,2003,oats,import
+1176,Canada,2004,oats,import
+1177,Canada,2005,oats,import
+1178,Canada,2006,oats,import
+1179,Canada,2007,oats,import
+1180,Canada,2008,oats,import
+1181,Canada,2009,oats,import
+1182,Canada,2010,oats,import
+1183,Canada,2011,oats,import
+1184,Canada,2012,oats,import
+1185,Canada,2013,oats,import
+1186,Canada,2014,oats,import
+1187,Canada,2015,oats,import
+1195,European Union,1990,oats,import
+1196,European Union,1991,oats,import
+1197,European Union,1992,oats,import
+1198,European Union,1993,oats,import
+1199,European Union,1994,oats,import
+1200,European Union,1995,oats,import
+1201,European Union,1996,oats,import
+1202,European Union,1997,oats,import
+1203,European Union,1998,oats,import
+1204,European Union,1999,oats,import
+1205,European Union,1900,oats,import
+1206,European Union,2001,oats,import
+1207,European Union,2002,oats,import
+1208,European Union,2003,oats,import
+1209,European Union,2004,oats,import
+1210,European Union,2005,oats,import
+1211,European Union,2006,oats,import
+1212,European Union,2007,oats,import
+1213,European Union,2008,oats,import
+1214,European Union,2009,oats,import
+1215,European Union,2010,oats,import
+1216,European Union,2011,oats,import
+1217,European Union,2012,oats,import
+1218,European Union,2013,oats,import
+1219,European Union,2014,oats,import
+1220,European Union,2015,oats,import
+1228,Australia,1990,oats,import
+1229,Australia,1991,oats,import
+1230,Australia,1992,oats,import
+1231,Australia,1993,oats,import
+1232,Australia,1994,oats,import
+1233,Australia,1995,oats,import
+1234,Australia,1996,oats,import
+1235,Australia,1997,oats,import
+1236,Australia,1998,oats,import
+1237,Australia,1999,oats,import
+1238,Australia,1900,oats,import
+1239,Australia,2001,oats,import
+1240,Australia,2002,oats,import
+1241,Australia,2003,oats,import
+1242,Australia,2004,oats,import
+1243,Australia,2005,oats,import
+1244,Australia,2006,oats,import
+1245,Australia,2007,oats,import
+1246,Australia,2008,oats,import
+1247,Australia,2009,oats,import
+1248,Australia,2010,oats,import
+1249,Australia,2011,oats,import
+1250,Australia,2012,oats,import
+1251,Australia,2013,oats,import
+1252,Australia,2014,oats,import
+1253,Australia,2015,oats,import
+1261,Mexico,1990,oats,import
+1262,Mexico,1991,oats,import
+1263,Mexico,1992,oats,import
+1264,Mexico,1993,oats,import
+1265,Mexico,1994,oats,import
+1266,Mexico,1995,oats,import
+1267,Mexico,1996,oats,import
+1268,Mexico,1997,oats,import
+1269,Mexico,1998,oats,import
+1270,Mexico,1999,oats,import
+1271,Mexico,1900,oats,import
+1272,Mexico,2001,oats,import
+1273,Mexico,2002,oats,import
+1274,Mexico,2003,oats,import
+1275,Mexico,2004,oats,import
+1276,Mexico,2005,oats,import
+1277,Mexico,2006,oats,import
+1278,Mexico,2007,oats,import
+1279,Mexico,2008,oats,import
+1280,Mexico,2009,oats,import
+1281,Mexico,2010,oats,import
+1282,Mexico,2011,oats,import
+1283,Mexico,2012,oats,import
+1284,Mexico,2013,oats,import
+1285,Mexico,2014,oats,import
+1286,Mexico,2015,oats,import
+1294,South Korea,1990,oats,import
+1295,South Korea,1991,oats,import
+1296,South Korea,1992,oats,import
+1297,South Korea,1993,oats,import
+1298,South Korea,1994,oats,import
+1299,South Korea,1995,oats,import
+1300,South Korea,1996,oats,import
+1301,South Korea,1997,oats,import
+1302,South Korea,1998,oats,import
+1303,South Korea,1999,oats,import
+1304,South Korea,1900,oats,import
+1305,South Korea,2001,oats,import
+1306,South Korea,2002,oats,import
+1307,South Korea,2003,oats,import
+1308,South Korea,2004,oats,import
+1309,South Korea,2005,oats,import
+1310,South Korea,2006,oats,import
+1311,South Korea,2007,oats,import
+1312,South Korea,2008,oats,import
+1313,South Korea,2009,oats,import
+1314,South Korea,2010,oats,import
+1315,South Korea,2011,oats,import
+1316,South Korea,2012,oats,import
+1317,South Korea,2013,oats,import
+1318,South Korea,2014,oats,import
+1319,South Korea,2015,oats,import
+1327,Chile,1990,oats,import
+1328,Chile,1991,oats,import
+1329,Chile,1992,oats,import
+1330,Chile,1993,oats,import
+1331,Chile,1994,oats,import
+1332,Chile,1995,oats,import
+1333,Chile,1996,oats,import
+1334,Chile,1997,oats,import
+1335,Chile,1998,oats,import
+1336,Chile,1999,oats,import
+1337,Chile,1900,oats,import
+1338,Chile,2001,oats,import
+1339,Chile,2002,oats,import
+1340,Chile,2003,oats,import
+1341,Chile,2004,oats,import
+1342,Chile,2005,oats,import
+1343,Chile,2006,oats,import
+1344,Chile,2007,oats,import
+1345,Chile,2008,oats,import
+1346,Chile,2009,oats,import
+1347,Chile,2010,oats,import
+1348,Chile,2011,oats,import
+1349,Chile,2012,oats,import
+1350,Chile,2013,oats,import
+1351,Chile,2014,oats,import
+1352,Chile,2015,oats,import
+1360,Japan,1990,oats,import
+1361,Japan,1991,oats,import
+1362,Japan,1992,oats,import
+1363,Japan,1993,oats,import
+1364,Japan,1994,oats,import
+1365,Japan,1995,oats,import
+1366,Japan,1996,oats,import
+1367,Japan,1997,oats,import
+1368,Japan,1998,oats,import
+1369,Japan,1999,oats,import
+1370,Japan,1900,oats,import
+1371,Japan,2001,oats,import
+1372,Japan,2002,oats,import
+1373,Japan,2003,oats,import
+1374,Japan,2004,oats,import
+1375,Japan,2005,oats,import
+1376,Japan,2006,oats,import
+1377,Japan,2007,oats,import
+1378,Japan,2008,oats,import
+1379,Japan,2009,oats,import
+1380,Japan,2010,oats,import
+1381,Japan,2011,oats,import
+1382,Japan,2012,oats,import
+1383,Japan,2013,oats,import
+1384,Japan,2014,oats,import
+1385,Japan,2015,oats,import
+1393,China,1990,oats,import
+1394,China,1991,oats,import
+1395,China,1992,oats,import
+1396,China,1993,oats,import
+1397,China,1994,oats,import
+1398,China,1995,oats,import
+1399,China,1996,oats,import
+1400,China,1997,oats,import
+1401,China,1998,oats,import
+1402,China,1999,oats,import
+1403,China,1900,oats,import
+1404,China,2001,oats,import
+1405,China,2002,oats,import
+1406,China,2003,oats,import
+1407,China,2004,oats,import
+1408,China,2005,oats,import
+1409,China,2006,oats,import
+1410,China,2007,oats,import
+1411,China,2008,oats,import
+1412,China,2009,oats,import
+1413,China,2010,oats,import
+1414,China,2011,oats,import
+1415,China,2012,oats,import
+1416,China,2013,oats,import
+1417,China,2014,oats,import
+1418,China,2015,oats,import
+1426,Ecuador,1990,oats,import
+1427,Ecuador,1991,oats,import
+1428,Ecuador,1992,oats,import
+1429,Ecuador,1993,oats,import
+1430,Ecuador,1994,oats,import
+1431,Ecuador,1995,oats,import
+1432,Ecuador,1996,oats,import
+1433,Ecuador,1997,oats,import
+1434,Ecuador,1998,oats,import
+1435,Ecuador,1999,oats,import
+1436,Ecuador,1900,oats,import
+1437,Ecuador,2001,oats,import
+1438,Ecuador,2002,oats,import
+1439,Ecuador,2003,oats,import
+1440,Ecuador,2004,oats,import
+1441,Ecuador,2005,oats,import
+1442,Ecuador,2006,oats,import
+1443,Ecuador,2007,oats,import
+1444,Ecuador,2008,oats,import
+1445,Ecuador,2009,oats,import
+1446,Ecuador,2010,oats,import
+1447,Ecuador,2011,oats,import
+1448,Ecuador,2012,oats,import
+1449,Ecuador,2013,oats,import
+1450,Ecuador,2014,oats,import
+1451,Ecuador,2015,oats,import
+1459,India,1990,oats,import
+1460,India,1991,oats,import
+1461,India,1992,oats,import
+1462,India,1993,oats,import
+1463,India,1994,oats,import
+1464,India,1995,oats,import
+1465,India,1996,oats,import
+1466,India,1997,oats,import
+1467,India,1998,oats,import
+1468,India,1999,oats,import
+1469,India,1900,oats,import
+1470,India,2001,oats,import
+1471,India,2002,oats,import
+1472,India,2003,oats,import
+1473,India,2004,oats,import
+1474,India,2005,oats,import
+1475,India,2006,oats,import
+1476,India,2007,oats,import
+1477,India,2008,oats,import
+1478,India,2009,oats,import
+1479,India,2010,oats,import
+1480,India,2011,oats,import
+1481,India,2012,oats,import
+1482,India,2013,oats,import
+1483,India,2014,oats,import
+1484,India,2015,oats,import
+1492,Argentina,1990,oats,import
+1493,Argentina,1991,oats,import
+1494,Argentina,1992,oats,import
+1495,Argentina,1993,oats,import
+1496,Argentina,1994,oats,import
+1497,Argentina,1995,oats,import
+1498,Argentina,1996,oats,import
+1499,Argentina,1997,oats,import
+1500,Argentina,1998,oats,import
+1501,Argentina,1999,oats,import
+1502,Argentina,1900,oats,import
+1503,Argentina,2001,oats,import
+1504,Argentina,2002,oats,import
+1505,Argentina,2003,oats,import
+1506,Argentina,2004,oats,import
+1507,Argentina,2005,oats,import
+1508,Argentina,2006,oats,import
+1509,Argentina,2007,oats,import
+1510,Argentina,2008,oats,import
+1511,Argentina,2009,oats,import
+1512,Argentina,2010,oats,import
+1513,Argentina,2011,oats,import
+1514,Argentina,2012,oats,import
+1515,Argentina,2013,oats,import
+1516,Argentina,2014,oats,import
+1517,Argentina,2015,oats,import
+1525,Colombia,1990,oats,import
+1526,Colombia,1991,oats,import
+1527,Colombia,1992,oats,import
+1528,Colombia,1993,oats,import
+1529,Colombia,1994,oats,import
+1530,Colombia,1995,oats,import
+1531,Colombia,1996,oats,import
+1532,Colombia,1997,oats,import
+1533,Colombia,1998,oats,import
+1534,Colombia,1999,oats,import
+1535,Colombia,1900,oats,import
+1536,Colombia,2001,oats,import
+1537,Colombia,2002,oats,import
+1538,Colombia,2003,oats,import
+1539,Colombia,2004,oats,import
+1540,Colombia,2005,oats,import
+1541,Colombia,2006,oats,import
+1542,Colombia,2007,oats,import
+1543,Colombia,2008,oats,import
+1544,Colombia,2009,oats,import
+1545,Colombia,2010,oats,import
+1546,Colombia,2011,oats,import
+1547,Colombia,2012,oats,import
+1548,Colombia,2013,oats,import
+1549,Colombia,2014,oats,import
+1550,Colombia,2015,oats,import
+1558,Israel,1990,oats,import
+1559,Israel,1991,oats,import
+1560,Israel,1992,oats,import
+1561,Israel,1993,oats,import
+1562,Israel,1994,oats,import
+1563,Israel,1995,oats,import
+1564,Israel,1996,oats,import
+1565,Israel,1997,oats,import
+1566,Israel,1998,oats,import
+1567,Israel,1999,oats,import
+1568,Israel,1900,oats,import
+1569,Israel,2001,oats,import
+1570,Israel,2002,oats,import
+1571,Israel,2003,oats,import
+1572,Israel,2004,oats,import
+1573,Israel,2005,oats,import
+1574,Israel,2006,oats,import
+1575,Israel,2007,oats,import
+1576,Israel,2008,oats,import
+1577,Israel,2009,oats,import
+1578,Israel,2010,oats,import
+1579,Israel,2011,oats,import
+1580,Israel,2012,oats,import
+1581,Israel,2013,oats,import
+1582,Israel,2014,oats,import
+1583,Israel,2015,oats,import
+1591,Other Europe,1990,oats,import
+1592,Other Europe,1991,oats,import
+1593,Other Europe,1992,oats,import
+1594,Other Europe,1993,oats,import
+1595,Other Europe,1994,oats,import
+1596,Other Europe,1995,oats,import
+1597,Other Europe,1996,oats,import
+1598,Other Europe,1997,oats,import
+1599,Other Europe,1998,oats,import
+1600,Other Europe,1999,oats,import
+1601,Other Europe,1900,oats,import
+1602,Other Europe,2001,oats,import
+1603,Other Europe,2002,oats,import
+1604,Other Europe,2003,oats,import
+1605,Other Europe,2004,oats,import
+1606,Other Europe,2005,oats,import
+1607,Other Europe,2006,oats,import
+1608,Other Europe,2007,oats,import
+1609,Other Europe,2008,oats,import
+1610,Other Europe,2009,oats,import
+1611,Other Europe,2010,oats,import
+1612,Other Europe,2011,oats,import
+1613,Other Europe,2012,oats,import
+1614,Other Europe,2013,oats,import
+1615,Other Europe,2014,oats,import
+1616,Other Europe,2015,oats,import
+1624,Paraguay,1990,oats,import
+1625,Paraguay,1991,oats,import
+1626,Paraguay,1992,oats,import
+1627,Paraguay,1993,oats,import
+1628,Paraguay,1994,oats,import
+1629,Paraguay,1995,oats,import
+1630,Paraguay,1996,oats,import
+1631,Paraguay,1997,oats,import
+1632,Paraguay,1998,oats,import
+1633,Paraguay,1999,oats,import
+1634,Paraguay,1900,oats,import
+1635,Paraguay,2001,oats,import
+1636,Paraguay,2002,oats,import
+1637,Paraguay,2003,oats,import
+1638,Paraguay,2004,oats,import
+1639,Paraguay,2005,oats,import
+1640,Paraguay,2006,oats,import
+1641,Paraguay,2007,oats,import
+1642,Paraguay,2008,oats,import
+1643,Paraguay,2009,oats,import
+1644,Paraguay,2010,oats,import
+1645,Paraguay,2011,oats,import
+1646,Paraguay,2012,oats,import
+1647,Paraguay,2013,oats,import
+1648,Paraguay,2014,oats,import
+1649,Paraguay,2015,oats,import
+1657,Philippines,1990,oats,import
+1658,Philippines,1991,oats,import
+1659,Philippines,1992,oats,import
+1660,Philippines,1993,oats,import
+1661,Philippines,1994,oats,import
+1662,Philippines,1995,oats,import
+1663,Philippines,1996,oats,import
+1664,Philippines,1997,oats,import
+1665,Philippines,1998,oats,import
+1666,Philippines,1999,oats,import
+1667,Philippines,1900,oats,import
+1668,Philippines,2001,oats,import
+1669,Philippines,2002,oats,import
+1670,Philippines,2003,oats,import
+1671,Philippines,2004,oats,import
+1672,Philippines,2005,oats,import
+1673,Philippines,2006,oats,import
+1674,Philippines,2007,oats,import
+1675,Philippines,2008,oats,import
+1676,Philippines,2009,oats,import
+1677,Philippines,2010,oats,import
+1678,Philippines,2011,oats,import
+1679,Philippines,2012,oats,import
+1680,Philippines,2013,oats,import
+1681,Philippines,2014,oats,import
+1682,Philippines,2015,oats,import
+1690,Sub-Saharan Africa,1990,oats,import
+1691,Sub-Saharan Africa,1991,oats,import
+1692,Sub-Saharan Africa,1992,oats,import
+1693,Sub-Saharan Africa,1993,oats,import
+1694,Sub-Saharan Africa,1994,oats,import
+1695,Sub-Saharan Africa,1995,oats,import
+1696,Sub-Saharan Africa,1996,oats,import
+1697,Sub-Saharan Africa,1997,oats,import
+1698,Sub-Saharan Africa,1998,oats,import
+1699,Sub-Saharan Africa,1999,oats,import
+1700,Sub-Saharan Africa,1900,oats,import
+1701,Sub-Saharan Africa,2001,oats,import
+1702,Sub-Saharan Africa,2002,oats,import
+1703,Sub-Saharan Africa,2003,oats,import
+1704,Sub-Saharan Africa,2004,oats,import
+1705,Sub-Saharan Africa,2005,oats,import
+1706,Sub-Saharan Africa,2006,oats,import
+1707,Sub-Saharan Africa,2007,oats,import
+1708,Sub-Saharan Africa,2008,oats,import
+1709,Sub-Saharan Africa,2009,oats,import
+1710,Sub-Saharan Africa,2010,oats,import
+1711,Sub-Saharan Africa,2011,oats,import
+1712,Sub-Saharan Africa,2012,oats,import
+1713,Sub-Saharan Africa,2013,oats,import
+1714,Sub-Saharan Africa,2014,oats,import
+1715,Sub-Saharan Africa,2015,oats,import
+1723,Turkey,1990,oats,import
+1724,Turkey,1991,oats,import
+1725,Turkey,1992,oats,import
+1726,Turkey,1993,oats,import
+1727,Turkey,1994,oats,import
+1728,Turkey,1995,oats,import
+1729,Turkey,1996,oats,import
+1730,Turkey,1997,oats,import
+1731,Turkey,1998,oats,import
+1732,Turkey,1999,oats,import
+1733,Turkey,1900,oats,import
+1734,Turkey,2001,oats,import
+1735,Turkey,2002,oats,import
+1736,Turkey,2003,oats,import
+1737,Turkey,2004,oats,import
+1738,Turkey,2005,oats,import
+1739,Turkey,2006,oats,import
+1740,Turkey,2007,oats,import
+1741,Turkey,2008,oats,import
+1742,Turkey,2009,oats,import
+1743,Turkey,2010,oats,import
+1744,Turkey,2011,oats,import
+1745,Turkey,2012,oats,import
+1746,Turkey,2013,oats,import
+1747,Turkey,2014,oats,import
+1748,Turkey,2015,oats,import
+1756,United Arab Emirates,1990,oats,import
+1757,United Arab Emirates,1991,oats,import
+1758,United Arab Emirates,1992,oats,import
+1759,United Arab Emirates,1993,oats,import
+1760,United Arab Emirates,1994,oats,import
+1761,United Arab Emirates,1995,oats,import
+1762,United Arab Emirates,1996,oats,import
+1763,United Arab Emirates,1997,oats,import
+1764,United Arab Emirates,1998,oats,import
+1765,United Arab Emirates,1999,oats,import
+1766,United Arab Emirates,1900,oats,import
+1767,United Arab Emirates,2001,oats,import
+1768,United Arab Emirates,2002,oats,import
+1769,United Arab Emirates,2003,oats,import
+1770,United Arab Emirates,2004,oats,import
+1771,United Arab Emirates,2005,oats,import
+1772,United Arab Emirates,2006,oats,import
+1773,United Arab Emirates,2007,oats,import
+1774,United Arab Emirates,2008,oats,import
+1775,United Arab Emirates,2009,oats,import
+1776,United Arab Emirates,2010,oats,import
+1777,United Arab Emirates,2011,oats,import
+1778,United Arab Emirates,2012,oats,import
+1779,United Arab Emirates,2013,oats,import
+1780,United Arab Emirates,2014,oats,import
+1781,United Arab Emirates,2015,oats,import
+1789,Uruguay,1990,oats,import
+1790,Uruguay,1991,oats,import
+1791,Uruguay,1992,oats,import
+1792,Uruguay,1993,oats,import
+1793,Uruguay,1994,oats,import
+1794,Uruguay,1995,oats,import
+1795,Uruguay,1996,oats,import
+1796,Uruguay,1997,oats,import
+1797,Uruguay,1998,oats,import
+1798,Uruguay,1999,oats,import
+1799,Uruguay,1900,oats,import
+1800,Uruguay,2001,oats,import
+1801,Uruguay,2002,oats,import
+1802,Uruguay,2003,oats,import
+1803,Uruguay,2004,oats,import
+1804,Uruguay,2005,oats,import
+1805,Uruguay,2006,oats,import
+1806,Uruguay,2007,oats,import
+1807,Uruguay,2008,oats,import
+1808,Uruguay,2009,oats,import
+1809,Uruguay,2010,oats,import
+1810,Uruguay,2011,oats,import
+1811,Uruguay,2012,oats,import
+1812,Uruguay,2013,oats,import
+1813,Uruguay,2014,oats,import
+1814,Uruguay,2015,oats,import
+1822,Argentina,1990,other barley,import
+1823,Argentina,1991,other barley,import
+1824,Argentina,1992,other barley,import
+1825,Argentina,1993,other barley,import
+1826,Argentina,1994,other barley,import
+1827,Argentina,1995,other barley,import
+1828,Argentina,1996,other barley,import
+1829,Argentina,1997,other barley,import
+1830,Argentina,1998,other barley,import
+1831,Argentina,1999,other barley,import
+1832,Argentina,1900,other barley,import
+1833,Argentina,2001,other barley,import
+1834,Argentina,2002,other barley,import
+1835,Argentina,2003,other barley,import
+1836,Argentina,2004,other barley,import
+1837,Argentina,2005,other barley,import
+1838,Argentina,2006,other barley,import
+1839,Argentina,2007,other barley,import
+1840,Argentina,2008,other barley,import
+1841,Argentina,2009,other barley,import
+1842,Argentina,2010,other barley,import
+1843,Argentina,2011,other barley,import
+1844,Argentina,2012,other barley,import
+1845,Argentina,2013,other barley,import
+1846,Argentina,2014,other barley,import
+1847,Argentina,2015,other barley,import
+1854,Mexico,1990,other barley,import
+1855,Mexico,1991,other barley,import
+1856,Mexico,1992,other barley,import
+1857,Mexico,1993,other barley,import
+1858,Mexico,1994,other barley,import
+1859,Mexico,1995,other barley,import
+1860,Mexico,1996,other barley,import
+1861,Mexico,1997,other barley,import
+1862,Mexico,1998,other barley,import
+1863,Mexico,1999,other barley,import
+1864,Mexico,1900,other barley,import
+1865,Mexico,2001,other barley,import
+1866,Mexico,2002,other barley,import
+1867,Mexico,2003,other barley,import
+1868,Mexico,2004,other barley,import
+1869,Mexico,2005,other barley,import
+1870,Mexico,2006,other barley,import
+1871,Mexico,2007,other barley,import
+1872,Mexico,2008,other barley,import
+1873,Mexico,2009,other barley,import
+1874,Mexico,2010,other barley,import
+1875,Mexico,2011,other barley,import
+1876,Mexico,2012,other barley,import
+1877,Mexico,2013,other barley,import
+1878,Mexico,2014,other barley,import
+1879,Mexico,2015,other barley,import
+1886,European Union,1990,other barley,import
+1887,European Union,1991,other barley,import
+1888,European Union,1992,other barley,import
+1889,European Union,1993,other barley,import
+1890,European Union,1994,other barley,import
+1891,European Union,1995,other barley,import
+1892,European Union,1996,other barley,import
+1893,European Union,1997,other barley,import
+1894,European Union,1998,other barley,import
+1895,European Union,1999,other barley,import
+1896,European Union,1900,other barley,import
+1897,European Union,2001,other barley,import
+1898,European Union,2002,other barley,import
+1899,European Union,2003,other barley,import
+1900,European Union,2004,other barley,import
+1901,European Union,2005,other barley,import
+1902,European Union,2006,other barley,import
+1903,European Union,2007,other barley,import
+1904,European Union,2008,other barley,import
+1905,European Union,2009,other barley,import
+1906,European Union,2010,other barley,import
+1907,European Union,2011,other barley,import
+1908,European Union,2012,other barley,import
+1909,European Union,2013,other barley,import
+1910,European Union,2014,other barley,import
+1911,European Union,2015,other barley,import
+1918,Canada,1990,other barley,import
+1919,Canada,1991,other barley,import
+1920,Canada,1992,other barley,import
+1921,Canada,1993,other barley,import
+1922,Canada,1994,other barley,import
+1923,Canada,1995,other barley,import
+1924,Canada,1996,other barley,import
+1925,Canada,1997,other barley,import
+1926,Canada,1998,other barley,import
+1927,Canada,1999,other barley,import
+1928,Canada,1900,other barley,import
+1929,Canada,2001,other barley,import
+1930,Canada,2002,other barley,import
+1931,Canada,2003,other barley,import
+1932,Canada,2004,other barley,import
+1933,Canada,2005,other barley,import
+1934,Canada,2006,other barley,import
+1935,Canada,2007,other barley,import
+1936,Canada,2008,other barley,import
+1937,Canada,2009,other barley,import
+1938,Canada,2010,other barley,import
+1939,Canada,2011,other barley,import
+1940,Canada,2012,other barley,import
+1941,Canada,2013,other barley,import
+1942,Canada,2014,other barley,import
+1943,Canada,2015,other barley,import
+1950,China,1990,other barley,import
+1951,China,1991,other barley,import
+1952,China,1992,other barley,import
+1953,China,1993,other barley,import
+1954,China,1994,other barley,import
+1955,China,1995,other barley,import
+1956,China,1996,other barley,import
+1957,China,1997,other barley,import
+1958,China,1998,other barley,import
+1959,China,1999,other barley,import
+1960,China,1900,other barley,import
+1961,China,2001,other barley,import
+1962,China,2002,other barley,import
+1963,China,2003,other barley,import
+1964,China,2004,other barley,import
+1965,China,2005,other barley,import
+1966,China,2006,other barley,import
+1967,China,2007,other barley,import
+1968,China,2008,other barley,import
+1969,China,2009,other barley,import
+1970,China,2010,other barley,import
+1971,China,2011,other barley,import
+1972,China,2012,other barley,import
+1973,China,2013,other barley,import
+1974,China,2014,other barley,import
+1975,China,2015,other barley,import
+1982,Chile,1990,other barley,import
+1983,Chile,1991,other barley,import
+1984,Chile,1992,other barley,import
+1985,Chile,1993,other barley,import
+1986,Chile,1994,other barley,import
+1987,Chile,1995,other barley,import
+1988,Chile,1996,other barley,import
+1989,Chile,1997,other barley,import
+1990,Chile,1998,other barley,import
+1991,Chile,1999,other barley,import
+1992,Chile,1900,other barley,import
+1993,Chile,2001,other barley,import
+1994,Chile,2002,other barley,import
+1995,Chile,2003,other barley,import
+1996,Chile,2004,other barley,import
+1997,Chile,2005,other barley,import
+1998,Chile,2006,other barley,import
+1999,Chile,2007,other barley,import
+2000,Chile,2008,other barley,import
+2001,Chile,2009,other barley,import
+2002,Chile,2010,other barley,import
+2003,Chile,2011,other barley,import
+2004,Chile,2012,other barley,import
+2005,Chile,2013,other barley,import
+2006,Chile,2014,other barley,import
+2007,Chile,2015,other barley,import
+2014,Sub-Saharan Africa,1990,other barley,import
+2015,Sub-Saharan Africa,1991,other barley,import
+2016,Sub-Saharan Africa,1992,other barley,import
+2017,Sub-Saharan Africa,1993,other barley,import
+2018,Sub-Saharan Africa,1994,other barley,import
+2019,Sub-Saharan Africa,1995,other barley,import
+2020,Sub-Saharan Africa,1996,other barley,import
+2021,Sub-Saharan Africa,1997,other barley,import
+2022,Sub-Saharan Africa,1998,other barley,import
+2023,Sub-Saharan Africa,1999,other barley,import
+2024,Sub-Saharan Africa,1900,other barley,import
+2025,Sub-Saharan Africa,2001,other barley,import
+2026,Sub-Saharan Africa,2002,other barley,import
+2027,Sub-Saharan Africa,2003,other barley,import
+2028,Sub-Saharan Africa,2004,other barley,import
+2029,Sub-Saharan Africa,2005,other barley,import
+2030,Sub-Saharan Africa,2006,other barley,import
+2031,Sub-Saharan Africa,2007,other barley,import
+2032,Sub-Saharan Africa,2008,other barley,import
+2033,Sub-Saharan Africa,2009,other barley,import
+2034,Sub-Saharan Africa,2010,other barley,import
+2035,Sub-Saharan Africa,2011,other barley,import
+2036,Sub-Saharan Africa,2012,other barley,import
+2037,Sub-Saharan Africa,2013,other barley,import
+2038,Sub-Saharan Africa,2014,other barley,import
+2039,Sub-Saharan Africa,2015,other barley,import
+2046,Uruguay,1990,other barley,import
+2047,Uruguay,1991,other barley,import
+2048,Uruguay,1992,other barley,import
+2049,Uruguay,1993,other barley,import
+2050,Uruguay,1994,other barley,import
+2051,Uruguay,1995,other barley,import
+2052,Uruguay,1996,other barley,import
+2053,Uruguay,1997,other barley,import
+2054,Uruguay,1998,other barley,import
+2055,Uruguay,1999,other barley,import
+2056,Uruguay,1900,other barley,import
+2057,Uruguay,2001,other barley,import
+2058,Uruguay,2002,other barley,import
+2059,Uruguay,2003,other barley,import
+2060,Uruguay,2004,other barley,import
+2061,Uruguay,2005,other barley,import
+2062,Uruguay,2006,other barley,import
+2063,Uruguay,2007,other barley,import
+2064,Uruguay,2008,other barley,import
+2065,Uruguay,2009,other barley,import
+2066,Uruguay,2010,other barley,import
+2067,Uruguay,2011,other barley,import
+2068,Uruguay,2012,other barley,import
+2069,Uruguay,2013,other barley,import
+2070,Uruguay,2014,other barley,import
+2071,Uruguay,2015,other barley,import
+2078,India,1990,other barley,import
+2079,India,1991,other barley,import
+2080,India,1992,other barley,import
+2081,India,1993,other barley,import
+2082,India,1994,other barley,import
+2083,India,1995,other barley,import
+2084,India,1996,other barley,import
+2085,India,1997,other barley,import
+2086,India,1998,other barley,import
+2087,India,1999,other barley,import
+2088,India,1900,other barley,import
+2089,India,2001,other barley,import
+2090,India,2002,other barley,import
+2091,India,2003,other barley,import
+2092,India,2004,other barley,import
+2093,India,2005,other barley,import
+2094,India,2006,other barley,import
+2095,India,2007,other barley,import
+2096,India,2008,other barley,import
+2097,India,2009,other barley,import
+2098,India,2010,other barley,import
+2099,India,2011,other barley,import
+2100,India,2012,other barley,import
+2101,India,2013,other barley,import
+2102,India,2014,other barley,import
+2103,India,2015,other barley,import
+2110,South Korea,1990,other barley,import
+2111,South Korea,1991,other barley,import
+2112,South Korea,1992,other barley,import
+2113,South Korea,1993,other barley,import
+2114,South Korea,1994,other barley,import
+2115,South Korea,1995,other barley,import
+2116,South Korea,1996,other barley,import
+2117,South Korea,1997,other barley,import
+2118,South Korea,1998,other barley,import
+2119,South Korea,1999,other barley,import
+2120,South Korea,1900,other barley,import
+2121,South Korea,2001,other barley,import
+2122,South Korea,2002,other barley,import
+2123,South Korea,2003,other barley,import
+2124,South Korea,2004,other barley,import
+2125,South Korea,2005,other barley,import
+2126,South Korea,2006,other barley,import
+2127,South Korea,2007,other barley,import
+2128,South Korea,2008,other barley,import
+2129,South Korea,2009,other barley,import
+2130,South Korea,2010,other barley,import
+2131,South Korea,2011,other barley,import
+2132,South Korea,2012,other barley,import
+2133,South Korea,2013,other barley,import
+2134,South Korea,2014,other barley,import
+2135,South Korea,2015,other barley,import
+2142,Brazil,1990,other barley,import
+2143,Brazil,1991,other barley,import
+2144,Brazil,1992,other barley,import
+2145,Brazil,1993,other barley,import
+2146,Brazil,1994,other barley,import
+2147,Brazil,1995,other barley,import
+2148,Brazil,1996,other barley,import
+2149,Brazil,1997,other barley,import
+2150,Brazil,1998,other barley,import
+2151,Brazil,1999,other barley,import
+2152,Brazil,1900,other barley,import
+2153,Brazil,2001,other barley,import
+2154,Brazil,2002,other barley,import
+2155,Brazil,2003,other barley,import
+2156,Brazil,2004,other barley,import
+2157,Brazil,2005,other barley,import
+2158,Brazil,2006,other barley,import
+2159,Brazil,2007,other barley,import
+2160,Brazil,2008,other barley,import
+2161,Brazil,2009,other barley,import
+2162,Brazil,2010,other barley,import
+2163,Brazil,2011,other barley,import
+2164,Brazil,2012,other barley,import
+2165,Brazil,2013,other barley,import
+2166,Brazil,2014,other barley,import
+2167,Brazil,2015,other barley,import
+2174,Colombia,1990,other barley,import
+2175,Colombia,1991,other barley,import
+2176,Colombia,1992,other barley,import
+2177,Colombia,1993,other barley,import
+2178,Colombia,1994,other barley,import
+2179,Colombia,1995,other barley,import
+2180,Colombia,1996,other barley,import
+2181,Colombia,1997,other barley,import
+2182,Colombia,1998,other barley,import
+2183,Colombia,1999,other barley,import
+2184,Colombia,1900,other barley,import
+2185,Colombia,2001,other barley,import
+2186,Colombia,2002,other barley,import
+2187,Colombia,2003,other barley,import
+2188,Colombia,2004,other barley,import
+2189,Colombia,2005,other barley,import
+2190,Colombia,2006,other barley,import
+2191,Colombia,2007,other barley,import
+2192,Colombia,2008,other barley,import
+2193,Colombia,2009,other barley,import
+2194,Colombia,2010,other barley,import
+2195,Colombia,2011,other barley,import
+2196,Colombia,2012,other barley,import
+2197,Colombia,2013,other barley,import
+2198,Colombia,2014,other barley,import
+2199,Colombia,2015,other barley,import
+2206,Turkey,1990,other barley,import
+2207,Turkey,1991,other barley,import
+2208,Turkey,1992,other barley,import
+2209,Turkey,1993,other barley,import
+2210,Turkey,1994,other barley,import
+2211,Turkey,1995,other barley,import
+2212,Turkey,1996,other barley,import
+2213,Turkey,1997,other barley,import
+2214,Turkey,1998,other barley,import
+2215,Turkey,1999,other barley,import
+2216,Turkey,1900,other barley,import
+2217,Turkey,2001,other barley,import
+2218,Turkey,2002,other barley,import
+2219,Turkey,2003,other barley,import
+2220,Turkey,2004,other barley,import
+2221,Turkey,2005,other barley,import
+2222,Turkey,2006,other barley,import
+2223,Turkey,2007,other barley,import
+2224,Turkey,2008,other barley,import
+2225,Turkey,2009,other barley,import
+2226,Turkey,2010,other barley,import
+2227,Turkey,2011,other barley,import
+2228,Turkey,2012,other barley,import
+2229,Turkey,2013,other barley,import
+2230,Turkey,2014,other barley,import
+2231,Turkey,2015,other barley,import
+2238,Argentina,1990,sorghum,import
+2239,Argentina,1991,sorghum,import
+2240,Argentina,1992,sorghum,import
+2241,Argentina,1993,sorghum,import
+2242,Argentina,1994,sorghum,import
+2243,Argentina,1995,sorghum,import
+2244,Argentina,1996,sorghum,import
+2245,Argentina,1997,sorghum,import
+2246,Argentina,1998,sorghum,import
+2247,Argentina,1999,sorghum,import
+2248,Argentina,1900,sorghum,import
+2249,Argentina,2001,sorghum,import
+2250,Argentina,2002,sorghum,import
+2251,Argentina,2003,sorghum,import
+2252,Argentina,2004,sorghum,import
+2253,Argentina,2005,sorghum,import
+2254,Argentina,2006,sorghum,import
+2255,Argentina,2007,sorghum,import
+2256,Argentina,2008,sorghum,import
+2257,Argentina,2009,sorghum,import
+2258,Argentina,2010,sorghum,import
+2259,Argentina,2011,sorghum,import
+2260,Argentina,2012,sorghum,import
+2261,Argentina,2013,sorghum,import
+2262,Argentina,2014,sorghum,import
+2263,Argentina,2015,sorghum,import
+2270,Mexico,1990,sorghum,import
+2271,Mexico,1991,sorghum,import
+2272,Mexico,1992,sorghum,import
+2273,Mexico,1993,sorghum,import
+2274,Mexico,1994,sorghum,import
+2275,Mexico,1995,sorghum,import
+2276,Mexico,1996,sorghum,import
+2277,Mexico,1997,sorghum,import
+2278,Mexico,1998,sorghum,import
+2279,Mexico,1999,sorghum,import
+2280,Mexico,1900,sorghum,import
+2281,Mexico,2001,sorghum,import
+2282,Mexico,2002,sorghum,import
+2283,Mexico,2003,sorghum,import
+2284,Mexico,2004,sorghum,import
+2285,Mexico,2005,sorghum,import
+2286,Mexico,2006,sorghum,import
+2287,Mexico,2007,sorghum,import
+2288,Mexico,2008,sorghum,import
+2289,Mexico,2009,sorghum,import
+2290,Mexico,2010,sorghum,import
+2291,Mexico,2011,sorghum,import
+2292,Mexico,2012,sorghum,import
+2293,Mexico,2013,sorghum,import
+2294,Mexico,2014,sorghum,import
+2295,Mexico,2015,sorghum,import
+2302,European Union,1990,sorghum,import
+2303,European Union,1991,sorghum,import
+2304,European Union,1992,sorghum,import
+2305,European Union,1993,sorghum,import
+2306,European Union,1994,sorghum,import
+2307,European Union,1995,sorghum,import
+2308,European Union,1996,sorghum,import
+2309,European Union,1997,sorghum,import
+2310,European Union,1998,sorghum,import
+2311,European Union,1999,sorghum,import
+2312,European Union,1900,sorghum,import
+2313,European Union,2001,sorghum,import
+2314,European Union,2002,sorghum,import
+2315,European Union,2003,sorghum,import
+2316,European Union,2004,sorghum,import
+2317,European Union,2005,sorghum,import
+2318,European Union,2006,sorghum,import
+2319,European Union,2007,sorghum,import
+2320,European Union,2008,sorghum,import
+2321,European Union,2009,sorghum,import
+2322,European Union,2010,sorghum,import
+2323,European Union,2011,sorghum,import
+2324,European Union,2012,sorghum,import
+2325,European Union,2013,sorghum,import
+2326,European Union,2014,sorghum,import
+2327,European Union,2015,sorghum,import
+2334,Canada,1990,sorghum,import
+2335,Canada,1991,sorghum,import
+2336,Canada,1992,sorghum,import
+2337,Canada,1993,sorghum,import
+2338,Canada,1994,sorghum,import
+2339,Canada,1995,sorghum,import
+2340,Canada,1996,sorghum,import
+2341,Canada,1997,sorghum,import
+2342,Canada,1998,sorghum,import
+2343,Canada,1999,sorghum,import
+2344,Canada,1900,sorghum,import
+2345,Canada,2001,sorghum,import
+2346,Canada,2002,sorghum,import
+2347,Canada,2003,sorghum,import
+2348,Canada,2004,sorghum,import
+2349,Canada,2005,sorghum,import
+2350,Canada,2006,sorghum,import
+2351,Canada,2007,sorghum,import
+2352,Canada,2008,sorghum,import
+2353,Canada,2009,sorghum,import
+2354,Canada,2010,sorghum,import
+2355,Canada,2011,sorghum,import
+2356,Canada,2012,sorghum,import
+2357,Canada,2013,sorghum,import
+2358,Canada,2014,sorghum,import
+2359,Canada,2015,sorghum,import
+2366,China,1990,sorghum,import
+2367,China,1991,sorghum,import
+2368,China,1992,sorghum,import
+2369,China,1993,sorghum,import
+2370,China,1994,sorghum,import
+2371,China,1995,sorghum,import
+2372,China,1996,sorghum,import
+2373,China,1997,sorghum,import
+2374,China,1998,sorghum,import
+2375,China,1999,sorghum,import
+2376,China,1900,sorghum,import
+2377,China,2001,sorghum,import
+2378,China,2002,sorghum,import
+2379,China,2003,sorghum,import
+2380,China,2004,sorghum,import
+2381,China,2005,sorghum,import
+2382,China,2006,sorghum,import
+2383,China,2007,sorghum,import
+2384,China,2008,sorghum,import
+2385,China,2009,sorghum,import
+2386,China,2010,sorghum,import
+2387,China,2011,sorghum,import
+2388,China,2012,sorghum,import
+2389,China,2013,sorghum,import
+2390,China,2014,sorghum,import
+2391,China,2015,sorghum,import
+2398,Chile,1990,sorghum,import
+2399,Chile,1991,sorghum,import
+2400,Chile,1992,sorghum,import
+2401,Chile,1993,sorghum,import
+2402,Chile,1994,sorghum,import
+2403,Chile,1995,sorghum,import
+2404,Chile,1996,sorghum,import
+2405,Chile,1997,sorghum,import
+2406,Chile,1998,sorghum,import
+2407,Chile,1999,sorghum,import
+2408,Chile,1900,sorghum,import
+2409,Chile,2001,sorghum,import
+2410,Chile,2002,sorghum,import
+2411,Chile,2003,sorghum,import
+2412,Chile,2004,sorghum,import
+2413,Chile,2005,sorghum,import
+2414,Chile,2006,sorghum,import
+2415,Chile,2007,sorghum,import
+2416,Chile,2008,sorghum,import
+2417,Chile,2009,sorghum,import
+2418,Chile,2010,sorghum,import
+2419,Chile,2011,sorghum,import
+2420,Chile,2012,sorghum,import
+2421,Chile,2013,sorghum,import
+2422,Chile,2014,sorghum,import
+2423,Chile,2015,sorghum,import
+2430,Sub-Saharan Africa,1990,sorghum,import
+2431,Sub-Saharan Africa,1991,sorghum,import
+2432,Sub-Saharan Africa,1992,sorghum,import
+2433,Sub-Saharan Africa,1993,sorghum,import
+2434,Sub-Saharan Africa,1994,sorghum,import
+2435,Sub-Saharan Africa,1995,sorghum,import
+2436,Sub-Saharan Africa,1996,sorghum,import
+2437,Sub-Saharan Africa,1997,sorghum,import
+2438,Sub-Saharan Africa,1998,sorghum,import
+2439,Sub-Saharan Africa,1999,sorghum,import
+2440,Sub-Saharan Africa,1900,sorghum,import
+2441,Sub-Saharan Africa,2001,sorghum,import
+2442,Sub-Saharan Africa,2002,sorghum,import
+2443,Sub-Saharan Africa,2003,sorghum,import
+2444,Sub-Saharan Africa,2004,sorghum,import
+2445,Sub-Saharan Africa,2005,sorghum,import
+2446,Sub-Saharan Africa,2006,sorghum,import
+2447,Sub-Saharan Africa,2007,sorghum,import
+2448,Sub-Saharan Africa,2008,sorghum,import
+2449,Sub-Saharan Africa,2009,sorghum,import
+2450,Sub-Saharan Africa,2010,sorghum,import
+2451,Sub-Saharan Africa,2011,sorghum,import
+2452,Sub-Saharan Africa,2012,sorghum,import
+2453,Sub-Saharan Africa,2013,sorghum,import
+2454,Sub-Saharan Africa,2014,sorghum,import
+2455,Sub-Saharan Africa,2015,sorghum,import
+2462,Uruguay,1990,sorghum,import
+2463,Uruguay,1991,sorghum,import
+2464,Uruguay,1992,sorghum,import
+2465,Uruguay,1993,sorghum,import
+2466,Uruguay,1994,sorghum,import
+2467,Uruguay,1995,sorghum,import
+2468,Uruguay,1996,sorghum,import
+2469,Uruguay,1997,sorghum,import
+2470,Uruguay,1998,sorghum,import
+2471,Uruguay,1999,sorghum,import
+2472,Uruguay,1900,sorghum,import
+2473,Uruguay,2001,sorghum,import
+2474,Uruguay,2002,sorghum,import
+2475,Uruguay,2003,sorghum,import
+2476,Uruguay,2004,sorghum,import
+2477,Uruguay,2005,sorghum,import
+2478,Uruguay,2006,sorghum,import
+2479,Uruguay,2007,sorghum,import
+2480,Uruguay,2008,sorghum,import
+2481,Uruguay,2009,sorghum,import
+2482,Uruguay,2010,sorghum,import
+2483,Uruguay,2011,sorghum,import
+2484,Uruguay,2012,sorghum,import
+2485,Uruguay,2013,sorghum,import
+2486,Uruguay,2014,sorghum,import
+2487,Uruguay,2015,sorghum,import
+2494,India,1990,sorghum,import
+2495,India,1991,sorghum,import
+2496,India,1992,sorghum,import
+2497,India,1993,sorghum,import
+2498,India,1994,sorghum,import
+2499,India,1995,sorghum,import
+2500,India,1996,sorghum,import
+2501,India,1997,sorghum,import
+2502,India,1998,sorghum,import
+2503,India,1999,sorghum,import
+2504,India,1900,sorghum,import
+2505,India,2001,sorghum,import
+2506,India,2002,sorghum,import
+2507,India,2003,sorghum,import
+2508,India,2004,sorghum,import
+2509,India,2005,sorghum,import
+2510,India,2006,sorghum,import
+2511,India,2007,sorghum,import
+2512,India,2008,sorghum,import
+2513,India,2009,sorghum,import
+2514,India,2010,sorghum,import
+2515,India,2011,sorghum,import
+2516,India,2012,sorghum,import
+2517,India,2013,sorghum,import
+2518,India,2014,sorghum,import
+2519,India,2015,sorghum,import
+2526,South Korea,1990,sorghum,import
+2527,South Korea,1991,sorghum,import
+2528,South Korea,1992,sorghum,import
+2529,South Korea,1993,sorghum,import
+2530,South Korea,1994,sorghum,import
+2531,South Korea,1995,sorghum,import
+2532,South Korea,1996,sorghum,import
+2533,South Korea,1997,sorghum,import
+2534,South Korea,1998,sorghum,import
+2535,South Korea,1999,sorghum,import
+2536,South Korea,1900,sorghum,import
+2537,South Korea,2001,sorghum,import
+2538,South Korea,2002,sorghum,import
+2539,South Korea,2003,sorghum,import
+2540,South Korea,2004,sorghum,import
+2541,South Korea,2005,sorghum,import
+2542,South Korea,2006,sorghum,import
+2543,South Korea,2007,sorghum,import
+2544,South Korea,2008,sorghum,import
+2545,South Korea,2009,sorghum,import
+2546,South Korea,2010,sorghum,import
+2547,South Korea,2011,sorghum,import
+2548,South Korea,2012,sorghum,import
+2549,South Korea,2013,sorghum,import
+2550,South Korea,2014,sorghum,import
+2551,South Korea,2015,sorghum,import
+2558,Brazil,1990,sorghum,import
+2559,Brazil,1991,sorghum,import
+2560,Brazil,1992,sorghum,import
+2561,Brazil,1993,sorghum,import
+2562,Brazil,1994,sorghum,import
+2563,Brazil,1995,sorghum,import
+2564,Brazil,1996,sorghum,import
+2565,Brazil,1997,sorghum,import
+2566,Brazil,1998,sorghum,import
+2567,Brazil,1999,sorghum,import
+2568,Brazil,1900,sorghum,import
+2569,Brazil,2001,sorghum,import
+2570,Brazil,2002,sorghum,import
+2571,Brazil,2003,sorghum,import
+2572,Brazil,2004,sorghum,import
+2573,Brazil,2005,sorghum,import
+2574,Brazil,2006,sorghum,import
+2575,Brazil,2007,sorghum,import
+2576,Brazil,2008,sorghum,import
+2577,Brazil,2009,sorghum,import
+2578,Brazil,2010,sorghum,import
+2579,Brazil,2011,sorghum,import
+2580,Brazil,2012,sorghum,import
+2581,Brazil,2013,sorghum,import
+2582,Brazil,2014,sorghum,import
+2583,Brazil,2015,sorghum,import
+2590,Colombia,1990,sorghum,import
+2591,Colombia,1991,sorghum,import
+2592,Colombia,1992,sorghum,import
+2593,Colombia,1993,sorghum,import
+2594,Colombia,1994,sorghum,import
+2595,Colombia,1995,sorghum,import
+2596,Colombia,1996,sorghum,import
+2597,Colombia,1997,sorghum,import
+2598,Colombia,1998,sorghum,import
+2599,Colombia,1999,sorghum,import
+2600,Colombia,1900,sorghum,import
+2601,Colombia,2001,sorghum,import
+2602,Colombia,2002,sorghum,import
+2603,Colombia,2003,sorghum,import
+2604,Colombia,2004,sorghum,import
+2605,Colombia,2005,sorghum,import
+2606,Colombia,2006,sorghum,import
+2607,Colombia,2007,sorghum,import
+2608,Colombia,2008,sorghum,import
+2609,Colombia,2009,sorghum,import
+2610,Colombia,2010,sorghum,import
+2611,Colombia,2011,sorghum,import
+2612,Colombia,2012,sorghum,import
+2613,Colombia,2013,sorghum,import
+2614,Colombia,2014,sorghum,import
+2615,Colombia,2015,sorghum,import
+2622,Turkey,1990,sorghum,import
+2623,Turkey,1991,sorghum,import
+2624,Turkey,1992,sorghum,import
+2625,Turkey,1993,sorghum,import
+2626,Turkey,1994,sorghum,import
+2627,Turkey,1995,sorghum,import
+2628,Turkey,1996,sorghum,import
+2629,Turkey,1997,sorghum,import
+2630,Turkey,1998,sorghum,import
+2631,Turkey,1999,sorghum,import
+2632,Turkey,1900,sorghum,import
+2633,Turkey,2001,sorghum,import
+2634,Turkey,2002,sorghum,import
+2635,Turkey,2003,sorghum,import
+2636,Turkey,2004,sorghum,import
+2637,Turkey,2005,sorghum,import
+2638,Turkey,2006,sorghum,import
+2639,Turkey,2007,sorghum,import
+2640,Turkey,2008,sorghum,import
+2641,Turkey,2009,sorghum,import
+2642,Turkey,2010,sorghum,import
+2643,Turkey,2011,sorghum,import
+2644,Turkey,2012,sorghum,import
+2645,Turkey,2013,sorghum,import
+2646,Turkey,2014,sorghum,import
+2647,Turkey,2015,sorghum,import
+2654,China,1990,corn,export
+2655,China,1991,corn,export
+2656,China,1992,corn,export
+2657,China,1993,corn,export
+2658,China,1994,corn,export
+2659,China,1995,corn,export
+2660,China,1996,corn,export
+2661,China,1997,corn,export
+2662,China,1998,corn,export
+2663,China,1999,corn,export
+2664,China,1900,corn,export
+2665,China,2001,corn,export
+2666,China,2002,corn,export
+2667,China,2003,corn,export
+2668,China,2004,corn,export
+2669,China,2005,corn,export
+2670,China,2006,corn,export
+2671,China,2007,corn,export
+2672,China,2008,corn,export
+2673,China,2009,corn,export
+2674,China,2010,corn,export
+2675,China,2011,corn,export
+2676,China,2012,corn,export
+2677,China,2013,corn,export
+2678,China,2014,corn,export
+2679,China,2015,corn,export
+2686,Mexico,1990,corn,export
+2687,Mexico,1991,corn,export
+2688,Mexico,1992,corn,export
+2689,Mexico,1993,corn,export
+2690,Mexico,1994,corn,export
+2691,Mexico,1995,corn,export
+2692,Mexico,1996,corn,export
+2693,Mexico,1997,corn,export
+2694,Mexico,1998,corn,export
+2695,Mexico,1999,corn,export
+2696,Mexico,1900,corn,export
+2697,Mexico,2001,corn,export
+2698,Mexico,2002,corn,export
+2699,Mexico,2003,corn,export
+2700,Mexico,2004,corn,export
+2701,Mexico,2005,corn,export
+2702,Mexico,2006,corn,export
+2703,Mexico,2007,corn,export
+2704,Mexico,2008,corn,export
+2705,Mexico,2009,corn,export
+2706,Mexico,2010,corn,export
+2707,Mexico,2011,corn,export
+2708,Mexico,2012,corn,export
+2709,Mexico,2013,corn,export
+2710,Mexico,2014,corn,export
+2711,Mexico,2015,corn,export
+2718,Japan,1990,corn,export
+2719,Japan,1991,corn,export
+2720,Japan,1992,corn,export
+2721,Japan,1993,corn,export
+2722,Japan,1994,corn,export
+2723,Japan,1995,corn,export
+2724,Japan,1996,corn,export
+2725,Japan,1997,corn,export
+2726,Japan,1998,corn,export
+2727,Japan,1999,corn,export
+2728,Japan,1900,corn,export
+2729,Japan,2001,corn,export
+2730,Japan,2002,corn,export
+2731,Japan,2003,corn,export
+2732,Japan,2004,corn,export
+2733,Japan,2005,corn,export
+2734,Japan,2006,corn,export
+2735,Japan,2007,corn,export
+2736,Japan,2008,corn,export
+2737,Japan,2009,corn,export
+2738,Japan,2010,corn,export
+2739,Japan,2011,corn,export
+2740,Japan,2012,corn,export
+2741,Japan,2013,corn,export
+2742,Japan,2014,corn,export
+2743,Japan,2015,corn,export
+2750,Colombia,1990,corn,export
+2751,Colombia,1991,corn,export
+2752,Colombia,1992,corn,export
+2753,Colombia,1993,corn,export
+2754,Colombia,1994,corn,export
+2755,Colombia,1995,corn,export
+2756,Colombia,1996,corn,export
+2757,Colombia,1997,corn,export
+2758,Colombia,1998,corn,export
+2759,Colombia,1999,corn,export
+2760,Colombia,1900,corn,export
+2761,Colombia,2001,corn,export
+2762,Colombia,2002,corn,export
+2763,Colombia,2003,corn,export
+2764,Colombia,2004,corn,export
+2765,Colombia,2005,corn,export
+2766,Colombia,2006,corn,export
+2767,Colombia,2007,corn,export
+2768,Colombia,2008,corn,export
+2769,Colombia,2009,corn,export
+2770,Colombia,2010,corn,export
+2771,Colombia,2011,corn,export
+2772,Colombia,2012,corn,export
+2773,Colombia,2013,corn,export
+2774,Colombia,2014,corn,export
+2775,Colombia,2015,corn,export
+2782,South Korea,1990,corn,export
+2783,South Korea,1991,corn,export
+2784,South Korea,1992,corn,export
+2785,South Korea,1993,corn,export
+2786,South Korea,1994,corn,export
+2787,South Korea,1995,corn,export
+2788,South Korea,1996,corn,export
+2789,South Korea,1997,corn,export
+2790,South Korea,1998,corn,export
+2791,South Korea,1999,corn,export
+2792,South Korea,1900,corn,export
+2793,South Korea,2001,corn,export
+2794,South Korea,2002,corn,export
+2795,South Korea,2003,corn,export
+2796,South Korea,2004,corn,export
+2797,South Korea,2005,corn,export
+2798,South Korea,2006,corn,export
+2799,South Korea,2007,corn,export
+2800,South Korea,2008,corn,export
+2801,South Korea,2009,corn,export
+2802,South Korea,2010,corn,export
+2803,South Korea,2011,corn,export
+2804,South Korea,2012,corn,export
+2805,South Korea,2013,corn,export
+2806,South Korea,2014,corn,export
+2807,South Korea,2015,corn,export
+2814,Canada,1990,corn,export
+2815,Canada,1991,corn,export
+2816,Canada,1992,corn,export
+2817,Canada,1993,corn,export
+2818,Canada,1994,corn,export
+2819,Canada,1995,corn,export
+2820,Canada,1996,corn,export
+2821,Canada,1997,corn,export
+2822,Canada,1998,corn,export
+2823,Canada,1999,corn,export
+2824,Canada,1900,corn,export
+2825,Canada,2001,corn,export
+2826,Canada,2002,corn,export
+2827,Canada,2003,corn,export
+2828,Canada,2004,corn,export
+2829,Canada,2005,corn,export
+2830,Canada,2006,corn,export
+2831,Canada,2007,corn,export
+2832,Canada,2008,corn,export
+2833,Canada,2009,corn,export
+2834,Canada,2010,corn,export
+2835,Canada,2011,corn,export
+2836,Canada,2012,corn,export
+2837,Canada,2013,corn,export
+2838,Canada,2014,corn,export
+2839,Canada,2015,corn,export
+2846,Saudi Arabia,1990,corn,export
+2847,Saudi Arabia,1991,corn,export
+2848,Saudi Arabia,1992,corn,export
+2849,Saudi Arabia,1993,corn,export
+2850,Saudi Arabia,1994,corn,export
+2851,Saudi Arabia,1995,corn,export
+2852,Saudi Arabia,1996,corn,export
+2853,Saudi Arabia,1997,corn,export
+2854,Saudi Arabia,1998,corn,export
+2855,Saudi Arabia,1999,corn,export
+2856,Saudi Arabia,1900,corn,export
+2857,Saudi Arabia,2001,corn,export
+2858,Saudi Arabia,2002,corn,export
+2859,Saudi Arabia,2003,corn,export
+2860,Saudi Arabia,2004,corn,export
+2861,Saudi Arabia,2005,corn,export
+2862,Saudi Arabia,2006,corn,export
+2863,Saudi Arabia,2007,corn,export
+2864,Saudi Arabia,2008,corn,export
+2865,Saudi Arabia,2009,corn,export
+2866,Saudi Arabia,2010,corn,export
+2867,Saudi Arabia,2011,corn,export
+2868,Saudi Arabia,2012,corn,export
+2869,Saudi Arabia,2013,corn,export
+2870,Saudi Arabia,2014,corn,export
+2871,Saudi Arabia,2015,corn,export
+2878,Morocco,1990,corn,export
+2879,Morocco,1991,corn,export
+2880,Morocco,1992,corn,export
+2881,Morocco,1993,corn,export
+2882,Morocco,1994,corn,export
+2883,Morocco,1995,corn,export
+2884,Morocco,1996,corn,export
+2885,Morocco,1997,corn,export
+2886,Morocco,1998,corn,export
+2887,Morocco,1999,corn,export
+2888,Morocco,1900,corn,export
+2889,Morocco,2001,corn,export
+2890,Morocco,2002,corn,export
+2891,Morocco,2003,corn,export
+2892,Morocco,2004,corn,export
+2893,Morocco,2005,corn,export
+2894,Morocco,2006,corn,export
+2895,Morocco,2007,corn,export
+2896,Morocco,2008,corn,export
+2897,Morocco,2009,corn,export
+2898,Morocco,2010,corn,export
+2899,Morocco,2011,corn,export
+2900,Morocco,2012,corn,export
+2901,Morocco,2013,corn,export
+2902,Morocco,2014,corn,export
+2903,Morocco,2015,corn,export
+2910,Israel,1990,corn,export
+2911,Israel,1991,corn,export
+2912,Israel,1992,corn,export
+2913,Israel,1993,corn,export
+2914,Israel,1994,corn,export
+2915,Israel,1995,corn,export
+2916,Israel,1996,corn,export
+2917,Israel,1997,corn,export
+2918,Israel,1998,corn,export
+2919,Israel,1999,corn,export
+2920,Israel,1900,corn,export
+2921,Israel,2001,corn,export
+2922,Israel,2002,corn,export
+2923,Israel,2003,corn,export
+2924,Israel,2004,corn,export
+2925,Israel,2005,corn,export
+2926,Israel,2006,corn,export
+2927,Israel,2007,corn,export
+2928,Israel,2008,corn,export
+2929,Israel,2009,corn,export
+2930,Israel,2010,corn,export
+2931,Israel,2011,corn,export
+2932,Israel,2012,corn,export
+2933,Israel,2013,corn,export
+2934,Israel,2014,corn,export
+2935,Israel,2015,corn,export
+2942,Egypt,1990,corn,export
+2943,Egypt,1991,corn,export
+2944,Egypt,1992,corn,export
+2945,Egypt,1993,corn,export
+2946,Egypt,1994,corn,export
+2947,Egypt,1995,corn,export
+2948,Egypt,1996,corn,export
+2949,Egypt,1997,corn,export
+2950,Egypt,1998,corn,export
+2951,Egypt,1999,corn,export
+2952,Egypt,1900,corn,export
+2953,Egypt,2001,corn,export
+2954,Egypt,2002,corn,export
+2955,Egypt,2003,corn,export
+2956,Egypt,2004,corn,export
+2957,Egypt,2005,corn,export
+2958,Egypt,2006,corn,export
+2959,Egypt,2007,corn,export
+2960,Egypt,2008,corn,export
+2961,Egypt,2009,corn,export
+2962,Egypt,2010,corn,export
+2963,Egypt,2011,corn,export
+2964,Egypt,2012,corn,export
+2965,Egypt,2013,corn,export
+2966,Egypt,2014,corn,export
+2967,Egypt,2015,corn,export
+2974,Vietnam,1990,corn,export
+2975,Vietnam,1991,corn,export
+2976,Vietnam,1992,corn,export
+2977,Vietnam,1993,corn,export
+2978,Vietnam,1994,corn,export
+2979,Vietnam,1995,corn,export
+2980,Vietnam,1996,corn,export
+2981,Vietnam,1997,corn,export
+2982,Vietnam,1998,corn,export
+2983,Vietnam,1999,corn,export
+2984,Vietnam,1900,corn,export
+2985,Vietnam,2001,corn,export
+2986,Vietnam,2002,corn,export
+2987,Vietnam,2003,corn,export
+2988,Vietnam,2004,corn,export
+2989,Vietnam,2005,corn,export
+2990,Vietnam,2006,corn,export
+2991,Vietnam,2007,corn,export
+2992,Vietnam,2008,corn,export
+2993,Vietnam,2009,corn,export
+2994,Vietnam,2010,corn,export
+2995,Vietnam,2011,corn,export
+2996,Vietnam,2012,corn,export
+2997,Vietnam,2013,corn,export
+2998,Vietnam,2014,corn,export
+2999,Vietnam,2015,corn,export
+3006,Chile,1990,corn,export
+3007,Chile,1991,corn,export
+3008,Chile,1992,corn,export
+3009,Chile,1993,corn,export
+3010,Chile,1994,corn,export
+3011,Chile,1995,corn,export
+3012,Chile,1996,corn,export
+3013,Chile,1997,corn,export
+3014,Chile,1998,corn,export
+3015,Chile,1999,corn,export
+3016,Chile,1900,corn,export
+3017,Chile,2001,corn,export
+3018,Chile,2002,corn,export
+3019,Chile,2003,corn,export
+3020,Chile,2004,corn,export
+3021,Chile,2005,corn,export
+3022,Chile,2006,corn,export
+3023,Chile,2007,corn,export
+3024,Chile,2008,corn,export
+3025,Chile,2009,corn,export
+3026,Chile,2010,corn,export
+3027,Chile,2011,corn,export
+3028,Chile,2012,corn,export
+3029,Chile,2013,corn,export
+3030,Chile,2014,corn,export
+3031,Chile,2015,corn,export
+3038,Algeria,1990,corn,export
+3039,Algeria,1991,corn,export
+3040,Algeria,1992,corn,export
+3041,Algeria,1993,corn,export
+3042,Algeria,1994,corn,export
+3043,Algeria,1995,corn,export
+3044,Algeria,1996,corn,export
+3045,Algeria,1997,corn,export
+3046,Algeria,1998,corn,export
+3047,Algeria,1999,corn,export
+3048,Algeria,1900,corn,export
+3049,Algeria,2001,corn,export
+3050,Algeria,2002,corn,export
+3051,Algeria,2003,corn,export
+3052,Algeria,2004,corn,export
+3053,Algeria,2005,corn,export
+3054,Algeria,2006,corn,export
+3055,Algeria,2007,corn,export
+3056,Algeria,2008,corn,export
+3057,Algeria,2009,corn,export
+3058,Algeria,2010,corn,export
+3059,Algeria,2011,corn,export
+3060,Algeria,2012,corn,export
+3061,Algeria,2013,corn,export
+3062,Algeria,2014,corn,export
+3063,Algeria,2015,corn,export
+3070,Indonesia,1990,corn,export
+3071,Indonesia,1991,corn,export
+3072,Indonesia,1992,corn,export
+3073,Indonesia,1993,corn,export
+3074,Indonesia,1994,corn,export
+3075,Indonesia,1995,corn,export
+3076,Indonesia,1996,corn,export
+3077,Indonesia,1997,corn,export
+3078,Indonesia,1998,corn,export
+3079,Indonesia,1999,corn,export
+3080,Indonesia,1900,corn,export
+3081,Indonesia,2001,corn,export
+3082,Indonesia,2002,corn,export
+3083,Indonesia,2003,corn,export
+3084,Indonesia,2004,corn,export
+3085,Indonesia,2005,corn,export
+3086,Indonesia,2006,corn,export
+3087,Indonesia,2007,corn,export
+3088,Indonesia,2008,corn,export
+3089,Indonesia,2009,corn,export
+3090,Indonesia,2010,corn,export
+3091,Indonesia,2011,corn,export
+3092,Indonesia,2012,corn,export
+3093,Indonesia,2013,corn,export
+3094,Indonesia,2014,corn,export
+3095,Indonesia,2015,corn,export
+3102,Tunisia,1990,corn,export
+3103,Tunisia,1991,corn,export
+3104,Tunisia,1992,corn,export
+3105,Tunisia,1993,corn,export
+3106,Tunisia,1994,corn,export
+3107,Tunisia,1995,corn,export
+3108,Tunisia,1996,corn,export
+3109,Tunisia,1997,corn,export
+3110,Tunisia,1998,corn,export
+3111,Tunisia,1999,corn,export
+3112,Tunisia,1900,corn,export
+3113,Tunisia,2001,corn,export
+3114,Tunisia,2002,corn,export
+3115,Tunisia,2003,corn,export
+3116,Tunisia,2004,corn,export
+3117,Tunisia,2005,corn,export
+3118,Tunisia,2006,corn,export
+3119,Tunisia,2007,corn,export
+3120,Tunisia,2008,corn,export
+3121,Tunisia,2009,corn,export
+3122,Tunisia,2010,corn,export
+3123,Tunisia,2011,corn,export
+3124,Tunisia,2012,corn,export
+3125,Tunisia,2013,corn,export
+3126,Tunisia,2014,corn,export
+3127,Tunisia,2015,corn,export
+3134,United Arab Emirates,1990,corn,export
+3135,United Arab Emirates,1991,corn,export
+3136,United Arab Emirates,1992,corn,export
+3137,United Arab Emirates,1993,corn,export
+3138,United Arab Emirates,1994,corn,export
+3139,United Arab Emirates,1995,corn,export
+3140,United Arab Emirates,1996,corn,export
+3141,United Arab Emirates,1997,corn,export
+3142,United Arab Emirates,1998,corn,export
+3143,United Arab Emirates,1999,corn,export
+3144,United Arab Emirates,1900,corn,export
+3145,United Arab Emirates,2001,corn,export
+3146,United Arab Emirates,2002,corn,export
+3147,United Arab Emirates,2003,corn,export
+3148,United Arab Emirates,2004,corn,export
+3149,United Arab Emirates,2005,corn,export
+3150,United Arab Emirates,2006,corn,export
+3151,United Arab Emirates,2007,corn,export
+3152,United Arab Emirates,2008,corn,export
+3153,United Arab Emirates,2009,corn,export
+3154,United Arab Emirates,2010,corn,export
+3155,United Arab Emirates,2011,corn,export
+3156,United Arab Emirates,2012,corn,export
+3157,United Arab Emirates,2013,corn,export
+3158,United Arab Emirates,2014,corn,export
+3159,United Arab Emirates,2015,corn,export
+3166,Ecuador,1990,corn,export
+3167,Ecuador,1991,corn,export
+3168,Ecuador,1992,corn,export
+3169,Ecuador,1993,corn,export
+3170,Ecuador,1994,corn,export
+3171,Ecuador,1995,corn,export
+3172,Ecuador,1996,corn,export
+3173,Ecuador,1997,corn,export
+3174,Ecuador,1998,corn,export
+3175,Ecuador,1999,corn,export
+3176,Ecuador,1900,corn,export
+3177,Ecuador,2001,corn,export
+3178,Ecuador,2002,corn,export
+3179,Ecuador,2003,corn,export
+3180,Ecuador,2004,corn,export
+3181,Ecuador,2005,corn,export
+3182,Ecuador,2006,corn,export
+3183,Ecuador,2007,corn,export
+3184,Ecuador,2008,corn,export
+3185,Ecuador,2009,corn,export
+3186,Ecuador,2010,corn,export
+3187,Ecuador,2011,corn,export
+3188,Ecuador,2012,corn,export
+3189,Ecuador,2013,corn,export
+3190,Ecuador,2014,corn,export
+3191,Ecuador,2015,corn,export
+3198,European Union,1990,corn,export
+3199,European Union,1991,corn,export
+3200,European Union,1992,corn,export
+3201,European Union,1993,corn,export
+3202,European Union,1994,corn,export
+3203,European Union,1995,corn,export
+3204,European Union,1996,corn,export
+3205,European Union,1997,corn,export
+3206,European Union,1998,corn,export
+3207,European Union,1999,corn,export
+3208,European Union,1900,corn,export
+3209,European Union,2001,corn,export
+3210,European Union,2002,corn,export
+3211,European Union,2003,corn,export
+3212,European Union,2004,corn,export
+3213,European Union,2005,corn,export
+3214,European Union,2006,corn,export
+3215,European Union,2007,corn,export
+3216,European Union,2008,corn,export
+3217,European Union,2009,corn,export
+3218,European Union,2010,corn,export
+3219,European Union,2011,corn,export
+3220,European Union,2012,corn,export
+3221,European Union,2013,corn,export
+3222,European Union,2014,corn,export
+3223,European Union,2015,corn,export
+3230,Thailand,1990,corn,export
+3231,Thailand,1991,corn,export
+3232,Thailand,1992,corn,export
+3233,Thailand,1993,corn,export
+3234,Thailand,1994,corn,export
+3235,Thailand,1995,corn,export
+3236,Thailand,1996,corn,export
+3237,Thailand,1997,corn,export
+3238,Thailand,1998,corn,export
+3239,Thailand,1999,corn,export
+3240,Thailand,1900,corn,export
+3241,Thailand,2001,corn,export
+3242,Thailand,2002,corn,export
+3243,Thailand,2003,corn,export
+3244,Thailand,2004,corn,export
+3245,Thailand,2005,corn,export
+3246,Thailand,2006,corn,export
+3247,Thailand,2007,corn,export
+3248,Thailand,2008,corn,export
+3249,Thailand,2009,corn,export
+3250,Thailand,2010,corn,export
+3251,Thailand,2011,corn,export
+3252,Thailand,2012,corn,export
+3253,Thailand,2013,corn,export
+3254,Thailand,2014,corn,export
+3255,Thailand,2015,corn,export
+3262,Pakistan,1990,corn,export
+3263,Pakistan,1991,corn,export
+3264,Pakistan,1992,corn,export
+3265,Pakistan,1993,corn,export
+3266,Pakistan,1994,corn,export
+3267,Pakistan,1995,corn,export
+3268,Pakistan,1996,corn,export
+3269,Pakistan,1997,corn,export
+3270,Pakistan,1998,corn,export
+3271,Pakistan,1999,corn,export
+3272,Pakistan,1900,corn,export
+3273,Pakistan,2001,corn,export
+3274,Pakistan,2002,corn,export
+3275,Pakistan,2003,corn,export
+3276,Pakistan,2004,corn,export
+3277,Pakistan,2005,corn,export
+3278,Pakistan,2006,corn,export
+3279,Pakistan,2007,corn,export
+3280,Pakistan,2008,corn,export
+3281,Pakistan,2009,corn,export
+3282,Pakistan,2010,corn,export
+3283,Pakistan,2011,corn,export
+3284,Pakistan,2012,corn,export
+3285,Pakistan,2013,corn,export
+3286,Pakistan,2014,corn,export
+3287,Pakistan,2015,corn,export
+3294,Philippines,1990,corn,export
+3295,Philippines,1991,corn,export
+3296,Philippines,1992,corn,export
+3297,Philippines,1993,corn,export
+3298,Philippines,1994,corn,export
+3299,Philippines,1995,corn,export
+3300,Philippines,1996,corn,export
+3301,Philippines,1997,corn,export
+3302,Philippines,1998,corn,export
+3303,Philippines,1999,corn,export
+3304,Philippines,1900,corn,export
+3305,Philippines,2001,corn,export
+3306,Philippines,2002,corn,export
+3307,Philippines,2003,corn,export
+3308,Philippines,2004,corn,export
+3309,Philippines,2005,corn,export
+3310,Philippines,2006,corn,export
+3311,Philippines,2007,corn,export
+3312,Philippines,2008,corn,export
+3313,Philippines,2009,corn,export
+3314,Philippines,2010,corn,export
+3315,Philippines,2011,corn,export
+3316,Philippines,2012,corn,export
+3317,Philippines,2013,corn,export
+3318,Philippines,2014,corn,export
+3319,Philippines,2015,corn,export
+3326,Argentina,1990,corn,export
+3327,Argentina,1991,corn,export
+3328,Argentina,1992,corn,export
+3329,Argentina,1993,corn,export
+3330,Argentina,1994,corn,export
+3331,Argentina,1995,corn,export
+3332,Argentina,1996,corn,export
+3333,Argentina,1997,corn,export
+3334,Argentina,1998,corn,export
+3335,Argentina,1999,corn,export
+3336,Argentina,1900,corn,export
+3337,Argentina,2001,corn,export
+3338,Argentina,2002,corn,export
+3339,Argentina,2003,corn,export
+3340,Argentina,2004,corn,export
+3341,Argentina,2005,corn,export
+3342,Argentina,2006,corn,export
+3343,Argentina,2007,corn,export
+3344,Argentina,2008,corn,export
+3345,Argentina,2009,corn,export
+3346,Argentina,2010,corn,export
+3347,Argentina,2011,corn,export
+3348,Argentina,2012,corn,export
+3349,Argentina,2013,corn,export
+3350,Argentina,2014,corn,export
+3351,Argentina,2015,corn,export
+3358,Sub-Saharan Africa,1990,corn,export
+3359,Sub-Saharan Africa,1991,corn,export
+3360,Sub-Saharan Africa,1992,corn,export
+3361,Sub-Saharan Africa,1993,corn,export
+3362,Sub-Saharan Africa,1994,corn,export
+3363,Sub-Saharan Africa,1995,corn,export
+3364,Sub-Saharan Africa,1996,corn,export
+3365,Sub-Saharan Africa,1997,corn,export
+3366,Sub-Saharan Africa,1998,corn,export
+3367,Sub-Saharan Africa,1999,corn,export
+3368,Sub-Saharan Africa,1900,corn,export
+3369,Sub-Saharan Africa,2001,corn,export
+3370,Sub-Saharan Africa,2002,corn,export
+3371,Sub-Saharan Africa,2003,corn,export
+3372,Sub-Saharan Africa,2004,corn,export
+3373,Sub-Saharan Africa,2005,corn,export
+3374,Sub-Saharan Africa,2006,corn,export
+3375,Sub-Saharan Africa,2007,corn,export
+3376,Sub-Saharan Africa,2008,corn,export
+3377,Sub-Saharan Africa,2009,corn,export
+3378,Sub-Saharan Africa,2010,corn,export
+3379,Sub-Saharan Africa,2011,corn,export
+3380,Sub-Saharan Africa,2012,corn,export
+3381,Sub-Saharan Africa,2013,corn,export
+3382,Sub-Saharan Africa,2014,corn,export
+3383,Sub-Saharan Africa,2015,corn,export
+3390,Turkey,1990,corn,export
+3391,Turkey,1991,corn,export
+3392,Turkey,1992,corn,export
+3393,Turkey,1993,corn,export
+3394,Turkey,1994,corn,export
+3395,Turkey,1995,corn,export
+3396,Turkey,1996,corn,export
+3397,Turkey,1997,corn,export
+3398,Turkey,1998,corn,export
+3399,Turkey,1999,corn,export
+3400,Turkey,1900,corn,export
+3401,Turkey,2001,corn,export
+3402,Turkey,2002,corn,export
+3403,Turkey,2003,corn,export
+3404,Turkey,2004,corn,export
+3405,Turkey,2005,corn,export
+3406,Turkey,2006,corn,export
+3407,Turkey,2007,corn,export
+3408,Turkey,2008,corn,export
+3409,Turkey,2009,corn,export
+3410,Turkey,2010,corn,export
+3411,Turkey,2011,corn,export
+3412,Turkey,2012,corn,export
+3413,Turkey,2013,corn,export
+3414,Turkey,2014,corn,export
+3415,Turkey,2015,corn,export
+3422,Brazil,1990,corn,export
+3423,Brazil,1991,corn,export
+3424,Brazil,1992,corn,export
+3425,Brazil,1993,corn,export
+3426,Brazil,1994,corn,export
+3427,Brazil,1995,corn,export
+3428,Brazil,1996,corn,export
+3429,Brazil,1997,corn,export
+3430,Brazil,1998,corn,export
+3431,Brazil,1999,corn,export
+3432,Brazil,1900,corn,export
+3433,Brazil,2001,corn,export
+3434,Brazil,2002,corn,export
+3435,Brazil,2003,corn,export
+3436,Brazil,2004,corn,export
+3437,Brazil,2005,corn,export
+3438,Brazil,2006,corn,export
+3439,Brazil,2007,corn,export
+3440,Brazil,2008,corn,export
+3441,Brazil,2009,corn,export
+3442,Brazil,2010,corn,export
+3443,Brazil,2011,corn,export
+3444,Brazil,2012,corn,export
+3445,Brazil,2013,corn,export
+3446,Brazil,2014,corn,export
+3447,Brazil,2015,corn,export
+3454,Other Europe,1990,corn,export
+3455,Other Europe,1991,corn,export
+3456,Other Europe,1992,corn,export
+3457,Other Europe,1993,corn,export
+3458,Other Europe,1994,corn,export
+3459,Other Europe,1995,corn,export
+3460,Other Europe,1996,corn,export
+3461,Other Europe,1997,corn,export
+3462,Other Europe,1998,corn,export
+3463,Other Europe,1999,corn,export
+3464,Other Europe,1900,corn,export
+3465,Other Europe,2001,corn,export
+3466,Other Europe,2002,corn,export
+3467,Other Europe,2003,corn,export
+3468,Other Europe,2004,corn,export
+3469,Other Europe,2005,corn,export
+3470,Other Europe,2006,corn,export
+3471,Other Europe,2007,corn,export
+3472,Other Europe,2008,corn,export
+3473,Other Europe,2009,corn,export
+3474,Other Europe,2010,corn,export
+3475,Other Europe,2011,corn,export
+3476,Other Europe,2012,corn,export
+3477,Other Europe,2013,corn,export
+3478,Other Europe,2014,corn,export
+3479,Other Europe,2015,corn,export
+3486,Bangladesh,1990,corn,export
+3487,Bangladesh,1991,corn,export
+3488,Bangladesh,1992,corn,export
+3489,Bangladesh,1993,corn,export
+3490,Bangladesh,1994,corn,export
+3491,Bangladesh,1995,corn,export
+3492,Bangladesh,1996,corn,export
+3493,Bangladesh,1997,corn,export
+3494,Bangladesh,1998,corn,export
+3495,Bangladesh,1999,corn,export
+3496,Bangladesh,1900,corn,export
+3497,Bangladesh,2001,corn,export
+3498,Bangladesh,2002,corn,export
+3499,Bangladesh,2003,corn,export
+3500,Bangladesh,2004,corn,export
+3501,Bangladesh,2005,corn,export
+3502,Bangladesh,2006,corn,export
+3503,Bangladesh,2007,corn,export
+3504,Bangladesh,2008,corn,export
+3505,Bangladesh,2009,corn,export
+3506,Bangladesh,2010,corn,export
+3507,Bangladesh,2011,corn,export
+3508,Bangladesh,2012,corn,export
+3509,Bangladesh,2013,corn,export
+3510,Bangladesh,2014,corn,export
+3511,Bangladesh,2015,corn,export
+3518,India,1990,corn,export
+3519,India,1991,corn,export
+3520,India,1992,corn,export
+3521,India,1993,corn,export
+3522,India,1994,corn,export
+3523,India,1995,corn,export
+3524,India,1996,corn,export
+3525,India,1997,corn,export
+3526,India,1998,corn,export
+3527,India,1999,corn,export
+3528,India,1900,corn,export
+3529,India,2001,corn,export
+3530,India,2002,corn,export
+3531,India,2003,corn,export
+3532,India,2004,corn,export
+3533,India,2005,corn,export
+3534,India,2006,corn,export
+3535,India,2007,corn,export
+3536,India,2008,corn,export
+3537,India,2009,corn,export
+3538,India,2010,corn,export
+3539,India,2011,corn,export
+3540,India,2012,corn,export
+3541,India,2013,corn,export
+3542,India,2014,corn,export
+3543,India,2015,corn,export
+3550,Australia,1990,corn,export
+3551,Australia,1991,corn,export
+3552,Australia,1992,corn,export
+3553,Australia,1993,corn,export
+3554,Australia,1994,corn,export
+3555,Australia,1995,corn,export
+3556,Australia,1996,corn,export
+3557,Australia,1997,corn,export
+3558,Australia,1998,corn,export
+3559,Australia,1999,corn,export
+3560,Australia,1900,corn,export
+3561,Australia,2001,corn,export
+3562,Australia,2002,corn,export
+3563,Australia,2003,corn,export
+3564,Australia,2004,corn,export
+3565,Australia,2005,corn,export
+3566,Australia,2006,corn,export
+3567,Australia,2007,corn,export
+3568,Australia,2008,corn,export
+3569,Australia,2009,corn,export
+3570,Australia,2010,corn,export
+3571,Australia,2011,corn,export
+3572,Australia,2012,corn,export
+3573,Australia,2013,corn,export
+3574,Australia,2014,corn,export
+3575,Australia,2015,corn,export
+3582,Iran,1990,corn,export
+3583,Iran,1991,corn,export
+3584,Iran,1992,corn,export
+3585,Iran,1993,corn,export
+3586,Iran,1994,corn,export
+3587,Iran,1995,corn,export
+3588,Iran,1996,corn,export
+3589,Iran,1997,corn,export
+3590,Iran,1998,corn,export
+3591,Iran,1999,corn,export
+3592,Iran,1900,corn,export
+3593,Iran,2001,corn,export
+3594,Iran,2002,corn,export
+3595,Iran,2003,corn,export
+3596,Iran,2004,corn,export
+3597,Iran,2005,corn,export
+3598,Iran,2006,corn,export
+3599,Iran,2007,corn,export
+3600,Iran,2008,corn,export
+3601,Iran,2009,corn,export
+3602,Iran,2010,corn,export
+3603,Iran,2011,corn,export
+3604,Iran,2012,corn,export
+3605,Iran,2013,corn,export
+3606,Iran,2014,corn,export
+3607,Iran,2015,corn,export
+3614,Paraguay,1990,corn,export
+3615,Paraguay,1991,corn,export
+3616,Paraguay,1992,corn,export
+3617,Paraguay,1993,corn,export
+3618,Paraguay,1994,corn,export
+3619,Paraguay,1995,corn,export
+3620,Paraguay,1996,corn,export
+3621,Paraguay,1997,corn,export
+3622,Paraguay,1998,corn,export
+3623,Paraguay,1999,corn,export
+3624,Paraguay,1900,corn,export
+3625,Paraguay,2001,corn,export
+3626,Paraguay,2002,corn,export
+3627,Paraguay,2003,corn,export
+3628,Paraguay,2004,corn,export
+3629,Paraguay,2005,corn,export
+3630,Paraguay,2006,corn,export
+3631,Paraguay,2007,corn,export
+3632,Paraguay,2008,corn,export
+3633,Paraguay,2009,corn,export
+3634,Paraguay,2010,corn,export
+3635,Paraguay,2011,corn,export
+3636,Paraguay,2012,corn,export
+3637,Paraguay,2013,corn,export
+3638,Paraguay,2014,corn,export
+3639,Paraguay,2015,corn,export
+3646,Uruguay,1990,corn,export
+3647,Uruguay,1991,corn,export
+3648,Uruguay,1992,corn,export
+3649,Uruguay,1993,corn,export
+3650,Uruguay,1994,corn,export
+3651,Uruguay,1995,corn,export
+3652,Uruguay,1996,corn,export
+3653,Uruguay,1997,corn,export
+3654,Uruguay,1998,corn,export
+3655,Uruguay,1999,corn,export
+3656,Uruguay,1900,corn,export
+3657,Uruguay,2001,corn,export
+3658,Uruguay,2002,corn,export
+3659,Uruguay,2003,corn,export
+3660,Uruguay,2004,corn,export
+3661,Uruguay,2005,corn,export
+3662,Uruguay,2006,corn,export
+3663,Uruguay,2007,corn,export
+3664,Uruguay,2008,corn,export
+3665,Uruguay,2009,corn,export
+3666,Uruguay,2010,corn,export
+3667,Uruguay,2011,corn,export
+3668,Uruguay,2012,corn,export
+3669,Uruguay,2013,corn,export
+3670,Uruguay,2014,corn,export
+3671,Uruguay,2015,corn,export
+3678,Canada,1990,malting barley,export
+3679,Canada,1991,malting barley,export
+3680,Canada,1992,malting barley,export
+3681,Canada,1993,malting barley,export
+3682,Canada,1994,malting barley,export
+3683,Canada,1995,malting barley,export
+3684,Canada,1996,malting barley,export
+3685,Canada,1997,malting barley,export
+3686,Canada,1998,malting barley,export
+3687,Canada,1999,malting barley,export
+3688,Canada,1900,malting barley,export
+3689,Canada,2001,malting barley,export
+3690,Canada,2002,malting barley,export
+3691,Canada,2003,malting barley,export
+3692,Canada,2004,malting barley,export
+3693,Canada,2005,malting barley,export
+3694,Canada,2006,malting barley,export
+3695,Canada,2007,malting barley,export
+3696,Canada,2008,malting barley,export
+3697,Canada,2009,malting barley,export
+3698,Canada,2010,malting barley,export
+3699,Canada,2011,malting barley,export
+3700,Canada,2012,malting barley,export
+3701,Canada,2013,malting barley,export
+3702,Canada,2014,malting barley,export
+3703,Canada,2015,malting barley,export
+3711,South Korea,1990,malting barley,export
+3712,South Korea,1991,malting barley,export
+3713,South Korea,1992,malting barley,export
+3714,South Korea,1993,malting barley,export
+3715,South Korea,1994,malting barley,export
+3716,South Korea,1995,malting barley,export
+3717,South Korea,1996,malting barley,export
+3718,South Korea,1997,malting barley,export
+3719,South Korea,1998,malting barley,export
+3720,South Korea,1999,malting barley,export
+3721,South Korea,1900,malting barley,export
+3722,South Korea,2001,malting barley,export
+3723,South Korea,2002,malting barley,export
+3724,South Korea,2003,malting barley,export
+3725,South Korea,2004,malting barley,export
+3726,South Korea,2005,malting barley,export
+3727,South Korea,2006,malting barley,export
+3728,South Korea,2007,malting barley,export
+3729,South Korea,2008,malting barley,export
+3730,South Korea,2009,malting barley,export
+3731,South Korea,2010,malting barley,export
+3732,South Korea,2011,malting barley,export
+3733,South Korea,2012,malting barley,export
+3734,South Korea,2013,malting barley,export
+3735,South Korea,2014,malting barley,export
+3736,South Korea,2015,malting barley,export
+3744,European Union,1990,malting barley,export
+3745,European Union,1991,malting barley,export
+3746,European Union,1992,malting barley,export
+3747,European Union,1993,malting barley,export
+3748,European Union,1994,malting barley,export
+3749,European Union,1995,malting barley,export
+3750,European Union,1996,malting barley,export
+3751,European Union,1997,malting barley,export
+3752,European Union,1998,malting barley,export
+3753,European Union,1999,malting barley,export
+3754,European Union,1900,malting barley,export
+3755,European Union,2001,malting barley,export
+3756,European Union,2002,malting barley,export
+3757,European Union,2003,malting barley,export
+3758,European Union,2004,malting barley,export
+3759,European Union,2005,malting barley,export
+3760,European Union,2006,malting barley,export
+3761,European Union,2007,malting barley,export
+3762,European Union,2008,malting barley,export
+3763,European Union,2009,malting barley,export
+3764,European Union,2010,malting barley,export
+3765,European Union,2011,malting barley,export
+3766,European Union,2012,malting barley,export
+3767,European Union,2013,malting barley,export
+3768,European Union,2014,malting barley,export
+3769,European Union,2015,malting barley,export
+3777,Chile,1990,malting barley,export
+3778,Chile,1991,malting barley,export
+3779,Chile,1992,malting barley,export
+3780,Chile,1993,malting barley,export
+3781,Chile,1994,malting barley,export
+3782,Chile,1995,malting barley,export
+3783,Chile,1996,malting barley,export
+3784,Chile,1997,malting barley,export
+3785,Chile,1998,malting barley,export
+3786,Chile,1999,malting barley,export
+3787,Chile,1900,malting barley,export
+3788,Chile,2001,malting barley,export
+3789,Chile,2002,malting barley,export
+3790,Chile,2003,malting barley,export
+3791,Chile,2004,malting barley,export
+3792,Chile,2005,malting barley,export
+3793,Chile,2006,malting barley,export
+3794,Chile,2007,malting barley,export
+3795,Chile,2008,malting barley,export
+3796,Chile,2009,malting barley,export
+3797,Chile,2010,malting barley,export
+3798,Chile,2011,malting barley,export
+3799,Chile,2012,malting barley,export
+3800,Chile,2013,malting barley,export
+3801,Chile,2014,malting barley,export
+3802,Chile,2015,malting barley,export
+3810,China,1990,malting barley,export
+3811,China,1991,malting barley,export
+3812,China,1992,malting barley,export
+3813,China,1993,malting barley,export
+3814,China,1994,malting barley,export
+3815,China,1995,malting barley,export
+3816,China,1996,malting barley,export
+3817,China,1997,malting barley,export
+3818,China,1998,malting barley,export
+3819,China,1999,malting barley,export
+3820,China,1900,malting barley,export
+3821,China,2001,malting barley,export
+3822,China,2002,malting barley,export
+3823,China,2003,malting barley,export
+3824,China,2004,malting barley,export
+3825,China,2005,malting barley,export
+3826,China,2006,malting barley,export
+3827,China,2007,malting barley,export
+3828,China,2008,malting barley,export
+3829,China,2009,malting barley,export
+3830,China,2010,malting barley,export
+3831,China,2011,malting barley,export
+3832,China,2012,malting barley,export
+3833,China,2013,malting barley,export
+3834,China,2014,malting barley,export
+3835,China,2015,malting barley,export
+3843,India,1990,malting barley,export
+3844,India,1991,malting barley,export
+3845,India,1992,malting barley,export
+3846,India,1993,malting barley,export
+3847,India,1994,malting barley,export
+3848,India,1995,malting barley,export
+3849,India,1996,malting barley,export
+3850,India,1997,malting barley,export
+3851,India,1998,malting barley,export
+3852,India,1999,malting barley,export
+3853,India,1900,malting barley,export
+3854,India,2001,malting barley,export
+3855,India,2002,malting barley,export
+3856,India,2003,malting barley,export
+3857,India,2004,malting barley,export
+3858,India,2005,malting barley,export
+3859,India,2006,malting barley,export
+3860,India,2007,malting barley,export
+3861,India,2008,malting barley,export
+3862,India,2009,malting barley,export
+3863,India,2010,malting barley,export
+3864,India,2011,malting barley,export
+3865,India,2012,malting barley,export
+3866,India,2013,malting barley,export
+3867,India,2014,malting barley,export
+3868,India,2015,malting barley,export
+3876,Argentina,1990,malting barley,export
+3877,Argentina,1991,malting barley,export
+3878,Argentina,1992,malting barley,export
+3879,Argentina,1993,malting barley,export
+3880,Argentina,1994,malting barley,export
+3881,Argentina,1995,malting barley,export
+3882,Argentina,1996,malting barley,export
+3883,Argentina,1997,malting barley,export
+3884,Argentina,1998,malting barley,export
+3885,Argentina,1999,malting barley,export
+3886,Argentina,1900,malting barley,export
+3887,Argentina,2001,malting barley,export
+3888,Argentina,2002,malting barley,export
+3889,Argentina,2003,malting barley,export
+3890,Argentina,2004,malting barley,export
+3891,Argentina,2005,malting barley,export
+3892,Argentina,2006,malting barley,export
+3893,Argentina,2007,malting barley,export
+3894,Argentina,2008,malting barley,export
+3895,Argentina,2009,malting barley,export
+3896,Argentina,2010,malting barley,export
+3897,Argentina,2011,malting barley,export
+3898,Argentina,2012,malting barley,export
+3899,Argentina,2013,malting barley,export
+3900,Argentina,2014,malting barley,export
+3901,Argentina,2015,malting barley,export
+3909,Australia,1990,malting barley,export
+3910,Australia,1991,malting barley,export
+3911,Australia,1992,malting barley,export
+3912,Australia,1993,malting barley,export
+3913,Australia,1994,malting barley,export
+3914,Australia,1995,malting barley,export
+3915,Australia,1996,malting barley,export
+3916,Australia,1997,malting barley,export
+3917,Australia,1998,malting barley,export
+3918,Australia,1999,malting barley,export
+3919,Australia,1900,malting barley,export
+3920,Australia,2001,malting barley,export
+3921,Australia,2002,malting barley,export
+3922,Australia,2003,malting barley,export
+3923,Australia,2004,malting barley,export
+3924,Australia,2005,malting barley,export
+3925,Australia,2006,malting barley,export
+3926,Australia,2007,malting barley,export
+3927,Australia,2008,malting barley,export
+3928,Australia,2009,malting barley,export
+3929,Australia,2010,malting barley,export
+3930,Australia,2011,malting barley,export
+3931,Australia,2012,malting barley,export
+3932,Australia,2013,malting barley,export
+3933,Australia,2014,malting barley,export
+3934,Australia,2015,malting barley,export
+3942,Brazil,1990,malting barley,export
+3943,Brazil,1991,malting barley,export
+3944,Brazil,1992,malting barley,export
+3945,Brazil,1993,malting barley,export
+3946,Brazil,1994,malting barley,export
+3947,Brazil,1995,malting barley,export
+3948,Brazil,1996,malting barley,export
+3949,Brazil,1997,malting barley,export
+3950,Brazil,1998,malting barley,export
+3951,Brazil,1999,malting barley,export
+3952,Brazil,1900,malting barley,export
+3953,Brazil,2001,malting barley,export
+3954,Brazil,2002,malting barley,export
+3955,Brazil,2003,malting barley,export
+3956,Brazil,2004,malting barley,export
+3957,Brazil,2005,malting barley,export
+3958,Brazil,2006,malting barley,export
+3959,Brazil,2007,malting barley,export
+3960,Brazil,2008,malting barley,export
+3961,Brazil,2009,malting barley,export
+3962,Brazil,2010,malting barley,export
+3963,Brazil,2011,malting barley,export
+3964,Brazil,2012,malting barley,export
+3965,Brazil,2013,malting barley,export
+3966,Brazil,2014,malting barley,export
+3967,Brazil,2015,malting barley,export
+3975,Colombia,1990,malting barley,export
+3976,Colombia,1991,malting barley,export
+3977,Colombia,1992,malting barley,export
+3978,Colombia,1993,malting barley,export
+3979,Colombia,1994,malting barley,export
+3980,Colombia,1995,malting barley,export
+3981,Colombia,1996,malting barley,export
+3982,Colombia,1997,malting barley,export
+3983,Colombia,1998,malting barley,export
+3984,Colombia,1999,malting barley,export
+3985,Colombia,1900,malting barley,export
+3986,Colombia,2001,malting barley,export
+3987,Colombia,2002,malting barley,export
+3988,Colombia,2003,malting barley,export
+3989,Colombia,2004,malting barley,export
+3990,Colombia,2005,malting barley,export
+3991,Colombia,2006,malting barley,export
+3992,Colombia,2007,malting barley,export
+3993,Colombia,2008,malting barley,export
+3994,Colombia,2009,malting barley,export
+3995,Colombia,2010,malting barley,export
+3996,Colombia,2011,malting barley,export
+3997,Colombia,2012,malting barley,export
+3998,Colombia,2013,malting barley,export
+3999,Colombia,2014,malting barley,export
+4000,Colombia,2015,malting barley,export
+4008,Ecuador,1990,malting barley,export
+4009,Ecuador,1991,malting barley,export
+4010,Ecuador,1992,malting barley,export
+4011,Ecuador,1993,malting barley,export
+4012,Ecuador,1994,malting barley,export
+4013,Ecuador,1995,malting barley,export
+4014,Ecuador,1996,malting barley,export
+4015,Ecuador,1997,malting barley,export
+4016,Ecuador,1998,malting barley,export
+4017,Ecuador,1999,malting barley,export
+4018,Ecuador,1900,malting barley,export
+4019,Ecuador,2001,malting barley,export
+4020,Ecuador,2002,malting barley,export
+4021,Ecuador,2003,malting barley,export
+4022,Ecuador,2004,malting barley,export
+4023,Ecuador,2005,malting barley,export
+4024,Ecuador,2006,malting barley,export
+4025,Ecuador,2007,malting barley,export
+4026,Ecuador,2008,malting barley,export
+4027,Ecuador,2009,malting barley,export
+4028,Ecuador,2010,malting barley,export
+4029,Ecuador,2011,malting barley,export
+4030,Ecuador,2012,malting barley,export
+4031,Ecuador,2013,malting barley,export
+4032,Ecuador,2014,malting barley,export
+4033,Ecuador,2015,malting barley,export
+4041,Egypt,1990,malting barley,export
+4042,Egypt,1991,malting barley,export
+4043,Egypt,1992,malting barley,export
+4044,Egypt,1993,malting barley,export
+4045,Egypt,1994,malting barley,export
+4046,Egypt,1995,malting barley,export
+4047,Egypt,1996,malting barley,export
+4048,Egypt,1997,malting barley,export
+4049,Egypt,1998,malting barley,export
+4050,Egypt,1999,malting barley,export
+4051,Egypt,1900,malting barley,export
+4052,Egypt,2001,malting barley,export
+4053,Egypt,2002,malting barley,export
+4054,Egypt,2003,malting barley,export
+4055,Egypt,2004,malting barley,export
+4056,Egypt,2005,malting barley,export
+4057,Egypt,2006,malting barley,export
+4058,Egypt,2007,malting barley,export
+4059,Egypt,2008,malting barley,export
+4060,Egypt,2009,malting barley,export
+4061,Egypt,2010,malting barley,export
+4062,Egypt,2011,malting barley,export
+4063,Egypt,2012,malting barley,export
+4064,Egypt,2013,malting barley,export
+4065,Egypt,2014,malting barley,export
+4066,Egypt,2015,malting barley,export
+4074,Indonesia,1990,malting barley,export
+4075,Indonesia,1991,malting barley,export
+4076,Indonesia,1992,malting barley,export
+4077,Indonesia,1993,malting barley,export
+4078,Indonesia,1994,malting barley,export
+4079,Indonesia,1995,malting barley,export
+4080,Indonesia,1996,malting barley,export
+4081,Indonesia,1997,malting barley,export
+4082,Indonesia,1998,malting barley,export
+4083,Indonesia,1999,malting barley,export
+4084,Indonesia,1900,malting barley,export
+4085,Indonesia,2001,malting barley,export
+4086,Indonesia,2002,malting barley,export
+4087,Indonesia,2003,malting barley,export
+4088,Indonesia,2004,malting barley,export
+4089,Indonesia,2005,malting barley,export
+4090,Indonesia,2006,malting barley,export
+4091,Indonesia,2007,malting barley,export
+4092,Indonesia,2008,malting barley,export
+4093,Indonesia,2009,malting barley,export
+4094,Indonesia,2010,malting barley,export
+4095,Indonesia,2011,malting barley,export
+4096,Indonesia,2012,malting barley,export
+4097,Indonesia,2013,malting barley,export
+4098,Indonesia,2014,malting barley,export
+4099,Indonesia,2015,malting barley,export
+4107,Israel,1990,malting barley,export
+4108,Israel,1991,malting barley,export
+4109,Israel,1992,malting barley,export
+4110,Israel,1993,malting barley,export
+4111,Israel,1994,malting barley,export
+4112,Israel,1995,malting barley,export
+4113,Israel,1996,malting barley,export
+4114,Israel,1997,malting barley,export
+4115,Israel,1998,malting barley,export
+4116,Israel,1999,malting barley,export
+4117,Israel,1900,malting barley,export
+4118,Israel,2001,malting barley,export
+4119,Israel,2002,malting barley,export
+4120,Israel,2003,malting barley,export
+4121,Israel,2004,malting barley,export
+4122,Israel,2005,malting barley,export
+4123,Israel,2006,malting barley,export
+4124,Israel,2007,malting barley,export
+4125,Israel,2008,malting barley,export
+4126,Israel,2009,malting barley,export
+4127,Israel,2010,malting barley,export
+4128,Israel,2011,malting barley,export
+4129,Israel,2012,malting barley,export
+4130,Israel,2013,malting barley,export
+4131,Israel,2014,malting barley,export
+4132,Israel,2015,malting barley,export
+4140,Japan,1990,malting barley,export
+4141,Japan,1991,malting barley,export
+4142,Japan,1992,malting barley,export
+4143,Japan,1993,malting barley,export
+4144,Japan,1994,malting barley,export
+4145,Japan,1995,malting barley,export
+4146,Japan,1996,malting barley,export
+4147,Japan,1997,malting barley,export
+4148,Japan,1998,malting barley,export
+4149,Japan,1999,malting barley,export
+4150,Japan,1900,malting barley,export
+4151,Japan,2001,malting barley,export
+4152,Japan,2002,malting barley,export
+4153,Japan,2003,malting barley,export
+4154,Japan,2004,malting barley,export
+4155,Japan,2005,malting barley,export
+4156,Japan,2006,malting barley,export
+4157,Japan,2007,malting barley,export
+4158,Japan,2008,malting barley,export
+4159,Japan,2009,malting barley,export
+4160,Japan,2010,malting barley,export
+4161,Japan,2011,malting barley,export
+4162,Japan,2012,malting barley,export
+4163,Japan,2013,malting barley,export
+4164,Japan,2014,malting barley,export
+4165,Japan,2015,malting barley,export
+4173,Mexico,1990,malting barley,export
+4174,Mexico,1991,malting barley,export
+4175,Mexico,1992,malting barley,export
+4176,Mexico,1993,malting barley,export
+4177,Mexico,1994,malting barley,export
+4178,Mexico,1995,malting barley,export
+4179,Mexico,1996,malting barley,export
+4180,Mexico,1997,malting barley,export
+4181,Mexico,1998,malting barley,export
+4182,Mexico,1999,malting barley,export
+4183,Mexico,1900,malting barley,export
+4184,Mexico,2001,malting barley,export
+4185,Mexico,2002,malting barley,export
+4186,Mexico,2003,malting barley,export
+4187,Mexico,2004,malting barley,export
+4188,Mexico,2005,malting barley,export
+4189,Mexico,2006,malting barley,export
+4190,Mexico,2007,malting barley,export
+4191,Mexico,2008,malting barley,export
+4192,Mexico,2009,malting barley,export
+4193,Mexico,2010,malting barley,export
+4194,Mexico,2011,malting barley,export
+4195,Mexico,2012,malting barley,export
+4196,Mexico,2013,malting barley,export
+4197,Mexico,2014,malting barley,export
+4198,Mexico,2015,malting barley,export
+4206,Other Europe,1990,malting barley,export
+4207,Other Europe,1991,malting barley,export
+4208,Other Europe,1992,malting barley,export
+4209,Other Europe,1993,malting barley,export
+4210,Other Europe,1994,malting barley,export
+4211,Other Europe,1995,malting barley,export
+4212,Other Europe,1996,malting barley,export
+4213,Other Europe,1997,malting barley,export
+4214,Other Europe,1998,malting barley,export
+4215,Other Europe,1999,malting barley,export
+4216,Other Europe,1900,malting barley,export
+4217,Other Europe,2001,malting barley,export
+4218,Other Europe,2002,malting barley,export
+4219,Other Europe,2003,malting barley,export
+4220,Other Europe,2004,malting barley,export
+4221,Other Europe,2005,malting barley,export
+4222,Other Europe,2006,malting barley,export
+4223,Other Europe,2007,malting barley,export
+4224,Other Europe,2008,malting barley,export
+4225,Other Europe,2009,malting barley,export
+4226,Other Europe,2010,malting barley,export
+4227,Other Europe,2011,malting barley,export
+4228,Other Europe,2012,malting barley,export
+4229,Other Europe,2013,malting barley,export
+4230,Other Europe,2014,malting barley,export
+4231,Other Europe,2015,malting barley,export
+4239,Pakistan,1990,malting barley,export
+4240,Pakistan,1991,malting barley,export
+4241,Pakistan,1992,malting barley,export
+4242,Pakistan,1993,malting barley,export
+4243,Pakistan,1994,malting barley,export
+4244,Pakistan,1995,malting barley,export
+4245,Pakistan,1996,malting barley,export
+4246,Pakistan,1997,malting barley,export
+4247,Pakistan,1998,malting barley,export
+4248,Pakistan,1999,malting barley,export
+4249,Pakistan,1900,malting barley,export
+4250,Pakistan,2001,malting barley,export
+4251,Pakistan,2002,malting barley,export
+4252,Pakistan,2003,malting barley,export
+4253,Pakistan,2004,malting barley,export
+4254,Pakistan,2005,malting barley,export
+4255,Pakistan,2006,malting barley,export
+4256,Pakistan,2007,malting barley,export
+4257,Pakistan,2008,malting barley,export
+4258,Pakistan,2009,malting barley,export
+4259,Pakistan,2010,malting barley,export
+4260,Pakistan,2011,malting barley,export
+4261,Pakistan,2012,malting barley,export
+4262,Pakistan,2013,malting barley,export
+4263,Pakistan,2014,malting barley,export
+4264,Pakistan,2015,malting barley,export
+4272,Philippines,1990,malting barley,export
+4273,Philippines,1991,malting barley,export
+4274,Philippines,1992,malting barley,export
+4275,Philippines,1993,malting barley,export
+4276,Philippines,1994,malting barley,export
+4277,Philippines,1995,malting barley,export
+4278,Philippines,1996,malting barley,export
+4279,Philippines,1997,malting barley,export
+4280,Philippines,1998,malting barley,export
+4281,Philippines,1999,malting barley,export
+4282,Philippines,1900,malting barley,export
+4283,Philippines,2001,malting barley,export
+4284,Philippines,2002,malting barley,export
+4285,Philippines,2003,malting barley,export
+4286,Philippines,2004,malting barley,export
+4287,Philippines,2005,malting barley,export
+4288,Philippines,2006,malting barley,export
+4289,Philippines,2007,malting barley,export
+4290,Philippines,2008,malting barley,export
+4291,Philippines,2009,malting barley,export
+4292,Philippines,2010,malting barley,export
+4293,Philippines,2011,malting barley,export
+4294,Philippines,2012,malting barley,export
+4295,Philippines,2013,malting barley,export
+4296,Philippines,2014,malting barley,export
+4297,Philippines,2015,malting barley,export
+4305,Saudi Arabia,1990,malting barley,export
+4306,Saudi Arabia,1991,malting barley,export
+4307,Saudi Arabia,1992,malting barley,export
+4308,Saudi Arabia,1993,malting barley,export
+4309,Saudi Arabia,1994,malting barley,export
+4310,Saudi Arabia,1995,malting barley,export
+4311,Saudi Arabia,1996,malting barley,export
+4312,Saudi Arabia,1997,malting barley,export
+4313,Saudi Arabia,1998,malting barley,export
+4314,Saudi Arabia,1999,malting barley,export
+4315,Saudi Arabia,1900,malting barley,export
+4316,Saudi Arabia,2001,malting barley,export
+4317,Saudi Arabia,2002,malting barley,export
+4318,Saudi Arabia,2003,malting barley,export
+4319,Saudi Arabia,2004,malting barley,export
+4320,Saudi Arabia,2005,malting barley,export
+4321,Saudi Arabia,2006,malting barley,export
+4322,Saudi Arabia,2007,malting barley,export
+4323,Saudi Arabia,2008,malting barley,export
+4324,Saudi Arabia,2009,malting barley,export
+4325,Saudi Arabia,2010,malting barley,export
+4326,Saudi Arabia,2011,malting barley,export
+4327,Saudi Arabia,2012,malting barley,export
+4328,Saudi Arabia,2013,malting barley,export
+4329,Saudi Arabia,2014,malting barley,export
+4330,Saudi Arabia,2015,malting barley,export
+4338,Sub-Saharan Africa,1990,malting barley,export
+4339,Sub-Saharan Africa,1991,malting barley,export
+4340,Sub-Saharan Africa,1992,malting barley,export
+4341,Sub-Saharan Africa,1993,malting barley,export
+4342,Sub-Saharan Africa,1994,malting barley,export
+4343,Sub-Saharan Africa,1995,malting barley,export
+4344,Sub-Saharan Africa,1996,malting barley,export
+4345,Sub-Saharan Africa,1997,malting barley,export
+4346,Sub-Saharan Africa,1998,malting barley,export
+4347,Sub-Saharan Africa,1999,malting barley,export
+4348,Sub-Saharan Africa,1900,malting barley,export
+4349,Sub-Saharan Africa,2001,malting barley,export
+4350,Sub-Saharan Africa,2002,malting barley,export
+4351,Sub-Saharan Africa,2003,malting barley,export
+4352,Sub-Saharan Africa,2004,malting barley,export
+4353,Sub-Saharan Africa,2005,malting barley,export
+4354,Sub-Saharan Africa,2006,malting barley,export
+4355,Sub-Saharan Africa,2007,malting barley,export
+4356,Sub-Saharan Africa,2008,malting barley,export
+4357,Sub-Saharan Africa,2009,malting barley,export
+4358,Sub-Saharan Africa,2010,malting barley,export
+4359,Sub-Saharan Africa,2011,malting barley,export
+4360,Sub-Saharan Africa,2012,malting barley,export
+4361,Sub-Saharan Africa,2013,malting barley,export
+4362,Sub-Saharan Africa,2014,malting barley,export
+4363,Sub-Saharan Africa,2015,malting barley,export
+4371,United Arab Emirates,1990,malting barley,export
+4372,United Arab Emirates,1991,malting barley,export
+4373,United Arab Emirates,1992,malting barley,export
+4374,United Arab Emirates,1993,malting barley,export
+4375,United Arab Emirates,1994,malting barley,export
+4376,United Arab Emirates,1995,malting barley,export
+4377,United Arab Emirates,1996,malting barley,export
+4378,United Arab Emirates,1997,malting barley,export
+4379,United Arab Emirates,1998,malting barley,export
+4380,United Arab Emirates,1999,malting barley,export
+4381,United Arab Emirates,1900,malting barley,export
+4382,United Arab Emirates,2001,malting barley,export
+4383,United Arab Emirates,2002,malting barley,export
+4384,United Arab Emirates,2003,malting barley,export
+4385,United Arab Emirates,2004,malting barley,export
+4386,United Arab Emirates,2005,malting barley,export
+4387,United Arab Emirates,2006,malting barley,export
+4388,United Arab Emirates,2007,malting barley,export
+4389,United Arab Emirates,2008,malting barley,export
+4390,United Arab Emirates,2009,malting barley,export
+4391,United Arab Emirates,2010,malting barley,export
+4392,United Arab Emirates,2011,malting barley,export
+4393,United Arab Emirates,2012,malting barley,export
+4394,United Arab Emirates,2013,malting barley,export
+4395,United Arab Emirates,2014,malting barley,export
+4396,United Arab Emirates,2015,malting barley,export
+4404,Uruguay,1990,malting barley,export
+4405,Uruguay,1991,malting barley,export
+4406,Uruguay,1992,malting barley,export
+4407,Uruguay,1993,malting barley,export
+4408,Uruguay,1994,malting barley,export
+4409,Uruguay,1995,malting barley,export
+4410,Uruguay,1996,malting barley,export
+4411,Uruguay,1997,malting barley,export
+4412,Uruguay,1998,malting barley,export
+4413,Uruguay,1999,malting barley,export
+4414,Uruguay,1900,malting barley,export
+4415,Uruguay,2001,malting barley,export
+4416,Uruguay,2002,malting barley,export
+4417,Uruguay,2003,malting barley,export
+4418,Uruguay,2004,malting barley,export
+4419,Uruguay,2005,malting barley,export
+4420,Uruguay,2006,malting barley,export
+4421,Uruguay,2007,malting barley,export
+4422,Uruguay,2008,malting barley,export
+4423,Uruguay,2009,malting barley,export
+4424,Uruguay,2010,malting barley,export
+4425,Uruguay,2011,malting barley,export
+4426,Uruguay,2012,malting barley,export
+4427,Uruguay,2013,malting barley,export
+4428,Uruguay,2014,malting barley,export
+4429,Uruguay,2015,malting barley,export
+4437,China,1990,other barley,export
+4438,China,1991,other barley,export
+4439,China,1992,other barley,export
+4440,China,1993,other barley,export
+4441,China,1994,other barley,export
+4442,China,1995,other barley,export
+4443,China,1996,other barley,export
+4444,China,1997,other barley,export
+4445,China,1998,other barley,export
+4446,China,1999,other barley,export
+4447,China,1900,other barley,export
+4448,China,2001,other barley,export
+4449,China,2002,other barley,export
+4450,China,2003,other barley,export
+4451,China,2004,other barley,export
+4452,China,2005,other barley,export
+4453,China,2006,other barley,export
+4454,China,2007,other barley,export
+4455,China,2008,other barley,export
+4456,China,2009,other barley,export
+4457,China,2010,other barley,export
+4458,China,2011,other barley,export
+4459,China,2012,other barley,export
+4460,China,2013,other barley,export
+4461,China,2014,other barley,export
+4462,China,2015,other barley,export
+4469,Sub-Saharan Africa,1990,other barley,export
+4470,Sub-Saharan Africa,1991,other barley,export
+4471,Sub-Saharan Africa,1992,other barley,export
+4472,Sub-Saharan Africa,1993,other barley,export
+4473,Sub-Saharan Africa,1994,other barley,export
+4474,Sub-Saharan Africa,1995,other barley,export
+4475,Sub-Saharan Africa,1996,other barley,export
+4476,Sub-Saharan Africa,1997,other barley,export
+4477,Sub-Saharan Africa,1998,other barley,export
+4478,Sub-Saharan Africa,1999,other barley,export
+4479,Sub-Saharan Africa,1900,other barley,export
+4480,Sub-Saharan Africa,2001,other barley,export
+4481,Sub-Saharan Africa,2002,other barley,export
+4482,Sub-Saharan Africa,2003,other barley,export
+4483,Sub-Saharan Africa,2004,other barley,export
+4484,Sub-Saharan Africa,2005,other barley,export
+4485,Sub-Saharan Africa,2006,other barley,export
+4486,Sub-Saharan Africa,2007,other barley,export
+4487,Sub-Saharan Africa,2008,other barley,export
+4488,Sub-Saharan Africa,2009,other barley,export
+4489,Sub-Saharan Africa,2010,other barley,export
+4490,Sub-Saharan Africa,2011,other barley,export
+4491,Sub-Saharan Africa,2012,other barley,export
+4492,Sub-Saharan Africa,2013,other barley,export
+4493,Sub-Saharan Africa,2014,other barley,export
+4494,Sub-Saharan Africa,2015,other barley,export
+4501,Mexico,1990,other barley,export
+4502,Mexico,1991,other barley,export
+4503,Mexico,1992,other barley,export
+4504,Mexico,1993,other barley,export
+4505,Mexico,1994,other barley,export
+4506,Mexico,1995,other barley,export
+4507,Mexico,1996,other barley,export
+4508,Mexico,1997,other barley,export
+4509,Mexico,1998,other barley,export
+4510,Mexico,1999,other barley,export
+4511,Mexico,1900,other barley,export
+4512,Mexico,2001,other barley,export
+4513,Mexico,2002,other barley,export
+4514,Mexico,2003,other barley,export
+4515,Mexico,2004,other barley,export
+4516,Mexico,2005,other barley,export
+4517,Mexico,2006,other barley,export
+4518,Mexico,2007,other barley,export
+4519,Mexico,2008,other barley,export
+4520,Mexico,2009,other barley,export
+4521,Mexico,2010,other barley,export
+4522,Mexico,2011,other barley,export
+4523,Mexico,2012,other barley,export
+4524,Mexico,2013,other barley,export
+4525,Mexico,2014,other barley,export
+4526,Mexico,2015,other barley,export
+4533,Japan,1990,other barley,export
+4534,Japan,1991,other barley,export
+4535,Japan,1992,other barley,export
+4536,Japan,1993,other barley,export
+4537,Japan,1994,other barley,export
+4538,Japan,1995,other barley,export
+4539,Japan,1996,other barley,export
+4540,Japan,1997,other barley,export
+4541,Japan,1998,other barley,export
+4542,Japan,1999,other barley,export
+4543,Japan,1900,other barley,export
+4544,Japan,2001,other barley,export
+4545,Japan,2002,other barley,export
+4546,Japan,2003,other barley,export
+4547,Japan,2004,other barley,export
+4548,Japan,2005,other barley,export
+4549,Japan,2006,other barley,export
+4550,Japan,2007,other barley,export
+4551,Japan,2008,other barley,export
+4552,Japan,2009,other barley,export
+4553,Japan,2010,other barley,export
+4554,Japan,2011,other barley,export
+4555,Japan,2012,other barley,export
+4556,Japan,2013,other barley,export
+4557,Japan,2014,other barley,export
+4558,Japan,2015,other barley,export
+4565,Canada,1990,other barley,export
+4566,Canada,1991,other barley,export
+4567,Canada,1992,other barley,export
+4568,Canada,1993,other barley,export
+4569,Canada,1994,other barley,export
+4570,Canada,1995,other barley,export
+4571,Canada,1996,other barley,export
+4572,Canada,1997,other barley,export
+4573,Canada,1998,other barley,export
+4574,Canada,1999,other barley,export
+4575,Canada,1900,other barley,export
+4576,Canada,2001,other barley,export
+4577,Canada,2002,other barley,export
+4578,Canada,2003,other barley,export
+4579,Canada,2004,other barley,export
+4580,Canada,2005,other barley,export
+4581,Canada,2006,other barley,export
+4582,Canada,2007,other barley,export
+4583,Canada,2008,other barley,export
+4584,Canada,2009,other barley,export
+4585,Canada,2010,other barley,export
+4586,Canada,2011,other barley,export
+4587,Canada,2012,other barley,export
+4588,Canada,2013,other barley,export
+4589,Canada,2014,other barley,export
+4590,Canada,2015,other barley,export
+4597,European Union,1990,other barley,export
+4598,European Union,1991,other barley,export
+4599,European Union,1992,other barley,export
+4600,European Union,1993,other barley,export
+4601,European Union,1994,other barley,export
+4602,European Union,1995,other barley,export
+4603,European Union,1996,other barley,export
+4604,European Union,1997,other barley,export
+4605,European Union,1998,other barley,export
+4606,European Union,1999,other barley,export
+4607,European Union,1900,other barley,export
+4608,European Union,2001,other barley,export
+4609,European Union,2002,other barley,export
+4610,European Union,2003,other barley,export
+4611,European Union,2004,other barley,export
+4612,European Union,2005,other barley,export
+4613,European Union,2006,other barley,export
+4614,European Union,2007,other barley,export
+4615,European Union,2008,other barley,export
+4616,European Union,2009,other barley,export
+4617,European Union,2010,other barley,export
+4618,European Union,2011,other barley,export
+4619,European Union,2012,other barley,export
+4620,European Union,2013,other barley,export
+4621,European Union,2014,other barley,export
+4622,European Union,2015,other barley,export
+4629,South Korea,1990,other barley,export
+4630,South Korea,1991,other barley,export
+4631,South Korea,1992,other barley,export
+4632,South Korea,1993,other barley,export
+4633,South Korea,1994,other barley,export
+4634,South Korea,1995,other barley,export
+4635,South Korea,1996,other barley,export
+4636,South Korea,1997,other barley,export
+4637,South Korea,1998,other barley,export
+4638,South Korea,1999,other barley,export
+4639,South Korea,1900,other barley,export
+4640,South Korea,2001,other barley,export
+4641,South Korea,2002,other barley,export
+4642,South Korea,2003,other barley,export
+4643,South Korea,2004,other barley,export
+4644,South Korea,2005,other barley,export
+4645,South Korea,2006,other barley,export
+4646,South Korea,2007,other barley,export
+4647,South Korea,2008,other barley,export
+4648,South Korea,2009,other barley,export
+4649,South Korea,2010,other barley,export
+4650,South Korea,2011,other barley,export
+4651,South Korea,2012,other barley,export
+4652,South Korea,2013,other barley,export
+4653,South Korea,2014,other barley,export
+4654,South Korea,2015,other barley,export
+4661,Uruguay,1990,other barley,export
+4662,Uruguay,1991,other barley,export
+4663,Uruguay,1992,other barley,export
+4664,Uruguay,1993,other barley,export
+4665,Uruguay,1994,other barley,export
+4666,Uruguay,1995,other barley,export
+4667,Uruguay,1996,other barley,export
+4668,Uruguay,1997,other barley,export
+4669,Uruguay,1998,other barley,export
+4670,Uruguay,1999,other barley,export
+4671,Uruguay,1900,other barley,export
+4672,Uruguay,2001,other barley,export
+4673,Uruguay,2002,other barley,export
+4674,Uruguay,2003,other barley,export
+4675,Uruguay,2004,other barley,export
+4676,Uruguay,2005,other barley,export
+4677,Uruguay,2006,other barley,export
+4678,Uruguay,2007,other barley,export
+4679,Uruguay,2008,other barley,export
+4680,Uruguay,2009,other barley,export
+4681,Uruguay,2010,other barley,export
+4682,Uruguay,2011,other barley,export
+4683,Uruguay,2012,other barley,export
+4684,Uruguay,2013,other barley,export
+4685,Uruguay,2014,other barley,export
+4686,Uruguay,2015,other barley,export
+4693,Argentina,1990,other barley,export
+4694,Argentina,1991,other barley,export
+4695,Argentina,1992,other barley,export
+4696,Argentina,1993,other barley,export
+4697,Argentina,1994,other barley,export
+4698,Argentina,1995,other barley,export
+4699,Argentina,1996,other barley,export
+4700,Argentina,1997,other barley,export
+4701,Argentina,1998,other barley,export
+4702,Argentina,1999,other barley,export
+4703,Argentina,1900,other barley,export
+4704,Argentina,2001,other barley,export
+4705,Argentina,2002,other barley,export
+4706,Argentina,2003,other barley,export
+4707,Argentina,2004,other barley,export
+4708,Argentina,2005,other barley,export
+4709,Argentina,2006,other barley,export
+4710,Argentina,2007,other barley,export
+4711,Argentina,2008,other barley,export
+4712,Argentina,2009,other barley,export
+4713,Argentina,2010,other barley,export
+4714,Argentina,2011,other barley,export
+4715,Argentina,2012,other barley,export
+4716,Argentina,2013,other barley,export
+4717,Argentina,2014,other barley,export
+4718,Argentina,2015,other barley,export
+4725,Pakistan,1990,other barley,export
+4726,Pakistan,1991,other barley,export
+4727,Pakistan,1992,other barley,export
+4728,Pakistan,1993,other barley,export
+4729,Pakistan,1994,other barley,export
+4730,Pakistan,1995,other barley,export
+4731,Pakistan,1996,other barley,export
+4732,Pakistan,1997,other barley,export
+4733,Pakistan,1998,other barley,export
+4734,Pakistan,1999,other barley,export
+4735,Pakistan,1900,other barley,export
+4736,Pakistan,2001,other barley,export
+4737,Pakistan,2002,other barley,export
+4738,Pakistan,2003,other barley,export
+4739,Pakistan,2004,other barley,export
+4740,Pakistan,2005,other barley,export
+4741,Pakistan,2006,other barley,export
+4742,Pakistan,2007,other barley,export
+4743,Pakistan,2008,other barley,export
+4744,Pakistan,2009,other barley,export
+4745,Pakistan,2010,other barley,export
+4746,Pakistan,2011,other barley,export
+4747,Pakistan,2012,other barley,export
+4748,Pakistan,2013,other barley,export
+4749,Pakistan,2014,other barley,export
+4750,Pakistan,2015,other barley,export
+4757,Tunisia,1990,other barley,export
+4758,Tunisia,1991,other barley,export
+4759,Tunisia,1992,other barley,export
+4760,Tunisia,1993,other barley,export
+4761,Tunisia,1994,other barley,export
+4762,Tunisia,1995,other barley,export
+4763,Tunisia,1996,other barley,export
+4764,Tunisia,1997,other barley,export
+4765,Tunisia,1998,other barley,export
+4766,Tunisia,1999,other barley,export
+4767,Tunisia,1900,other barley,export
+4768,Tunisia,2001,other barley,export
+4769,Tunisia,2002,other barley,export
+4770,Tunisia,2003,other barley,export
+4771,Tunisia,2004,other barley,export
+4772,Tunisia,2005,other barley,export
+4773,Tunisia,2006,other barley,export
+4774,Tunisia,2007,other barley,export
+4775,Tunisia,2008,other barley,export
+4776,Tunisia,2009,other barley,export
+4777,Tunisia,2010,other barley,export
+4778,Tunisia,2011,other barley,export
+4779,Tunisia,2012,other barley,export
+4780,Tunisia,2013,other barley,export
+4781,Tunisia,2014,other barley,export
+4782,Tunisia,2015,other barley,export
+4789,Algeria,1990,other barley,export
+4790,Algeria,1991,other barley,export
+4791,Algeria,1992,other barley,export
+4792,Algeria,1993,other barley,export
+4793,Algeria,1994,other barley,export
+4794,Algeria,1995,other barley,export
+4795,Algeria,1996,other barley,export
+4796,Algeria,1997,other barley,export
+4797,Algeria,1998,other barley,export
+4798,Algeria,1999,other barley,export
+4799,Algeria,1900,other barley,export
+4800,Algeria,2001,other barley,export
+4801,Algeria,2002,other barley,export
+4802,Algeria,2003,other barley,export
+4803,Algeria,2004,other barley,export
+4804,Algeria,2005,other barley,export
+4805,Algeria,2006,other barley,export
+4806,Algeria,2007,other barley,export
+4807,Algeria,2008,other barley,export
+4808,Algeria,2009,other barley,export
+4809,Algeria,2010,other barley,export
+4810,Algeria,2011,other barley,export
+4811,Algeria,2012,other barley,export
+4812,Algeria,2013,other barley,export
+4813,Algeria,2014,other barley,export
+4814,Algeria,2015,other barley,export
+4821,Brazil,1990,other barley,export
+4822,Brazil,1991,other barley,export
+4823,Brazil,1992,other barley,export
+4824,Brazil,1993,other barley,export
+4825,Brazil,1994,other barley,export
+4826,Brazil,1995,other barley,export
+4827,Brazil,1996,other barley,export
+4828,Brazil,1997,other barley,export
+4829,Brazil,1998,other barley,export
+4830,Brazil,1999,other barley,export
+4831,Brazil,1900,other barley,export
+4832,Brazil,2001,other barley,export
+4833,Brazil,2002,other barley,export
+4834,Brazil,2003,other barley,export
+4835,Brazil,2004,other barley,export
+4836,Brazil,2005,other barley,export
+4837,Brazil,2006,other barley,export
+4838,Brazil,2007,other barley,export
+4839,Brazil,2008,other barley,export
+4840,Brazil,2009,other barley,export
+4841,Brazil,2010,other barley,export
+4842,Brazil,2011,other barley,export
+4843,Brazil,2012,other barley,export
+4844,Brazil,2013,other barley,export
+4845,Brazil,2014,other barley,export
+4846,Brazil,2015,other barley,export
+4853,Australia,1990,other barley,export
+4854,Australia,1991,other barley,export
+4855,Australia,1992,other barley,export
+4856,Australia,1993,other barley,export
+4857,Australia,1994,other barley,export
+4858,Australia,1995,other barley,export
+4859,Australia,1996,other barley,export
+4860,Australia,1997,other barley,export
+4861,Australia,1998,other barley,export
+4862,Australia,1999,other barley,export
+4863,Australia,1900,other barley,export
+4864,Australia,2001,other barley,export
+4865,Australia,2002,other barley,export
+4866,Australia,2003,other barley,export
+4867,Australia,2004,other barley,export
+4868,Australia,2005,other barley,export
+4869,Australia,2006,other barley,export
+4870,Australia,2007,other barley,export
+4871,Australia,2008,other barley,export
+4872,Australia,2009,other barley,export
+4873,Australia,2010,other barley,export
+4874,Australia,2011,other barley,export
+4875,Australia,2012,other barley,export
+4876,Australia,2013,other barley,export
+4877,Australia,2014,other barley,export
+4878,Australia,2015,other barley,export
+4885,Thailand,1990,other barley,export
+4886,Thailand,1991,other barley,export
+4887,Thailand,1992,other barley,export
+4888,Thailand,1993,other barley,export
+4889,Thailand,1994,other barley,export
+4890,Thailand,1995,other barley,export
+4891,Thailand,1996,other barley,export
+4892,Thailand,1997,other barley,export
+4893,Thailand,1998,other barley,export
+4894,Thailand,1999,other barley,export
+4895,Thailand,1900,other barley,export
+4896,Thailand,2001,other barley,export
+4897,Thailand,2002,other barley,export
+4898,Thailand,2003,other barley,export
+4899,Thailand,2004,other barley,export
+4900,Thailand,2005,other barley,export
+4901,Thailand,2006,other barley,export
+4902,Thailand,2007,other barley,export
+4903,Thailand,2008,other barley,export
+4904,Thailand,2009,other barley,export
+4905,Thailand,2010,other barley,export
+4906,Thailand,2011,other barley,export
+4907,Thailand,2012,other barley,export
+4908,Thailand,2013,other barley,export
+4909,Thailand,2014,other barley,export
+4910,Thailand,2015,other barley,export
+4917,Bangladesh,1990,other barley,export
+4918,Bangladesh,1991,other barley,export
+4919,Bangladesh,1992,other barley,export
+4920,Bangladesh,1993,other barley,export
+4921,Bangladesh,1994,other barley,export
+4922,Bangladesh,1995,other barley,export
+4923,Bangladesh,1996,other barley,export
+4924,Bangladesh,1997,other barley,export
+4925,Bangladesh,1998,other barley,export
+4926,Bangladesh,1999,other barley,export
+4927,Bangladesh,1900,other barley,export
+4928,Bangladesh,2001,other barley,export
+4929,Bangladesh,2002,other barley,export
+4930,Bangladesh,2003,other barley,export
+4931,Bangladesh,2004,other barley,export
+4932,Bangladesh,2005,other barley,export
+4933,Bangladesh,2006,other barley,export
+4934,Bangladesh,2007,other barley,export
+4935,Bangladesh,2008,other barley,export
+4936,Bangladesh,2009,other barley,export
+4937,Bangladesh,2010,other barley,export
+4938,Bangladesh,2011,other barley,export
+4939,Bangladesh,2012,other barley,export
+4940,Bangladesh,2013,other barley,export
+4941,Bangladesh,2014,other barley,export
+4942,Bangladesh,2015,other barley,export
+4949,Chile,1990,other barley,export
+4950,Chile,1991,other barley,export
+4951,Chile,1992,other barley,export
+4952,Chile,1993,other barley,export
+4953,Chile,1994,other barley,export
+4954,Chile,1995,other barley,export
+4955,Chile,1996,other barley,export
+4956,Chile,1997,other barley,export
+4957,Chile,1998,other barley,export
+4958,Chile,1999,other barley,export
+4959,Chile,1900,other barley,export
+4960,Chile,2001,other barley,export
+4961,Chile,2002,other barley,export
+4962,Chile,2003,other barley,export
+4963,Chile,2004,other barley,export
+4964,Chile,2005,other barley,export
+4965,Chile,2006,other barley,export
+4966,Chile,2007,other barley,export
+4967,Chile,2008,other barley,export
+4968,Chile,2009,other barley,export
+4969,Chile,2010,other barley,export
+4970,Chile,2011,other barley,export
+4971,Chile,2012,other barley,export
+4972,Chile,2013,other barley,export
+4973,Chile,2014,other barley,export
+4974,Chile,2015,other barley,export
+4981,Colombia,1990,other barley,export
+4982,Colombia,1991,other barley,export
+4983,Colombia,1992,other barley,export
+4984,Colombia,1993,other barley,export
+4985,Colombia,1994,other barley,export
+4986,Colombia,1995,other barley,export
+4987,Colombia,1996,other barley,export
+4988,Colombia,1997,other barley,export
+4989,Colombia,1998,other barley,export
+4990,Colombia,1999,other barley,export
+4991,Colombia,1900,other barley,export
+4992,Colombia,2001,other barley,export
+4993,Colombia,2002,other barley,export
+4994,Colombia,2003,other barley,export
+4995,Colombia,2004,other barley,export
+4996,Colombia,2005,other barley,export
+4997,Colombia,2006,other barley,export
+4998,Colombia,2007,other barley,export
+4999,Colombia,2008,other barley,export
+5000,Colombia,2009,other barley,export
+5001,Colombia,2010,other barley,export
+5002,Colombia,2011,other barley,export
+5003,Colombia,2012,other barley,export
+5004,Colombia,2013,other barley,export
+5005,Colombia,2014,other barley,export
+5006,Colombia,2015,other barley,export
+5013,Ecuador,1990,other barley,export
+5014,Ecuador,1991,other barley,export
+5015,Ecuador,1992,other barley,export
+5016,Ecuador,1993,other barley,export
+5017,Ecuador,1994,other barley,export
+5018,Ecuador,1995,other barley,export
+5019,Ecuador,1996,other barley,export
+5020,Ecuador,1997,other barley,export
+5021,Ecuador,1998,other barley,export
+5022,Ecuador,1999,other barley,export
+5023,Ecuador,1900,other barley,export
+5024,Ecuador,2001,other barley,export
+5025,Ecuador,2002,other barley,export
+5026,Ecuador,2003,other barley,export
+5027,Ecuador,2004,other barley,export
+5028,Ecuador,2005,other barley,export
+5029,Ecuador,2006,other barley,export
+5030,Ecuador,2007,other barley,export
+5031,Ecuador,2008,other barley,export
+5032,Ecuador,2009,other barley,export
+5033,Ecuador,2010,other barley,export
+5034,Ecuador,2011,other barley,export
+5035,Ecuador,2012,other barley,export
+5036,Ecuador,2013,other barley,export
+5037,Ecuador,2014,other barley,export
+5038,Ecuador,2015,other barley,export
+5045,Egypt,1990,other barley,export
+5046,Egypt,1991,other barley,export
+5047,Egypt,1992,other barley,export
+5048,Egypt,1993,other barley,export
+5049,Egypt,1994,other barley,export
+5050,Egypt,1995,other barley,export
+5051,Egypt,1996,other barley,export
+5052,Egypt,1997,other barley,export
+5053,Egypt,1998,other barley,export
+5054,Egypt,1999,other barley,export
+5055,Egypt,1900,other barley,export
+5056,Egypt,2001,other barley,export
+5057,Egypt,2002,other barley,export
+5058,Egypt,2003,other barley,export
+5059,Egypt,2004,other barley,export
+5060,Egypt,2005,other barley,export
+5061,Egypt,2006,other barley,export
+5062,Egypt,2007,other barley,export
+5063,Egypt,2008,other barley,export
+5064,Egypt,2009,other barley,export
+5065,Egypt,2010,other barley,export
+5066,Egypt,2011,other barley,export
+5067,Egypt,2012,other barley,export
+5068,Egypt,2013,other barley,export
+5069,Egypt,2014,other barley,export
+5070,Egypt,2015,other barley,export
+5077,India,1990,other barley,export
+5078,India,1991,other barley,export
+5079,India,1992,other barley,export
+5080,India,1993,other barley,export
+5081,India,1994,other barley,export
+5082,India,1995,other barley,export
+5083,India,1996,other barley,export
+5084,India,1997,other barley,export
+5085,India,1998,other barley,export
+5086,India,1999,other barley,export
+5087,India,1900,other barley,export
+5088,India,2001,other barley,export
+5089,India,2002,other barley,export
+5090,India,2003,other barley,export
+5091,India,2004,other barley,export
+5092,India,2005,other barley,export
+5093,India,2006,other barley,export
+5094,India,2007,other barley,export
+5095,India,2008,other barley,export
+5096,India,2009,other barley,export
+5097,India,2010,other barley,export
+5098,India,2011,other barley,export
+5099,India,2012,other barley,export
+5100,India,2013,other barley,export
+5101,India,2014,other barley,export
+5102,India,2015,other barley,export
+5109,Indonesia,1990,other barley,export
+5110,Indonesia,1991,other barley,export
+5111,Indonesia,1992,other barley,export
+5112,Indonesia,1993,other barley,export
+5113,Indonesia,1994,other barley,export
+5114,Indonesia,1995,other barley,export
+5115,Indonesia,1996,other barley,export
+5116,Indonesia,1997,other barley,export
+5117,Indonesia,1998,other barley,export
+5118,Indonesia,1999,other barley,export
+5119,Indonesia,1900,other barley,export
+5120,Indonesia,2001,other barley,export
+5121,Indonesia,2002,other barley,export
+5122,Indonesia,2003,other barley,export
+5123,Indonesia,2004,other barley,export
+5124,Indonesia,2005,other barley,export
+5125,Indonesia,2006,other barley,export
+5126,Indonesia,2007,other barley,export
+5127,Indonesia,2008,other barley,export
+5128,Indonesia,2009,other barley,export
+5129,Indonesia,2010,other barley,export
+5130,Indonesia,2011,other barley,export
+5131,Indonesia,2012,other barley,export
+5132,Indonesia,2013,other barley,export
+5133,Indonesia,2014,other barley,export
+5134,Indonesia,2015,other barley,export
+5141,Iran,1990,other barley,export
+5142,Iran,1991,other barley,export
+5143,Iran,1992,other barley,export
+5144,Iran,1993,other barley,export
+5145,Iran,1994,other barley,export
+5146,Iran,1995,other barley,export
+5147,Iran,1996,other barley,export
+5148,Iran,1997,other barley,export
+5149,Iran,1998,other barley,export
+5150,Iran,1999,other barley,export
+5151,Iran,1900,other barley,export
+5152,Iran,2001,other barley,export
+5153,Iran,2002,other barley,export
+5154,Iran,2003,other barley,export
+5155,Iran,2004,other barley,export
+5156,Iran,2005,other barley,export
+5157,Iran,2006,other barley,export
+5158,Iran,2007,other barley,export
+5159,Iran,2008,other barley,export
+5160,Iran,2009,other barley,export
+5161,Iran,2010,other barley,export
+5162,Iran,2011,other barley,export
+5163,Iran,2012,other barley,export
+5164,Iran,2013,other barley,export
+5165,Iran,2014,other barley,export
+5166,Iran,2015,other barley,export
+5173,Israel,1990,other barley,export
+5174,Israel,1991,other barley,export
+5175,Israel,1992,other barley,export
+5176,Israel,1993,other barley,export
+5177,Israel,1994,other barley,export
+5178,Israel,1995,other barley,export
+5179,Israel,1996,other barley,export
+5180,Israel,1997,other barley,export
+5181,Israel,1998,other barley,export
+5182,Israel,1999,other barley,export
+5183,Israel,1900,other barley,export
+5184,Israel,2001,other barley,export
+5185,Israel,2002,other barley,export
+5186,Israel,2003,other barley,export
+5187,Israel,2004,other barley,export
+5188,Israel,2005,other barley,export
+5189,Israel,2006,other barley,export
+5190,Israel,2007,other barley,export
+5191,Israel,2008,other barley,export
+5192,Israel,2009,other barley,export
+5193,Israel,2010,other barley,export
+5194,Israel,2011,other barley,export
+5195,Israel,2012,other barley,export
+5196,Israel,2013,other barley,export
+5197,Israel,2014,other barley,export
+5198,Israel,2015,other barley,export
+5205,Morocco,1990,other barley,export
+5206,Morocco,1991,other barley,export
+5207,Morocco,1992,other barley,export
+5208,Morocco,1993,other barley,export
+5209,Morocco,1994,other barley,export
+5210,Morocco,1995,other barley,export
+5211,Morocco,1996,other barley,export
+5212,Morocco,1997,other barley,export
+5213,Morocco,1998,other barley,export
+5214,Morocco,1999,other barley,export
+5215,Morocco,1900,other barley,export
+5216,Morocco,2001,other barley,export
+5217,Morocco,2002,other barley,export
+5218,Morocco,2003,other barley,export
+5219,Morocco,2004,other barley,export
+5220,Morocco,2005,other barley,export
+5221,Morocco,2006,other barley,export
+5222,Morocco,2007,other barley,export
+5223,Morocco,2008,other barley,export
+5224,Morocco,2009,other barley,export
+5225,Morocco,2010,other barley,export
+5226,Morocco,2011,other barley,export
+5227,Morocco,2012,other barley,export
+5228,Morocco,2013,other barley,export
+5229,Morocco,2014,other barley,export
+5230,Morocco,2015,other barley,export
+5237,Other Europe,1990,other barley,export
+5238,Other Europe,1991,other barley,export
+5239,Other Europe,1992,other barley,export
+5240,Other Europe,1993,other barley,export
+5241,Other Europe,1994,other barley,export
+5242,Other Europe,1995,other barley,export
+5243,Other Europe,1996,other barley,export
+5244,Other Europe,1997,other barley,export
+5245,Other Europe,1998,other barley,export
+5246,Other Europe,1999,other barley,export
+5247,Other Europe,1900,other barley,export
+5248,Other Europe,2001,other barley,export
+5249,Other Europe,2002,other barley,export
+5250,Other Europe,2003,other barley,export
+5251,Other Europe,2004,other barley,export
+5252,Other Europe,2005,other barley,export
+5253,Other Europe,2006,other barley,export
+5254,Other Europe,2007,other barley,export
+5255,Other Europe,2008,other barley,export
+5256,Other Europe,2009,other barley,export
+5257,Other Europe,2010,other barley,export
+5258,Other Europe,2011,other barley,export
+5259,Other Europe,2012,other barley,export
+5260,Other Europe,2013,other barley,export
+5261,Other Europe,2014,other barley,export
+5262,Other Europe,2015,other barley,export
+5269,Paraguay,1990,other barley,export
+5270,Paraguay,1991,other barley,export
+5271,Paraguay,1992,other barley,export
+5272,Paraguay,1993,other barley,export
+5273,Paraguay,1994,other barley,export
+5274,Paraguay,1995,other barley,export
+5275,Paraguay,1996,other barley,export
+5276,Paraguay,1997,other barley,export
+5277,Paraguay,1998,other barley,export
+5278,Paraguay,1999,other barley,export
+5279,Paraguay,1900,other barley,export
+5280,Paraguay,2001,other barley,export
+5281,Paraguay,2002,other barley,export
+5282,Paraguay,2003,other barley,export
+5283,Paraguay,2004,other barley,export
+5284,Paraguay,2005,other barley,export
+5285,Paraguay,2006,other barley,export
+5286,Paraguay,2007,other barley,export
+5287,Paraguay,2008,other barley,export
+5288,Paraguay,2009,other barley,export
+5289,Paraguay,2010,other barley,export
+5290,Paraguay,2011,other barley,export
+5291,Paraguay,2012,other barley,export
+5292,Paraguay,2013,other barley,export
+5293,Paraguay,2014,other barley,export
+5294,Paraguay,2015,other barley,export
+5301,Philippines,1990,other barley,export
+5302,Philippines,1991,other barley,export
+5303,Philippines,1992,other barley,export
+5304,Philippines,1993,other barley,export
+5305,Philippines,1994,other barley,export
+5306,Philippines,1995,other barley,export
+5307,Philippines,1996,other barley,export
+5308,Philippines,1997,other barley,export
+5309,Philippines,1998,other barley,export
+5310,Philippines,1999,other barley,export
+5311,Philippines,1900,other barley,export
+5312,Philippines,2001,other barley,export
+5313,Philippines,2002,other barley,export
+5314,Philippines,2003,other barley,export
+5315,Philippines,2004,other barley,export
+5316,Philippines,2005,other barley,export
+5317,Philippines,2006,other barley,export
+5318,Philippines,2007,other barley,export
+5319,Philippines,2008,other barley,export
+5320,Philippines,2009,other barley,export
+5321,Philippines,2010,other barley,export
+5322,Philippines,2011,other barley,export
+5323,Philippines,2012,other barley,export
+5324,Philippines,2013,other barley,export
+5325,Philippines,2014,other barley,export
+5326,Philippines,2015,other barley,export
+5333,Saudi Arabia,1990,other barley,export
+5334,Saudi Arabia,1991,other barley,export
+5335,Saudi Arabia,1992,other barley,export
+5336,Saudi Arabia,1993,other barley,export
+5337,Saudi Arabia,1994,other barley,export
+5338,Saudi Arabia,1995,other barley,export
+5339,Saudi Arabia,1996,other barley,export
+5340,Saudi Arabia,1997,other barley,export
+5341,Saudi Arabia,1998,other barley,export
+5342,Saudi Arabia,1999,other barley,export
+5343,Saudi Arabia,1900,other barley,export
+5344,Saudi Arabia,2001,other barley,export
+5345,Saudi Arabia,2002,other barley,export
+5346,Saudi Arabia,2003,other barley,export
+5347,Saudi Arabia,2004,other barley,export
+5348,Saudi Arabia,2005,other barley,export
+5349,Saudi Arabia,2006,other barley,export
+5350,Saudi Arabia,2007,other barley,export
+5351,Saudi Arabia,2008,other barley,export
+5352,Saudi Arabia,2009,other barley,export
+5353,Saudi Arabia,2010,other barley,export
+5354,Saudi Arabia,2011,other barley,export
+5355,Saudi Arabia,2012,other barley,export
+5356,Saudi Arabia,2013,other barley,export
+5357,Saudi Arabia,2014,other barley,export
+5358,Saudi Arabia,2015,other barley,export
+5365,Turkey,1990,other barley,export
+5366,Turkey,1991,other barley,export
+5367,Turkey,1992,other barley,export
+5368,Turkey,1993,other barley,export
+5369,Turkey,1994,other barley,export
+5370,Turkey,1995,other barley,export
+5371,Turkey,1996,other barley,export
+5372,Turkey,1997,other barley,export
+5373,Turkey,1998,other barley,export
+5374,Turkey,1999,other barley,export
+5375,Turkey,1900,other barley,export
+5376,Turkey,2001,other barley,export
+5377,Turkey,2002,other barley,export
+5378,Turkey,2003,other barley,export
+5379,Turkey,2004,other barley,export
+5380,Turkey,2005,other barley,export
+5381,Turkey,2006,other barley,export
+5382,Turkey,2007,other barley,export
+5383,Turkey,2008,other barley,export
+5384,Turkey,2009,other barley,export
+5385,Turkey,2010,other barley,export
+5386,Turkey,2011,other barley,export
+5387,Turkey,2012,other barley,export
+5388,Turkey,2013,other barley,export
+5389,Turkey,2014,other barley,export
+5390,Turkey,2015,other barley,export
+5397,United Arab Emirates,1990,other barley,export
+5398,United Arab Emirates,1991,other barley,export
+5399,United Arab Emirates,1992,other barley,export
+5400,United Arab Emirates,1993,other barley,export
+5401,United Arab Emirates,1994,other barley,export
+5402,United Arab Emirates,1995,other barley,export
+5403,United Arab Emirates,1996,other barley,export
+5404,United Arab Emirates,1997,other barley,export
+5405,United Arab Emirates,1998,other barley,export
+5406,United Arab Emirates,1999,other barley,export
+5407,United Arab Emirates,1900,other barley,export
+5408,United Arab Emirates,2001,other barley,export
+5409,United Arab Emirates,2002,other barley,export
+5410,United Arab Emirates,2003,other barley,export
+5411,United Arab Emirates,2004,other barley,export
+5412,United Arab Emirates,2005,other barley,export
+5413,United Arab Emirates,2006,other barley,export
+5414,United Arab Emirates,2007,other barley,export
+5415,United Arab Emirates,2008,other barley,export
+5416,United Arab Emirates,2009,other barley,export
+5417,United Arab Emirates,2010,other barley,export
+5418,United Arab Emirates,2011,other barley,export
+5419,United Arab Emirates,2012,other barley,export
+5420,United Arab Emirates,2013,other barley,export
+5421,United Arab Emirates,2014,other barley,export
+5422,United Arab Emirates,2015,other barley,export
+5429,Vietnam,1990,other barley,export
+5430,Vietnam,1991,other barley,export
+5431,Vietnam,1992,other barley,export
+5432,Vietnam,1993,other barley,export
+5433,Vietnam,1994,other barley,export
+5434,Vietnam,1995,other barley,export
+5435,Vietnam,1996,other barley,export
+5436,Vietnam,1997,other barley,export
+5437,Vietnam,1998,other barley,export
+5438,Vietnam,1999,other barley,export
+5439,Vietnam,1900,other barley,export
+5440,Vietnam,2001,other barley,export
+5441,Vietnam,2002,other barley,export
+5442,Vietnam,2003,other barley,export
+5443,Vietnam,2004,other barley,export
+5444,Vietnam,2005,other barley,export
+5445,Vietnam,2006,other barley,export
+5446,Vietnam,2007,other barley,export
+5447,Vietnam,2008,other barley,export
+5448,Vietnam,2009,other barley,export
+5449,Vietnam,2010,other barley,export
+5450,Vietnam,2011,other barley,export
+5451,Vietnam,2012,other barley,export
+5452,Vietnam,2013,other barley,export
+5453,Vietnam,2014,other barley,export
+5454,Vietnam,2015,other barley,export
+5461,China,1990,sorghum,export
+5462,China,1991,sorghum,export
+5463,China,1992,sorghum,export
+5464,China,1993,sorghum,export
+5465,China,1994,sorghum,export
+5466,China,1995,sorghum,export
+5467,China,1996,sorghum,export
+5468,China,1997,sorghum,export
+5469,China,1998,sorghum,export
+5470,China,1999,sorghum,export
+5471,China,1900,sorghum,export
+5472,China,2001,sorghum,export
+5473,China,2002,sorghum,export
+5474,China,2003,sorghum,export
+5475,China,2004,sorghum,export
+5476,China,2005,sorghum,export
+5477,China,2006,sorghum,export
+5478,China,2007,sorghum,export
+5479,China,2008,sorghum,export
+5480,China,2009,sorghum,export
+5481,China,2010,sorghum,export
+5482,China,2011,sorghum,export
+5483,China,2012,sorghum,export
+5484,China,2013,sorghum,export
+5485,China,2014,sorghum,export
+5486,China,2015,sorghum,export
+5493,Sub-Saharan Africa,1990,sorghum,export
+5494,Sub-Saharan Africa,1991,sorghum,export
+5495,Sub-Saharan Africa,1992,sorghum,export
+5496,Sub-Saharan Africa,1993,sorghum,export
+5497,Sub-Saharan Africa,1994,sorghum,export
+5498,Sub-Saharan Africa,1995,sorghum,export
+5499,Sub-Saharan Africa,1996,sorghum,export
+5500,Sub-Saharan Africa,1997,sorghum,export
+5501,Sub-Saharan Africa,1998,sorghum,export
+5502,Sub-Saharan Africa,1999,sorghum,export
+5503,Sub-Saharan Africa,1900,sorghum,export
+5504,Sub-Saharan Africa,2001,sorghum,export
+5505,Sub-Saharan Africa,2002,sorghum,export
+5506,Sub-Saharan Africa,2003,sorghum,export
+5507,Sub-Saharan Africa,2004,sorghum,export
+5508,Sub-Saharan Africa,2005,sorghum,export
+5509,Sub-Saharan Africa,2006,sorghum,export
+5510,Sub-Saharan Africa,2007,sorghum,export
+5511,Sub-Saharan Africa,2008,sorghum,export
+5512,Sub-Saharan Africa,2009,sorghum,export
+5513,Sub-Saharan Africa,2010,sorghum,export
+5514,Sub-Saharan Africa,2011,sorghum,export
+5515,Sub-Saharan Africa,2012,sorghum,export
+5516,Sub-Saharan Africa,2013,sorghum,export
+5517,Sub-Saharan Africa,2014,sorghum,export
+5518,Sub-Saharan Africa,2015,sorghum,export
+5525,Mexico,1990,sorghum,export
+5526,Mexico,1991,sorghum,export
+5527,Mexico,1992,sorghum,export
+5528,Mexico,1993,sorghum,export
+5529,Mexico,1994,sorghum,export
+5530,Mexico,1995,sorghum,export
+5531,Mexico,1996,sorghum,export
+5532,Mexico,1997,sorghum,export
+5533,Mexico,1998,sorghum,export
+5534,Mexico,1999,sorghum,export
+5535,Mexico,1900,sorghum,export
+5536,Mexico,2001,sorghum,export
+5537,Mexico,2002,sorghum,export
+5538,Mexico,2003,sorghum,export
+5539,Mexico,2004,sorghum,export
+5540,Mexico,2005,sorghum,export
+5541,Mexico,2006,sorghum,export
+5542,Mexico,2007,sorghum,export
+5543,Mexico,2008,sorghum,export
+5544,Mexico,2009,sorghum,export
+5545,Mexico,2010,sorghum,export
+5546,Mexico,2011,sorghum,export
+5547,Mexico,2012,sorghum,export
+5548,Mexico,2013,sorghum,export
+5549,Mexico,2014,sorghum,export
+5550,Mexico,2015,sorghum,export
+5557,Japan,1990,sorghum,export
+5558,Japan,1991,sorghum,export
+5559,Japan,1992,sorghum,export
+5560,Japan,1993,sorghum,export
+5561,Japan,1994,sorghum,export
+5562,Japan,1995,sorghum,export
+5563,Japan,1996,sorghum,export
+5564,Japan,1997,sorghum,export
+5565,Japan,1998,sorghum,export
+5566,Japan,1999,sorghum,export
+5567,Japan,1900,sorghum,export
+5568,Japan,2001,sorghum,export
+5569,Japan,2002,sorghum,export
+5570,Japan,2003,sorghum,export
+5571,Japan,2004,sorghum,export
+5572,Japan,2005,sorghum,export
+5573,Japan,2006,sorghum,export
+5574,Japan,2007,sorghum,export
+5575,Japan,2008,sorghum,export
+5576,Japan,2009,sorghum,export
+5577,Japan,2010,sorghum,export
+5578,Japan,2011,sorghum,export
+5579,Japan,2012,sorghum,export
+5580,Japan,2013,sorghum,export
+5581,Japan,2014,sorghum,export
+5582,Japan,2015,sorghum,export
+5589,Canada,1990,sorghum,export
+5590,Canada,1991,sorghum,export
+5591,Canada,1992,sorghum,export
+5592,Canada,1993,sorghum,export
+5593,Canada,1994,sorghum,export
+5594,Canada,1995,sorghum,export
+5595,Canada,1996,sorghum,export
+5596,Canada,1997,sorghum,export
+5597,Canada,1998,sorghum,export
+5598,Canada,1999,sorghum,export
+5599,Canada,1900,sorghum,export
+5600,Canada,2001,sorghum,export
+5601,Canada,2002,sorghum,export
+5602,Canada,2003,sorghum,export
+5603,Canada,2004,sorghum,export
+5604,Canada,2005,sorghum,export
+5605,Canada,2006,sorghum,export
+5606,Canada,2007,sorghum,export
+5607,Canada,2008,sorghum,export
+5608,Canada,2009,sorghum,export
+5609,Canada,2010,sorghum,export
+5610,Canada,2011,sorghum,export
+5611,Canada,2012,sorghum,export
+5612,Canada,2013,sorghum,export
+5613,Canada,2014,sorghum,export
+5614,Canada,2015,sorghum,export
+5621,European Union,1990,sorghum,export
+5622,European Union,1991,sorghum,export
+5623,European Union,1992,sorghum,export
+5624,European Union,1993,sorghum,export
+5625,European Union,1994,sorghum,export
+5626,European Union,1995,sorghum,export
+5627,European Union,1996,sorghum,export
+5628,European Union,1997,sorghum,export
+5629,European Union,1998,sorghum,export
+5630,European Union,1999,sorghum,export
+5631,European Union,1900,sorghum,export
+5632,European Union,2001,sorghum,export
+5633,European Union,2002,sorghum,export
+5634,European Union,2003,sorghum,export
+5635,European Union,2004,sorghum,export
+5636,European Union,2005,sorghum,export
+5637,European Union,2006,sorghum,export
+5638,European Union,2007,sorghum,export
+5639,European Union,2008,sorghum,export
+5640,European Union,2009,sorghum,export
+5641,European Union,2010,sorghum,export
+5642,European Union,2011,sorghum,export
+5643,European Union,2012,sorghum,export
+5644,European Union,2013,sorghum,export
+5645,European Union,2014,sorghum,export
+5646,European Union,2015,sorghum,export
+5653,South Korea,1990,sorghum,export
+5654,South Korea,1991,sorghum,export
+5655,South Korea,1992,sorghum,export
+5656,South Korea,1993,sorghum,export
+5657,South Korea,1994,sorghum,export
+5658,South Korea,1995,sorghum,export
+5659,South Korea,1996,sorghum,export
+5660,South Korea,1997,sorghum,export
+5661,South Korea,1998,sorghum,export
+5662,South Korea,1999,sorghum,export
+5663,South Korea,1900,sorghum,export
+5664,South Korea,2001,sorghum,export
+5665,South Korea,2002,sorghum,export
+5666,South Korea,2003,sorghum,export
+5667,South Korea,2004,sorghum,export
+5668,South Korea,2005,sorghum,export
+5669,South Korea,2006,sorghum,export
+5670,South Korea,2007,sorghum,export
+5671,South Korea,2008,sorghum,export
+5672,South Korea,2009,sorghum,export
+5673,South Korea,2010,sorghum,export
+5674,South Korea,2011,sorghum,export
+5675,South Korea,2012,sorghum,export
+5676,South Korea,2013,sorghum,export
+5677,South Korea,2014,sorghum,export
+5678,South Korea,2015,sorghum,export
+5685,Uruguay,1990,sorghum,export
+5686,Uruguay,1991,sorghum,export
+5687,Uruguay,1992,sorghum,export
+5688,Uruguay,1993,sorghum,export
+5689,Uruguay,1994,sorghum,export
+5690,Uruguay,1995,sorghum,export
+5691,Uruguay,1996,sorghum,export
+5692,Uruguay,1997,sorghum,export
+5693,Uruguay,1998,sorghum,export
+5694,Uruguay,1999,sorghum,export
+5695,Uruguay,1900,sorghum,export
+5696,Uruguay,2001,sorghum,export
+5697,Uruguay,2002,sorghum,export
+5698,Uruguay,2003,sorghum,export
+5699,Uruguay,2004,sorghum,export
+5700,Uruguay,2005,sorghum,export
+5701,Uruguay,2006,sorghum,export
+5702,Uruguay,2007,sorghum,export
+5703,Uruguay,2008,sorghum,export
+5704,Uruguay,2009,sorghum,export
+5705,Uruguay,2010,sorghum,export
+5706,Uruguay,2011,sorghum,export
+5707,Uruguay,2012,sorghum,export
+5708,Uruguay,2013,sorghum,export
+5709,Uruguay,2014,sorghum,export
+5710,Uruguay,2015,sorghum,export
+5717,Argentina,1990,sorghum,export
+5718,Argentina,1991,sorghum,export
+5719,Argentina,1992,sorghum,export
+5720,Argentina,1993,sorghum,export
+5721,Argentina,1994,sorghum,export
+5722,Argentina,1995,sorghum,export
+5723,Argentina,1996,sorghum,export
+5724,Argentina,1997,sorghum,export
+5725,Argentina,1998,sorghum,export
+5726,Argentina,1999,sorghum,export
+5727,Argentina,1900,sorghum,export
+5728,Argentina,2001,sorghum,export
+5729,Argentina,2002,sorghum,export
+5730,Argentina,2003,sorghum,export
+5731,Argentina,2004,sorghum,export
+5732,Argentina,2005,sorghum,export
+5733,Argentina,2006,sorghum,export
+5734,Argentina,2007,sorghum,export
+5735,Argentina,2008,sorghum,export
+5736,Argentina,2009,sorghum,export
+5737,Argentina,2010,sorghum,export
+5738,Argentina,2011,sorghum,export
+5739,Argentina,2012,sorghum,export
+5740,Argentina,2013,sorghum,export
+5741,Argentina,2014,sorghum,export
+5742,Argentina,2015,sorghum,export
+5749,Pakistan,1990,sorghum,export
+5750,Pakistan,1991,sorghum,export
+5751,Pakistan,1992,sorghum,export
+5752,Pakistan,1993,sorghum,export
+5753,Pakistan,1994,sorghum,export
+5754,Pakistan,1995,sorghum,export
+5755,Pakistan,1996,sorghum,export
+5756,Pakistan,1997,sorghum,export
+5757,Pakistan,1998,sorghum,export
+5758,Pakistan,1999,sorghum,export
+5759,Pakistan,1900,sorghum,export
+5760,Pakistan,2001,sorghum,export
+5761,Pakistan,2002,sorghum,export
+5762,Pakistan,2003,sorghum,export
+5763,Pakistan,2004,sorghum,export
+5764,Pakistan,2005,sorghum,export
+5765,Pakistan,2006,sorghum,export
+5766,Pakistan,2007,sorghum,export
+5767,Pakistan,2008,sorghum,export
+5768,Pakistan,2009,sorghum,export
+5769,Pakistan,2010,sorghum,export
+5770,Pakistan,2011,sorghum,export
+5771,Pakistan,2012,sorghum,export
+5772,Pakistan,2013,sorghum,export
+5773,Pakistan,2014,sorghum,export
+5774,Pakistan,2015,sorghum,export
+5781,Tunisia,1990,sorghum,export
+5782,Tunisia,1991,sorghum,export
+5783,Tunisia,1992,sorghum,export
+5784,Tunisia,1993,sorghum,export
+5785,Tunisia,1994,sorghum,export
+5786,Tunisia,1995,sorghum,export
+5787,Tunisia,1996,sorghum,export
+5788,Tunisia,1997,sorghum,export
+5789,Tunisia,1998,sorghum,export
+5790,Tunisia,1999,sorghum,export
+5791,Tunisia,1900,sorghum,export
+5792,Tunisia,2001,sorghum,export
+5793,Tunisia,2002,sorghum,export
+5794,Tunisia,2003,sorghum,export
+5795,Tunisia,2004,sorghum,export
+5796,Tunisia,2005,sorghum,export
+5797,Tunisia,2006,sorghum,export
+5798,Tunisia,2007,sorghum,export
+5799,Tunisia,2008,sorghum,export
+5800,Tunisia,2009,sorghum,export
+5801,Tunisia,2010,sorghum,export
+5802,Tunisia,2011,sorghum,export
+5803,Tunisia,2012,sorghum,export
+5804,Tunisia,2013,sorghum,export
+5805,Tunisia,2014,sorghum,export
+5806,Tunisia,2015,sorghum,export
+5813,Algeria,1990,sorghum,export
+5814,Algeria,1991,sorghum,export
+5815,Algeria,1992,sorghum,export
+5816,Algeria,1993,sorghum,export
+5817,Algeria,1994,sorghum,export
+5818,Algeria,1995,sorghum,export
+5819,Algeria,1996,sorghum,export
+5820,Algeria,1997,sorghum,export
+5821,Algeria,1998,sorghum,export
+5822,Algeria,1999,sorghum,export
+5823,Algeria,1900,sorghum,export
+5824,Algeria,2001,sorghum,export
+5825,Algeria,2002,sorghum,export
+5826,Algeria,2003,sorghum,export
+5827,Algeria,2004,sorghum,export
+5828,Algeria,2005,sorghum,export
+5829,Algeria,2006,sorghum,export
+5830,Algeria,2007,sorghum,export
+5831,Algeria,2008,sorghum,export
+5832,Algeria,2009,sorghum,export
+5833,Algeria,2010,sorghum,export
+5834,Algeria,2011,sorghum,export
+5835,Algeria,2012,sorghum,export
+5836,Algeria,2013,sorghum,export
+5837,Algeria,2014,sorghum,export
+5838,Algeria,2015,sorghum,export
+5845,Brazil,1990,sorghum,export
+5846,Brazil,1991,sorghum,export
+5847,Brazil,1992,sorghum,export
+5848,Brazil,1993,sorghum,export
+5849,Brazil,1994,sorghum,export
+5850,Brazil,1995,sorghum,export
+5851,Brazil,1996,sorghum,export
+5852,Brazil,1997,sorghum,export
+5853,Brazil,1998,sorghum,export
+5854,Brazil,1999,sorghum,export
+5855,Brazil,1900,sorghum,export
+5856,Brazil,2001,sorghum,export
+5857,Brazil,2002,sorghum,export
+5858,Brazil,2003,sorghum,export
+5859,Brazil,2004,sorghum,export
+5860,Brazil,2005,sorghum,export
+5861,Brazil,2006,sorghum,export
+5862,Brazil,2007,sorghum,export
+5863,Brazil,2008,sorghum,export
+5864,Brazil,2009,sorghum,export
+5865,Brazil,2010,sorghum,export
+5866,Brazil,2011,sorghum,export
+5867,Brazil,2012,sorghum,export
+5868,Brazil,2013,sorghum,export
+5869,Brazil,2014,sorghum,export
+5870,Brazil,2015,sorghum,export
+5877,Australia,1990,sorghum,export
+5878,Australia,1991,sorghum,export
+5879,Australia,1992,sorghum,export
+5880,Australia,1993,sorghum,export
+5881,Australia,1994,sorghum,export
+5882,Australia,1995,sorghum,export
+5883,Australia,1996,sorghum,export
+5884,Australia,1997,sorghum,export
+5885,Australia,1998,sorghum,export
+5886,Australia,1999,sorghum,export
+5887,Australia,1900,sorghum,export
+5888,Australia,2001,sorghum,export
+5889,Australia,2002,sorghum,export
+5890,Australia,2003,sorghum,export
+5891,Australia,2004,sorghum,export
+5892,Australia,2005,sorghum,export
+5893,Australia,2006,sorghum,export
+5894,Australia,2007,sorghum,export
+5895,Australia,2008,sorghum,export
+5896,Australia,2009,sorghum,export
+5897,Australia,2010,sorghum,export
+5898,Australia,2011,sorghum,export
+5899,Australia,2012,sorghum,export
+5900,Australia,2013,sorghum,export
+5901,Australia,2014,sorghum,export
+5902,Australia,2015,sorghum,export
+5909,Thailand,1990,sorghum,export
+5910,Thailand,1991,sorghum,export
+5911,Thailand,1992,sorghum,export
+5912,Thailand,1993,sorghum,export
+5913,Thailand,1994,sorghum,export
+5914,Thailand,1995,sorghum,export
+5915,Thailand,1996,sorghum,export
+5916,Thailand,1997,sorghum,export
+5917,Thailand,1998,sorghum,export
+5918,Thailand,1999,sorghum,export
+5919,Thailand,1900,sorghum,export
+5920,Thailand,2001,sorghum,export
+5921,Thailand,2002,sorghum,export
+5922,Thailand,2003,sorghum,export
+5923,Thailand,2004,sorghum,export
+5924,Thailand,2005,sorghum,export
+5925,Thailand,2006,sorghum,export
+5926,Thailand,2007,sorghum,export
+5927,Thailand,2008,sorghum,export
+5928,Thailand,2009,sorghum,export
+5929,Thailand,2010,sorghum,export
+5930,Thailand,2011,sorghum,export
+5931,Thailand,2012,sorghum,export
+5932,Thailand,2013,sorghum,export
+5933,Thailand,2014,sorghum,export
+5934,Thailand,2015,sorghum,export
+5941,Bangladesh,1990,sorghum,export
+5942,Bangladesh,1991,sorghum,export
+5943,Bangladesh,1992,sorghum,export
+5944,Bangladesh,1993,sorghum,export
+5945,Bangladesh,1994,sorghum,export
+5946,Bangladesh,1995,sorghum,export
+5947,Bangladesh,1996,sorghum,export
+5948,Bangladesh,1997,sorghum,export
+5949,Bangladesh,1998,sorghum,export
+5950,Bangladesh,1999,sorghum,export
+5951,Bangladesh,1900,sorghum,export
+5952,Bangladesh,2001,sorghum,export
+5953,Bangladesh,2002,sorghum,export
+5954,Bangladesh,2003,sorghum,export
+5955,Bangladesh,2004,sorghum,export
+5956,Bangladesh,2005,sorghum,export
+5957,Bangladesh,2006,sorghum,export
+5958,Bangladesh,2007,sorghum,export
+5959,Bangladesh,2008,sorghum,export
+5960,Bangladesh,2009,sorghum,export
+5961,Bangladesh,2010,sorghum,export
+5962,Bangladesh,2011,sorghum,export
+5963,Bangladesh,2012,sorghum,export
+5964,Bangladesh,2013,sorghum,export
+5965,Bangladesh,2014,sorghum,export
+5966,Bangladesh,2015,sorghum,export
+5973,Chile,1990,sorghum,export
+5974,Chile,1991,sorghum,export
+5975,Chile,1992,sorghum,export
+5976,Chile,1993,sorghum,export
+5977,Chile,1994,sorghum,export
+5978,Chile,1995,sorghum,export
+5979,Chile,1996,sorghum,export
+5980,Chile,1997,sorghum,export
+5981,Chile,1998,sorghum,export
+5982,Chile,1999,sorghum,export
+5983,Chile,1900,sorghum,export
+5984,Chile,2001,sorghum,export
+5985,Chile,2002,sorghum,export
+5986,Chile,2003,sorghum,export
+5987,Chile,2004,sorghum,export
+5988,Chile,2005,sorghum,export
+5989,Chile,2006,sorghum,export
+5990,Chile,2007,sorghum,export
+5991,Chile,2008,sorghum,export
+5992,Chile,2009,sorghum,export
+5993,Chile,2010,sorghum,export
+5994,Chile,2011,sorghum,export
+5995,Chile,2012,sorghum,export
+5996,Chile,2013,sorghum,export
+5997,Chile,2014,sorghum,export
+5998,Chile,2015,sorghum,export
+6005,Colombia,1990,sorghum,export
+6006,Colombia,1991,sorghum,export
+6007,Colombia,1992,sorghum,export
+6008,Colombia,1993,sorghum,export
+6009,Colombia,1994,sorghum,export
+6010,Colombia,1995,sorghum,export
+6011,Colombia,1996,sorghum,export
+6012,Colombia,1997,sorghum,export
+6013,Colombia,1998,sorghum,export
+6014,Colombia,1999,sorghum,export
+6015,Colombia,1900,sorghum,export
+6016,Colombia,2001,sorghum,export
+6017,Colombia,2002,sorghum,export
+6018,Colombia,2003,sorghum,export
+6019,Colombia,2004,sorghum,export
+6020,Colombia,2005,sorghum,export
+6021,Colombia,2006,sorghum,export
+6022,Colombia,2007,sorghum,export
+6023,Colombia,2008,sorghum,export
+6024,Colombia,2009,sorghum,export
+6025,Colombia,2010,sorghum,export
+6026,Colombia,2011,sorghum,export
+6027,Colombia,2012,sorghum,export
+6028,Colombia,2013,sorghum,export
+6029,Colombia,2014,sorghum,export
+6030,Colombia,2015,sorghum,export
+6037,Ecuador,1990,sorghum,export
+6038,Ecuador,1991,sorghum,export
+6039,Ecuador,1992,sorghum,export
+6040,Ecuador,1993,sorghum,export
+6041,Ecuador,1994,sorghum,export
+6042,Ecuador,1995,sorghum,export
+6043,Ecuador,1996,sorghum,export
+6044,Ecuador,1997,sorghum,export
+6045,Ecuador,1998,sorghum,export
+6046,Ecuador,1999,sorghum,export
+6047,Ecuador,1900,sorghum,export
+6048,Ecuador,2001,sorghum,export
+6049,Ecuador,2002,sorghum,export
+6050,Ecuador,2003,sorghum,export
+6051,Ecuador,2004,sorghum,export
+6052,Ecuador,2005,sorghum,export
+6053,Ecuador,2006,sorghum,export
+6054,Ecuador,2007,sorghum,export
+6055,Ecuador,2008,sorghum,export
+6056,Ecuador,2009,sorghum,export
+6057,Ecuador,2010,sorghum,export
+6058,Ecuador,2011,sorghum,export
+6059,Ecuador,2012,sorghum,export
+6060,Ecuador,2013,sorghum,export
+6061,Ecuador,2014,sorghum,export
+6062,Ecuador,2015,sorghum,export
+6069,Egypt,1990,sorghum,export
+6070,Egypt,1991,sorghum,export
+6071,Egypt,1992,sorghum,export
+6072,Egypt,1993,sorghum,export
+6073,Egypt,1994,sorghum,export
+6074,Egypt,1995,sorghum,export
+6075,Egypt,1996,sorghum,export
+6076,Egypt,1997,sorghum,export
+6077,Egypt,1998,sorghum,export
+6078,Egypt,1999,sorghum,export
+6079,Egypt,1900,sorghum,export
+6080,Egypt,2001,sorghum,export
+6081,Egypt,2002,sorghum,export
+6082,Egypt,2003,sorghum,export
+6083,Egypt,2004,sorghum,export
+6084,Egypt,2005,sorghum,export
+6085,Egypt,2006,sorghum,export
+6086,Egypt,2007,sorghum,export
+6087,Egypt,2008,sorghum,export
+6088,Egypt,2009,sorghum,export
+6089,Egypt,2010,sorghum,export
+6090,Egypt,2011,sorghum,export
+6091,Egypt,2012,sorghum,export
+6092,Egypt,2013,sorghum,export
+6093,Egypt,2014,sorghum,export
+6094,Egypt,2015,sorghum,export
+6101,India,1990,sorghum,export
+6102,India,1991,sorghum,export
+6103,India,1992,sorghum,export
+6104,India,1993,sorghum,export
+6105,India,1994,sorghum,export
+6106,India,1995,sorghum,export
+6107,India,1996,sorghum,export
+6108,India,1997,sorghum,export
+6109,India,1998,sorghum,export
+6110,India,1999,sorghum,export
+6111,India,1900,sorghum,export
+6112,India,2001,sorghum,export
+6113,India,2002,sorghum,export
+6114,India,2003,sorghum,export
+6115,India,2004,sorghum,export
+6116,India,2005,sorghum,export
+6117,India,2006,sorghum,export
+6118,India,2007,sorghum,export
+6119,India,2008,sorghum,export
+6120,India,2009,sorghum,export
+6121,India,2010,sorghum,export
+6122,India,2011,sorghum,export
+6123,India,2012,sorghum,export
+6124,India,2013,sorghum,export
+6125,India,2014,sorghum,export
+6126,India,2015,sorghum,export
+6133,Indonesia,1990,sorghum,export
+6134,Indonesia,1991,sorghum,export
+6135,Indonesia,1992,sorghum,export
+6136,Indonesia,1993,sorghum,export
+6137,Indonesia,1994,sorghum,export
+6138,Indonesia,1995,sorghum,export
+6139,Indonesia,1996,sorghum,export
+6140,Indonesia,1997,sorghum,export
+6141,Indonesia,1998,sorghum,export
+6142,Indonesia,1999,sorghum,export
+6143,Indonesia,1900,sorghum,export
+6144,Indonesia,2001,sorghum,export
+6145,Indonesia,2002,sorghum,export
+6146,Indonesia,2003,sorghum,export
+6147,Indonesia,2004,sorghum,export
+6148,Indonesia,2005,sorghum,export
+6149,Indonesia,2006,sorghum,export
+6150,Indonesia,2007,sorghum,export
+6151,Indonesia,2008,sorghum,export
+6152,Indonesia,2009,sorghum,export
+6153,Indonesia,2010,sorghum,export
+6154,Indonesia,2011,sorghum,export
+6155,Indonesia,2012,sorghum,export
+6156,Indonesia,2013,sorghum,export
+6157,Indonesia,2014,sorghum,export
+6158,Indonesia,2015,sorghum,export
+6165,Iran,1990,sorghum,export
+6166,Iran,1991,sorghum,export
+6167,Iran,1992,sorghum,export
+6168,Iran,1993,sorghum,export
+6169,Iran,1994,sorghum,export
+6170,Iran,1995,sorghum,export
+6171,Iran,1996,sorghum,export
+6172,Iran,1997,sorghum,export
+6173,Iran,1998,sorghum,export
+6174,Iran,1999,sorghum,export
+6175,Iran,1900,sorghum,export
+6176,Iran,2001,sorghum,export
+6177,Iran,2002,sorghum,export
+6178,Iran,2003,sorghum,export
+6179,Iran,2004,sorghum,export
+6180,Iran,2005,sorghum,export
+6181,Iran,2006,sorghum,export
+6182,Iran,2007,sorghum,export
+6183,Iran,2008,sorghum,export
+6184,Iran,2009,sorghum,export
+6185,Iran,2010,sorghum,export
+6186,Iran,2011,sorghum,export
+6187,Iran,2012,sorghum,export
+6188,Iran,2013,sorghum,export
+6189,Iran,2014,sorghum,export
+6190,Iran,2015,sorghum,export
+6197,Israel,1990,sorghum,export
+6198,Israel,1991,sorghum,export
+6199,Israel,1992,sorghum,export
+6200,Israel,1993,sorghum,export
+6201,Israel,1994,sorghum,export
+6202,Israel,1995,sorghum,export
+6203,Israel,1996,sorghum,export
+6204,Israel,1997,sorghum,export
+6205,Israel,1998,sorghum,export
+6206,Israel,1999,sorghum,export
+6207,Israel,1900,sorghum,export
+6208,Israel,2001,sorghum,export
+6209,Israel,2002,sorghum,export
+6210,Israel,2003,sorghum,export
+6211,Israel,2004,sorghum,export
+6212,Israel,2005,sorghum,export
+6213,Israel,2006,sorghum,export
+6214,Israel,2007,sorghum,export
+6215,Israel,2008,sorghum,export
+6216,Israel,2009,sorghum,export
+6217,Israel,2010,sorghum,export
+6218,Israel,2011,sorghum,export
+6219,Israel,2012,sorghum,export
+6220,Israel,2013,sorghum,export
+6221,Israel,2014,sorghum,export
+6222,Israel,2015,sorghum,export
+6229,Morocco,1990,sorghum,export
+6230,Morocco,1991,sorghum,export
+6231,Morocco,1992,sorghum,export
+6232,Morocco,1993,sorghum,export
+6233,Morocco,1994,sorghum,export
+6234,Morocco,1995,sorghum,export
+6235,Morocco,1996,sorghum,export
+6236,Morocco,1997,sorghum,export
+6237,Morocco,1998,sorghum,export
+6238,Morocco,1999,sorghum,export
+6239,Morocco,1900,sorghum,export
+6240,Morocco,2001,sorghum,export
+6241,Morocco,2002,sorghum,export
+6242,Morocco,2003,sorghum,export
+6243,Morocco,2004,sorghum,export
+6244,Morocco,2005,sorghum,export
+6245,Morocco,2006,sorghum,export
+6246,Morocco,2007,sorghum,export
+6247,Morocco,2008,sorghum,export
+6248,Morocco,2009,sorghum,export
+6249,Morocco,2010,sorghum,export
+6250,Morocco,2011,sorghum,export
+6251,Morocco,2012,sorghum,export
+6252,Morocco,2013,sorghum,export
+6253,Morocco,2014,sorghum,export
+6254,Morocco,2015,sorghum,export
+6261,Other Europe,1990,sorghum,export
+6262,Other Europe,1991,sorghum,export
+6263,Other Europe,1992,sorghum,export
+6264,Other Europe,1993,sorghum,export
+6265,Other Europe,1994,sorghum,export
+6266,Other Europe,1995,sorghum,export
+6267,Other Europe,1996,sorghum,export
+6268,Other Europe,1997,sorghum,export
+6269,Other Europe,1998,sorghum,export
+6270,Other Europe,1999,sorghum,export
+6271,Other Europe,1900,sorghum,export
+6272,Other Europe,2001,sorghum,export
+6273,Other Europe,2002,sorghum,export
+6274,Other Europe,2003,sorghum,export
+6275,Other Europe,2004,sorghum,export
+6276,Other Europe,2005,sorghum,export
+6277,Other Europe,2006,sorghum,export
+6278,Other Europe,2007,sorghum,export
+6279,Other Europe,2008,sorghum,export
+6280,Other Europe,2009,sorghum,export
+6281,Other Europe,2010,sorghum,export
+6282,Other Europe,2011,sorghum,export
+6283,Other Europe,2012,sorghum,export
+6284,Other Europe,2013,sorghum,export
+6285,Other Europe,2014,sorghum,export
+6286,Other Europe,2015,sorghum,export
+6293,Paraguay,1990,sorghum,export
+6294,Paraguay,1991,sorghum,export
+6295,Paraguay,1992,sorghum,export
+6296,Paraguay,1993,sorghum,export
+6297,Paraguay,1994,sorghum,export
+6298,Paraguay,1995,sorghum,export
+6299,Paraguay,1996,sorghum,export
+6300,Paraguay,1997,sorghum,export
+6301,Paraguay,1998,sorghum,export
+6302,Paraguay,1999,sorghum,export
+6303,Paraguay,1900,sorghum,export
+6304,Paraguay,2001,sorghum,export
+6305,Paraguay,2002,sorghum,export
+6306,Paraguay,2003,sorghum,export
+6307,Paraguay,2004,sorghum,export
+6308,Paraguay,2005,sorghum,export
+6309,Paraguay,2006,sorghum,export
+6310,Paraguay,2007,sorghum,export
+6311,Paraguay,2008,sorghum,export
+6312,Paraguay,2009,sorghum,export
+6313,Paraguay,2010,sorghum,export
+6314,Paraguay,2011,sorghum,export
+6315,Paraguay,2012,sorghum,export
+6316,Paraguay,2013,sorghum,export
+6317,Paraguay,2014,sorghum,export
+6318,Paraguay,2015,sorghum,export
+6325,Philippines,1990,sorghum,export
+6326,Philippines,1991,sorghum,export
+6327,Philippines,1992,sorghum,export
+6328,Philippines,1993,sorghum,export
+6329,Philippines,1994,sorghum,export
+6330,Philippines,1995,sorghum,export
+6331,Philippines,1996,sorghum,export
+6332,Philippines,1997,sorghum,export
+6333,Philippines,1998,sorghum,export
+6334,Philippines,1999,sorghum,export
+6335,Philippines,1900,sorghum,export
+6336,Philippines,2001,sorghum,export
+6337,Philippines,2002,sorghum,export
+6338,Philippines,2003,sorghum,export
+6339,Philippines,2004,sorghum,export
+6340,Philippines,2005,sorghum,export
+6341,Philippines,2006,sorghum,export
+6342,Philippines,2007,sorghum,export
+6343,Philippines,2008,sorghum,export
+6344,Philippines,2009,sorghum,export
+6345,Philippines,2010,sorghum,export
+6346,Philippines,2011,sorghum,export
+6347,Philippines,2012,sorghum,export
+6348,Philippines,2013,sorghum,export
+6349,Philippines,2014,sorghum,export
+6350,Philippines,2015,sorghum,export
+6357,Saudi Arabia,1990,sorghum,export
+6358,Saudi Arabia,1991,sorghum,export
+6359,Saudi Arabia,1992,sorghum,export
+6360,Saudi Arabia,1993,sorghum,export
+6361,Saudi Arabia,1994,sorghum,export
+6362,Saudi Arabia,1995,sorghum,export
+6363,Saudi Arabia,1996,sorghum,export
+6364,Saudi Arabia,1997,sorghum,export
+6365,Saudi Arabia,1998,sorghum,export
+6366,Saudi Arabia,1999,sorghum,export
+6367,Saudi Arabia,1900,sorghum,export
+6368,Saudi Arabia,2001,sorghum,export
+6369,Saudi Arabia,2002,sorghum,export
+6370,Saudi Arabia,2003,sorghum,export
+6371,Saudi Arabia,2004,sorghum,export
+6372,Saudi Arabia,2005,sorghum,export
+6373,Saudi Arabia,2006,sorghum,export
+6374,Saudi Arabia,2007,sorghum,export
+6375,Saudi Arabia,2008,sorghum,export
+6376,Saudi Arabia,2009,sorghum,export
+6377,Saudi Arabia,2010,sorghum,export
+6378,Saudi Arabia,2011,sorghum,export
+6379,Saudi Arabia,2012,sorghum,export
+6380,Saudi Arabia,2013,sorghum,export
+6381,Saudi Arabia,2014,sorghum,export
+6382,Saudi Arabia,2015,sorghum,export
+6389,Turkey,1990,sorghum,export
+6390,Turkey,1991,sorghum,export
+6391,Turkey,1992,sorghum,export
+6392,Turkey,1993,sorghum,export
+6393,Turkey,1994,sorghum,export
+6394,Turkey,1995,sorghum,export
+6395,Turkey,1996,sorghum,export
+6396,Turkey,1997,sorghum,export
+6397,Turkey,1998,sorghum,export
+6398,Turkey,1999,sorghum,export
+6399,Turkey,1900,sorghum,export
+6400,Turkey,2001,sorghum,export
+6401,Turkey,2002,sorghum,export
+6402,Turkey,2003,sorghum,export
+6403,Turkey,2004,sorghum,export
+6404,Turkey,2005,sorghum,export
+6405,Turkey,2006,sorghum,export
+6406,Turkey,2007,sorghum,export
+6407,Turkey,2008,sorghum,export
+6408,Turkey,2009,sorghum,export
+6409,Turkey,2010,sorghum,export
+6410,Turkey,2011,sorghum,export
+6411,Turkey,2012,sorghum,export
+6412,Turkey,2013,sorghum,export
+6413,Turkey,2014,sorghum,export
+6414,Turkey,2015,sorghum,export
+6421,United Arab Emirates,1990,sorghum,export
+6422,United Arab Emirates,1991,sorghum,export
+6423,United Arab Emirates,1992,sorghum,export
+6424,United Arab Emirates,1993,sorghum,export
+6425,United Arab Emirates,1994,sorghum,export
+6426,United Arab Emirates,1995,sorghum,export
+6427,United Arab Emirates,1996,sorghum,export
+6428,United Arab Emirates,1997,sorghum,export
+6429,United Arab Emirates,1998,sorghum,export
+6430,United Arab Emirates,1999,sorghum,export
+6431,United Arab Emirates,1900,sorghum,export
+6432,United Arab Emirates,2001,sorghum,export
+6433,United Arab Emirates,2002,sorghum,export
+6434,United Arab Emirates,2003,sorghum,export
+6435,United Arab Emirates,2004,sorghum,export
+6436,United Arab Emirates,2005,sorghum,export
+6437,United Arab Emirates,2006,sorghum,export
+6438,United Arab Emirates,2007,sorghum,export
+6439,United Arab Emirates,2008,sorghum,export
+6440,United Arab Emirates,2009,sorghum,export
+6441,United Arab Emirates,2010,sorghum,export
+6442,United Arab Emirates,2011,sorghum,export
+6443,United Arab Emirates,2012,sorghum,export
+6444,United Arab Emirates,2013,sorghum,export
+6445,United Arab Emirates,2014,sorghum,export
+6446,United Arab Emirates,2015,sorghum,export
+6453,Vietnam,1990,sorghum,export
+6454,Vietnam,1991,sorghum,export
+6455,Vietnam,1992,sorghum,export
+6456,Vietnam,1993,sorghum,export
+6457,Vietnam,1994,sorghum,export
+6458,Vietnam,1995,sorghum,export
+6459,Vietnam,1996,sorghum,export
+6460,Vietnam,1997,sorghum,export
+6461,Vietnam,1998,sorghum,export
+6462,Vietnam,1999,sorghum,export
+6463,Vietnam,1900,sorghum,export
+6464,Vietnam,2001,sorghum,export
+6465,Vietnam,2002,sorghum,export
+6466,Vietnam,2003,sorghum,export
+6467,Vietnam,2004,sorghum,export
+6468,Vietnam,2005,sorghum,export
+6469,Vietnam,2006,sorghum,export
+6470,Vietnam,2007,sorghum,export
+6471,Vietnam,2008,sorghum,export
+6472,Vietnam,2009,sorghum,export
+6473,Vietnam,2010,sorghum,export
+6474,Vietnam,2011,sorghum,export
+6475,Vietnam,2012,sorghum,export
+6476,Vietnam,2013,sorghum,export
+6477,Vietnam,2014,sorghum,export
+6478,Vietnam,2015,sorghum,export
