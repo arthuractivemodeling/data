@@ -1,0 +1,260 @@
+,Country,Year,Grain,Direction
+29,Canada,2019,corn,import
+61,Argentina,2019,corn,import
+93,Brazil,2019,corn,import
+125,Mexico,2019,corn,import
+157,Chile,2019,corn,import
+189,Turkey,2019,corn,import
+221,Peru,2019,corn,import
+253,European Union,2019,corn,import
+285,China,2019,corn,import
+317,Colombia,2019,corn,import
+349,Sub-Saharan Africa,2019,corn,import
+381,Vietnam,2019,corn,import
+413,Bolivia,2019,corn,import
+445,Ecuador,2019,corn,import
+477,Pakistan,2019,corn,import
+509,Uruguay,2019,corn,import
+541,Australia,2019,corn,import
+573,Dominican Republic,2019,corn,import
+605,Egypt,2019,corn,import
+637,Haiti,2019,corn,import
+669,Honduras,2019,corn,import
+701,India,2019,corn,import
+733,Indonesia,2019,corn,import
+765,Israel,2019,corn,import
+797,Japan,2019,corn,import
+829,Other Europe,2019,corn,import
+861,Paraguay,2019,corn,import
+893,Philippines,2019,corn,import
+925,South Korea,2019,corn,import
+957,Thailand,2019,corn,import
+989,United Arab Emirates,2019,corn,import
+1021,Canada,2019,malting barley,import
+1054,European Union,2019,malting barley,import
+1087,Argentina,2019,malting barley,import
+1120,Mexico,2019,malting barley,import
+1153,India,2019,malting barley,import
+1186,China,2019,malting barley,import
+1219,South Korea,2019,malting barley,import
+1252,Sub-Saharan Africa,2019,malting barley,import
+1285,Thailand,2019,malting barley,import
+1318,Uruguay,2019,malting barley,import
+1351,Canada,2019,oats,import
+1384,European Union,2019,oats,import
+1417,Australia,2019,oats,import
+1450,Mexico,2019,oats,import
+1483,South Korea,2019,oats,import
+1516,Chile,2019,oats,import
+1549,Japan,2019,oats,import
+1582,China,2019,oats,import
+1615,Ecuador,2019,oats,import
+1648,India,2019,oats,import
+1681,Peru,2019,oats,import
+1714,Argentina,2019,oats,import
+1747,Colombia,2019,oats,import
+1780,Israel,2019,oats,import
+1813,Jamaica,2019,oats,import
+1846,Malaysia,2019,oats,import
+1879,Other Europe,2019,oats,import
+1912,Paraguay,2019,oats,import
+1945,Philippines,2019,oats,import
+1978,Sub-Saharan Africa,2019,oats,import
+2011,Turkey,2019,oats,import
+2044,United Arab Emirates,2019,oats,import
+2077,Uruguay,2019,oats,import
+2110,Argentina,2019,other barley,import
+2142,Mexico,2019,other barley,import
+2174,European Union,2019,other barley,import
+2206,Canada,2019,other barley,import
+2238,China,2019,other barley,import
+2270,Chile,2019,other barley,import
+2302,Sub-Saharan Africa,2019,other barley,import
+2334,Uruguay,2019,other barley,import
+2366,India,2019,other barley,import
+2398,South Korea,2019,other barley,import
+2430,Bolivia,2019,other barley,import
+2462,Brazil,2019,other barley,import
+2494,Colombia,2019,other barley,import
+2526,Dominican Republic,2019,other barley,import
+2558,Haiti,2019,other barley,import
+2590,Peru,2019,other barley,import
+2622,Turkey,2019,other barley,import
+2654,Argentina,2019,sorghum,import
+2686,Mexico,2019,sorghum,import
+2718,European Union,2019,sorghum,import
+2750,Canada,2019,sorghum,import
+2782,China,2019,sorghum,import
+2814,Chile,2019,sorghum,import
+2846,Sub-Saharan Africa,2019,sorghum,import
+2878,Uruguay,2019,sorghum,import
+2910,India,2019,sorghum,import
+2942,South Korea,2019,sorghum,import
+2974,Bolivia,2019,sorghum,import
+3006,Brazil,2019,sorghum,import
+3038,Colombia,2019,sorghum,import
+3070,Dominican Republic,2019,sorghum,import
+3102,Haiti,2019,sorghum,import
+3134,Peru,2019,sorghum,import
+3166,Turkey,2019,sorghum,import
+3198,China,2019,corn,export
+3230,Mexico,2019,corn,export
+3262,Japan,2019,corn,export
+3294,Colombia,2019,corn,export
+3326,South Korea,2019,corn,export
+3358,Canada,2019,corn,export
+3390,Honduras,2019,corn,export
+3422,Peru,2019,corn,export
+3454,Saudi Arabia,2019,corn,export
+3486,Morocco,2019,corn,export
+3518,Israel,2019,corn,export
+3550,Egypt,2019,corn,export
+3582,Dominican Republic,2019,corn,export
+3614,Vietnam,2019,corn,export
+3646,Jamaica,2019,corn,export
+3678,Chile,2019,corn,export
+3710,Algeria,2019,corn,export
+3742,Indonesia,2019,corn,export
+3774,Tunisia,2019,corn,export
+3806,Jordan,2019,corn,export
+3838,United Arab Emirates,2019,corn,export
+3870,Kuwait,2019,corn,export
+3902,Ecuador,2019,corn,export
+3934,Barbados,2019,corn,export
+3966,Malaysia,2019,corn,export
+3998,European Union,2019,corn,export
+4030,Thailand,2019,corn,export
+4062,Pakistan,2019,corn,export
+4094,Haiti,2019,corn,export
+4126,Philippines,2019,corn,export
+4158,Bahamas,2019,corn,export
+4190,Argentina,2019,corn,export
+4222,Sub-Saharan Africa,2019,corn,export
+4254,Turkey,2019,corn,export
+4286,Brazil,2019,corn,export
+4318,Other Europe,2019,corn,export
+4350,Bangladesh,2019,corn,export
+4382,India,2019,corn,export
+4414,Australia,2019,corn,export
+4446,Bermuda,2019,corn,export
+4478,Bolivia,2019,corn,export
+4510,Iran,2019,corn,export
+4542,Paraguay,2019,corn,export
+4574,Qatar,2019,corn,export
+4606,Sri Lanka,2019,corn,export
+4638,Uruguay,2019,corn,export
+4670,Canada,2019,malting barley,export
+4703,South Korea,2019,malting barley,export
+4736,European Union,2019,malting barley,export
+4769,Chile,2019,malting barley,export
+4802,China,2019,malting barley,export
+4835,India,2019,malting barley,export
+4868,Peru,2019,malting barley,export
+4901,Argentina,2019,malting barley,export
+4934,Australia,2019,malting barley,export
+4967,Bahamas,2019,malting barley,export
+5000,Bermuda,2019,malting barley,export
+5033,Brazil,2019,malting barley,export
+5066,Colombia,2019,malting barley,export
+5099,Dominican Republic,2019,malting barley,export
+5132,Ecuador,2019,malting barley,export
+5165,Egypt,2019,malting barley,export
+5198,Haiti,2019,malting barley,export
+5231,Honduras,2019,malting barley,export
+5264,Indonesia,2019,malting barley,export
+5297,Israel,2019,malting barley,export
+5330,Jamaica,2019,malting barley,export
+5363,Japan,2019,malting barley,export
+5396,Mexico,2019,malting barley,export
+5429,Other Europe,2019,malting barley,export
+5462,Pakistan,2019,malting barley,export
+5495,Philippines,2019,malting barley,export
+5528,Saudi Arabia,2019,malting barley,export
+5561,Sri Lanka,2019,malting barley,export
+5594,Sub-Saharan Africa,2019,malting barley,export
+5627,United Arab Emirates,2019,malting barley,export
+5660,Uruguay,2019,malting barley,export
+5693,China,2019,other barley,export
+5725,Sub-Saharan Africa,2019,other barley,export
+5757,Mexico,2019,other barley,export
+5789,Japan,2019,other barley,export
+5821,Canada,2019,other barley,export
+5853,Haiti,2019,other barley,export
+5885,European Union,2019,other barley,export
+5917,South Korea,2019,other barley,export
+5949,Bolivia,2019,other barley,export
+5981,Uruguay,2019,other barley,export
+6013,Argentina,2019,other barley,export
+6045,Pakistan,2019,other barley,export
+6077,Tunisia,2019,other barley,export
+6109,Algeria,2019,other barley,export
+6141,Brazil,2019,other barley,export
+6173,Australia,2019,other barley,export
+6205,Thailand,2019,other barley,export
+6237,Bahamas,2019,other barley,export
+6269,Bangladesh,2019,other barley,export
+6301,Barbados,2019,other barley,export
+6333,Chile,2019,other barley,export
+6365,Colombia,2019,other barley,export
+6397,Dominican Republic,2019,other barley,export
+6429,Ecuador,2019,other barley,export
+6461,Egypt,2019,other barley,export
+6493,Honduras,2019,other barley,export
+6525,India,2019,other barley,export
+6557,Indonesia,2019,other barley,export
+6589,Iran,2019,other barley,export
+6621,Israel,2019,other barley,export
+6653,Jamaica,2019,other barley,export
+6685,Jordan,2019,other barley,export
+6717,Malaysia,2019,other barley,export
+6749,Morocco,2019,other barley,export
+6781,Other Europe,2019,other barley,export
+6813,Paraguay,2019,other barley,export
+6845,Peru,2019,other barley,export
+6877,Philippines,2019,other barley,export
+6909,Saudi Arabia,2019,other barley,export
+6941,Turkey,2019,other barley,export
+6973,United Arab Emirates,2019,other barley,export
+7005,Vietnam,2019,other barley,export
+7037,China,2019,sorghum,export
+7069,Sub-Saharan Africa,2019,sorghum,export
+7101,Mexico,2019,sorghum,export
+7133,Japan,2019,sorghum,export
+7165,Canada,2019,sorghum,export
+7197,Haiti,2019,sorghum,export
+7229,European Union,2019,sorghum,export
+7261,South Korea,2019,sorghum,export
+7293,Bolivia,2019,sorghum,export
+7325,Uruguay,2019,sorghum,export
+7357,Argentina,2019,sorghum,export
+7389,Pakistan,2019,sorghum,export
+7421,Tunisia,2019,sorghum,export
+7453,Algeria,2019,sorghum,export
+7485,Brazil,2019,sorghum,export
+7517,Australia,2019,sorghum,export
+7549,Thailand,2019,sorghum,export
+7581,Bahamas,2019,sorghum,export
+7613,Bangladesh,2019,sorghum,export
+7645,Barbados,2019,sorghum,export
+7677,Chile,2019,sorghum,export
+7709,Colombia,2019,sorghum,export
+7741,Dominican Republic,2019,sorghum,export
+7773,Ecuador,2019,sorghum,export
+7805,Egypt,2019,sorghum,export
+7837,Honduras,2019,sorghum,export
+7869,India,2019,sorghum,export
+7901,Indonesia,2019,sorghum,export
+7933,Iran,2019,sorghum,export
+7965,Israel,2019,sorghum,export
+7997,Jamaica,2019,sorghum,export
+8029,Jordan,2019,sorghum,export
+8061,Malaysia,2019,sorghum,export
+8093,Morocco,2019,sorghum,export
+8125,Other Europe,2019,sorghum,export
+8157,Paraguay,2019,sorghum,export
+8189,Peru,2019,sorghum,export
+8221,Philippines,2019,sorghum,export
+8253,Saudi Arabia,2019,sorghum,export
+8285,Turkey,2019,sorghum,export
+8317,United Arab Emirates,2019,sorghum,export
+8349,Vietnam,2019,sorghum,export
